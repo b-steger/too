@@ -1,0 +1,19 @@
+
+ * Copyright (C) 2006-2021 by the osm2pgsql developer community.
+ * For a full list of authors see the git log of osm2pgsql.
+ 
+ 
+ osm2pgsql was written by Jon Burgess, Artem Pavlenko, Martijn van Oosterhout
+Sarah Hoffmann, Kai Krueger, Frederik Ramm, Brian Quinion, Matt Amos,
+Kevin Kreiser, Paul Norman, Jochen Topf and other OpenStreetMap project members.
+
+ 
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.

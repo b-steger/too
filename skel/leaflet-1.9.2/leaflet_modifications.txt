@@ -1,0 +1,1 @@
+leaflet.patch is the output of diff -w /upstream/leaflet_1.9.2/leaflet-src.js /this-zim/leaflet-src.js

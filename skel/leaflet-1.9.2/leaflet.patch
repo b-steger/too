@@ -1,0 +1,55 @@
+3225a3226,3233
+>             //b-steger
+>             // @option zoomSnapOrigin: Number = 0
+>             // The default zoomSnap configuration, when drawn on an axis, snaps to points
+>             // that are evenly spaced, but is fixed to start at zoom level 0. For maps with
+>             // a certain maximum zoom level and some missing zoom levels (a use case of The
+>             // offline OpenStreetMap project), an offset into zoomSnap's origin is needed.
+>             zoomSnapOrigin: 0,
+> 
+3988a3997,3998
+>                     //b-steger
+>                     snapOrigin = Browser.any3d ? this.options.zoomSnapOrigin : 0,
+3995a4006
+>                     //b-steger
+3997c4008,4010
+<   			zoom = inside ? Math.ceil(zoom / snap) * snap : Math.floor(zoom / snap) * snap;
+---
+>   		    zoom = inside ? Math.ceil((zoom-snapOrigin) / snap) * snap : Math.floor((zoom-snapOrigin) / snap) * snap;
+>                     //zoom = Math.round(zoom / (snap / 100)) * (snap / 100); // don't jump if within 1% of a snap level
+>   		    //zoom = inside ? Math.ceil(zoom / snap) * snap : Math.floor(zoom / snap) * snap;
+4699c4712,4714
+<   		    snap = Browser.any3d ? this.options.zoomSnap : 1;
+---
+>   		    snap = Browser.any3d ? this.options.zoomSnap : 1,
+>   		    //b-steger
+>   		    zoomSnapOrigin = Browser.any3d ? this.options.zoomSnapOrigin : 0;
+4701c4716,4718
+<   			zoom = Math.round(zoom / snap) * snap;
+---
+>   		    //b-steger
+>   		    zoom = (Math.round((zoom-zoomSnapOrigin) / snap) * snap) + zoomSnapOrigin;
+>   		    //zoom = Math.round(zoom / snap) * snap;
+13980c13997,13999
+<   				map.panBy(offset);
+---
+> 				//b-steger
+> 				map.panBy(offset,{animate:false});
+>   				//map.panBy(offset);
+14065c14084,14086
+<   		    snap = this._map.options.zoomSnap || 0;
+---
+>   		    snap = this._map.options.zoomSnap || 0,
+>                     //b-steger
+>                     snapOrigin = this._map.options.zoomSnapOrigin || 0;
+14072,14073c14093,14099
+<   		    d4 = snap ? Math.ceil(d3 / snap) * snap : d3,
+<   		    delta = map._limitZoom(zoom + (this._delta > 0 ? d4 : -d4)) - zoom;
+---
+>                     //b-steger
+>                     d4 = (d3 + ((this._delta > 0) ? (map.options.zoomDelta-1) : (-1*(map.options.zoomDelta+1)))),
+>                     d5 = (snap && snap > 1) ? (d4 - snapOrigin) : d4,
+>                     d6 = snap ? (Math.ceil(d5 / snap) * snap) : d5,
+>                     delta = map._limitZoom(zoom + d6) - zoom;
+>             /*d4 = snap ? Math.ceil(d3 / snap) * snap : d3,
+>               delta = map._limitZoom(zoom + (this._delta > 0 ? d4 : -d4)) - zoom;*/

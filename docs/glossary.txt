@@ -1,0 +1,207 @@
+
+? suffix in function names
+ Used for functions that return a (generalized) boolean.
+ This suffix, which is widespread in Scheme, is represented as "p" "-p" (predicate) in Common Lisp.
+
+! suffix in function names
+ Functions with a trailing "!" destructively modify (some of) their arguments.
+  Actually, "destructively" is sort of a misnomer as such functions enrich their arguments with important data or modify them in a useful way. Additionally, direct operations on buffers, for example, are pleasantly fast.
+ The Common Lisp equivalent is the "n" prefix.
+ Functions/methods that modify global parameters don't use the ! suffix.
+
+0NF, zeroth normal form
+ Generally, a composite of multiple information pieces.
+ In the context of RDBMS': a schema in which columns are not isolated and consequently contain information with inherent grouping behaviour.
+ In the context of TOO:
+  rendered string with multiple original information pieces.
+  flat symbolic expressions that linearly append nested information.
+
+ABCD 1:n EFGH
+ 1 ABCD lists 0..n EFGHs.
+ Does not mean that EFGH is determined by a value of ABCD, nor that ABCD is determined by a value EFGH.
+
+1NF, first normal form
+ Generally, information pieces without grouped elements.
+ In the context of RDBMS': a schema in which colums use a single domain for its values. Grouping such columns into tables without further consideration may violate higher normal forms, since the columns may exhibit functional dependencies. Insertion, update and deletion anomalies are possible in 1NF.
+ In the context of TOO: symbolic expressions which contain atomar values when they are atomar in the target language / language primitive.
+
+ARGUMENT syntax in comments
+ Referring to an argument of a function/method, to a slot of a class or to a column name of a SQL table/query.
+  In general, the syntax is used to refer to an attribute name of anything with an attribute.
+ Do not confuse capitalized SQL keywords with the ARGUMENT syntax - the inverse merely holds true in this case. For TOO, SQL is just another rendered DSL.
+
+authority
+ Managing the single source of truth across projects with different licensing schemes or across target languages.
+ Typically, sections with "Authority: TOO" are simplified to TOO's use case.
+ For an example, see #'dsl.
+
+buffer
+ A polygon which is derived from a geometric primitive. For each point on its border, the buffer distance must be covered before the original primitive is intersected.
+
+centroid
+ Average of all axis values, calculated for each axis. Reduces every geometric primitive to a point, which must not necessarily lie within the original primitive.
+
+to clamp, clamping
+ Guaranteeing that a value is withing a given range or interval.
+
+cluster
+ SQL command which sorts table data according to an index, leading to an improved cache hit ratio when the covered data is accessed in a sorted order.
+ Collection of nearby points on a map, a strategy to reduce computation time when drawing a map.
+ Spatial indexes group datums into groups with a minimized distance metric, i.e. cluster data, too.
+
+to disambiguate
+ Adding enough information to multiple entries with the same name such that the new names are all mutually exclusive.
+ In TOO, a rank is appended (detailed description is in the "Name lookup" page = src/geocode.lisp).
+
+DSL, domain specific language
+ A language that is fitted to a problem domain. The problem domain is expressed as problem-specific primitives, leading to a remarkably clear mapping of concepts to bits and bytes. External DSLs do not share syntax with the host language, and thus have to be parsed and rendered, whereas internal DSLs can use the host language directly. In Common Lisp, the distinction is blurred because CL hosts reader macros.
+
+easting
+ Coordinate system axis roughly equivalent with longitude. Some coordinate systems have their origin outside the target region, which means that no value is lower than 0.
+
+feature
+ An entity, distinguished from other features by its position and/or attributes. Functionally dependent on a layer.
+
+flavour
+ A configuration of a ZIM file with a specific maximal zoom level. Grouped with other flavours in a release.
+  Example: z09-regionoverview
+ OpenZIM Wiki defines a flavour as: A human readable string describing the way how the content has been scraped. It's the same across versions (should be stable across time).
+
+geometric primitive
+ Point, line, polygon, polygon with inner rings, multipolygon, etc. are all geometric primitives.
+
+ground truth
+ Term used in Remote Sensing in the context of classification validation through sampling. The manually determined attribute on-site.
+ Within TOO, it's the collection of facts in a published planet file, which forms the database, and, subsequently defines the content of tiles, layers and the search index.
+
+index
+ Database: a lookup structure which maps sorted information to tuple locations.
+ Alphabetically sorted list of features which links to the position of a point. Allows for searches by name instead of spatial searches.
+ The ZIM index, feeded by src/geocode.lisp.
+
+index file
+ Welcome file in the ZIM file.
+
+intentation convention in comments
+ Faking symbolic expressions by using a single space. Useful for structuring thoughts or concepts. Different to the list syntax in comments, multiple elements are separated by #\Newline (except when a line lists small things).
+ Users of editors that are capable of indenting wrapped lines (Kate, emacs with elpa-adaptive-wrap) profit from reduced visual distraction.
+
+language primitive
+ Arbitrarily grouped concept of a target language. Typically, the target language itself uses special syntax in order to group the concept, which is why language primitives are typically designed around the syntax of the target language. In lisp-at-work, language primitive instances can be pretty-printed, rendered or passed around. Common Lisp, even though known for "either a list or an atom", has 35 language primitives when fully normalized. This is still a record low when compared to other languages. COBOL, for example, clocks in at 306+ language primitives at the moment, and around 600-3000 are expected (depends on the chosen normalizing level actually).
+
+latlon, latlon value, latlon values
+ A single coordinate pair with LATitude and LONgitude values. Leaflet uses "lng" for longitude.
+ As most values are derived from GPS fixes, they are in WGS 84 = EPSG 4326.
+
+layer
+ Collection of thematically related features or points of interest which show as overlay over a base map. Always reduced to centroids in TOO. All layers must select the latlon and name columns.
+ MBRs are not used in layers (yet?).
+
+layer combination
+ A combination of selectable layers is represented as an integer representing a set of 0/1s.
+ The filesystem - and links as a consequence - print the layer combination in binary form as strings, whereas the internal representation remains the integer.
+ Layer combinations are materialized in the layer-selection/ folder since the user devices may be limited in terms of RAM.
+
+layer name
+ A short, all-lowercase text string, possibly separating words with an underscore. Unique within a collection of layers.
+
+list syntax in comments
+ Separating multiple elements by space alone, much like it is done in symbolic expressions.
+
+ll
+ Lower left corner of a MBR.
+ Sometimes used within functions with optional UR parameters. If no UR is used, LL consequently denotes a simple point that is not a member of a MBR.
+
+LSB
+ Least significant byte
+
+MBR (minimum bounding rectangle)
+ An axis-aligned rectangle whose sides intersect with the outermost points of a geometric primitive. In the 2d case, it is customary to define it through the lower left (ll) and upper right point (ur).
+ May also be used for higher dimensions (hyperrectangles).
+ Also known as the shortened form bbox (bounding box).
+
+Maxi version
+ Largest flavour of a release. Typically not much larger than 100GiB, but really aiming for serious use cases.
+ You won't find "maxi" in the filename, though. The filenames include the region and the maximal zoom level plus its nickname.
+
+Mini version
+ The version with the smallest maximal zoom in a release, and, as a consequence, the smallest file size. Aim: weighing around 1GiB. Must include all layer data and search entries just as every flavour has to.
+
+name in the sense of identifier
+ A short, all-lowercase text string, possibly separating words with an hypen (#\-, i.e. a minus sign).
+ Used for zoom level and region identification in ZIM file names.
+ Layer names, which are used in Javascript files and SQL queries, should not include a #\- and are, as a consequence, no nicknames. The underscore (#\_) is to be used in such a case.
+
+normalizing
+ Increasing the normal form.
+
+northing
+ Coordinate system axis roughly equivalent with latitude.
+
+offline
+ Situation where communication is impossible.
+
+planet file
+ A database dump of the OpenStreetMap covering the whole Earth, the main source of information of the TOO project.
+
+POI, point of interest
+ Place that humans have a concept of. Isn't necessarily a point when represented as a geometric primitive, but typically is. For example, a store which definitively covers an area is typically only conceptualized as the point where the store can be entered (everything else are the necessities to "get to" the store).
+ POIs are represented as points in TOO layers, which may lead to a navigational problem, especially if the POI covers a large area.
+  It's ok as long as the areas are small enough, though.
+  There are stories of car drivers who drove around in the nowhere because their navigation device led them to the centroid of a POI.
+  The ZIM index, which includes large regions, represents non-points as MBRs.
+  Also see "snapped centroid".
+
+quasiquote syntax for classe names in comments (`classname)
+ An approach to semantically differ class names and attributes in comments.
+ Sometimes, the class name is used for an instance of the mentioned class.
+
+quick helper (function), shortcut function
+ Function that is designed to save typing. Provides a convenient interface to more convoluted, but also typically more powerful ways to express the intention.
+ Less guarantees than deeper functions since the quick helpers are commonly used for a specific use case that is typically limited to a small project, a source file or even a flet scope.
+ Typically contains an appended letter #\q in the function name.
+
+region
+ Collection of geographical polygons which are typically used to distinguish other attributes such as culture, language, government structure, etc. Normally vernacular and exhibiting fuzzy borders as a consequence.
+ The universe of a release for the layers, index and tiles, if not for tiles at zoom level 0 up to *max-zoom-level-without-region-limits*.
+
+release
+ Preparation and publication of flavours for a specific region and planet file ground truth. Releases may see evolving layer selections for a given region over time.
+
+render
+ Convert a language primitive instance to a string or stream of file-specific coding elements, respectively.
+ In TOO, language primitives are faked through #'dsl.
+ The conversion of database tuples and symbol files to tiles in Mapnik.
+
+snapped centroid
+ Centroid if it is within a polygon, the closest point on the polygon to the centroid otherwise.
+ Same for lines.
+
+SNIPgeom, SNIPgeom number
+ A self-describing number capable of packing multiple numbers.
+ Packs a latlon point or a MBR in TOO.
+ As this number uses a custom alphabet (radix) in the output, it is represented as a string. Internally, it is a plain number.
+ SNIP means "Separated Numbers In Packet". A decoded SNIP number is "snipped" into its pieces.
+
+standalone
+ Whether the ZIM file should be populated with map tiles. Set to nil during development.
+
+tile, map tile
+ An raster extract of a map which continues graphical primitives of its neighbours, leading to the disappearance when placed amongst the neighbours.
+
+TOO
+ Abbreviation of the name of this project. Project goal: provide an easy-to-use and low-end-device-friendly, offline map with some useful layers and a search index.
+ The software name of the software used to create ZIM files belonging to the TOO project.
+
+ur
+ Upper right corner of a MBR.
+
+user-facing
+ Rendered information with a focus on a visual syntax, not a technical one.
+
+VGI
+ Volunteered Geographic Information
+
+zoom level
+ A number between 0 and 20, both inclusively. Lower numbers cover more area on a tile. A tile at zoom level n contains four tiles at zoom level n+1. 256px tiles sizes consequently result in a zoom level shift when compared to TOO's 1024px tile sizes. If not further specified, a zoom level refers to the 256px tile size.
+

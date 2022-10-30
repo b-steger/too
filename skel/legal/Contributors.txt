@@ -1,0 +1,3443 @@
+Contributors
+
+From OpenStreetMap Wiki
+Jump to navigation Jump to search
+
+  • ●Purge
+  • Help
+
+Contributors - Other languages
+Afrikaans
+asturianu
+azərbaycanca
+Bahasa Indonesia
+Bahasa Melayu
+bosanski
+brezhoneg
+català
+čeština
+dansk
+Deutsch
+eesti
+English
+español
+Esperanto
+euskara
+français
+Frysk
+Gàidhlig
+galego
+hrvatski
+interlingua
+íslenska
+italiano
+Kreyòl ayisyen
+kréyòl gwadloupéyen
+kurdî
+latviešu
+Lëtzebuergesch
+lietuvių
+magyar
+Nederlands
+norsk
+norsk nynorsk
+occitan
+polski
+português
+română
+shqip
+slovenčina
+slovenščina
+srpski (latinica)
+suomi
+svenska
+Tagalog
+Tiếng Việt
+Türkçe
+Zazaki
+Ελληνικά
+беларуская
+български
+македонски
+монгол
+русский
+српски / srpski
+українська
+հայերեն
+עברית
+العربية
+فارسی
+پښتو
+नेपाली
+मराठी
+বাংলা
+தமிழ்
+മലയാളം
+සිංහල
+ไทย
+မြန်မာဘာသာ
+한국어
+ქართული
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+中文（简体）
+中文（繁體）
+日本語
+粵語
+
+  • Other languages
+  • Translate
+
+There are many contributors to OpenStreetMap. There are more than eight million registered OpenStreetMap users.
+
+It is impossible to adequately acknowledge the many individuals who survey their neighbourhoods with GPS and notepad, or trace over licensed satellite imagery, to contribute the most complete, most current, most accurate data to OpenStreetMap. Also, some publishers (listed and attributed below) allow their data to be included in OpenStreetMap.
+
+If you are looking for how to attribute OSM, see Legal FAQ.
+
+Inclusion of data (including data derived from photos) in OpenStreetMap does not imply that the original data provider endorses OpenStreetMap, provides any warranty, or accepts any liability.
+
+[ ]
+
+Contents
+
+  • 1 Finding contributors
+  • 2 Contributor specific attribution and disclaimer
+  • 3 Global / Multiple countries
+      □ 3.1 GADM (Global Administrative Areas)
+      □ 3.2 HOT (Humanitarian OpenStreetMap Team) crisis mapping
+      □ 3.3 EU Copernicus (GMES) data
+      □ 3.4 Natural Earth
+      □ 3.5 Global Land Ice Measurements from Space
+      □ 3.6 World Food Programme Logistics Capacity Assessments
+      □ 3.7 Strava Heatmap
+  • 4 North America and Caribbean
+      □ 4.1 Belize
+      □ 4.2 Canada
+          ☆ 4.2.1 Natural Resources Canada
+              ○ 4.2.1.1 GeoBase
+              ○ 4.2.1.2 GeoGratis
+              ○ 4.2.1.3 CanVec
+              ○ 4.2.1.4 Toporama
+          ☆ 4.2.2 StatCan
+          ☆ 4.2.3 Triplinx Metrolinx
+          ☆ 4.2.4 Canadian provinces
+              ○ 4.2.4.1 British Columbia
+          ☆ 4.2.5 Canadian Municipalities
+              ○ 4.2.5.1 Gatineau
+              ○ 4.2.5.2 Ottawa
+              ○ 4.2.5.3 Montréal
+              ○ 4.2.5.4 Vancouver
+              ○ 4.2.5.5 Laval
+              ○ 4.2.5.6 Burnaby
+              ○ 4.2.5.7 Airdrie
+      □ 4.3 Haiti
+      □ 4.4 Honduras
+      □ 4.5 Mexico
+      □ 4.6 United States
+          ☆ 4.6.1 National-level
+              ○ 4.6.1.1 TIGER
+              ○ 4.6.1.2 USGS - NHD / Orbview-3
+              ○ 4.6.1.3 AASHTO for proposed/approved USBRs
+              ○ 4.6.1.4 PGS, Prototype Global Shoreline Data set
+              ○ 4.6.1.5 District of Columbia OCTO
+              ○ 4.6.1.6 Puerto Rico
+          ☆ 4.6.2 State-level
+              ○ 4.6.2.1 California
+                  ■ 4.6.2.1.1 California Protected Areas Database
+              ○ 4.6.2.2 Connecticut
+              ○ 4.6.2.3 Illinois
+                  ■ 4.6.2.3.1 Illinois Height Modernization LiDAR Data
+              ○ 4.6.2.4 Indiana
+                  ■ 4.6.2.4.1 IndianaMap, Address points
+              ○ 4.6.2.5 Maine
+              ○ 4.6.2.6 Maryland State Government
+              ○ 4.6.2.7 Massachusetts
+                  ■ 4.6.2.7.1 MASSGIS
+              ○ 4.6.2.8 New Jersey
+                  ■ 4.6.2.8.1 Morris County GIS
+              ○ 4.6.2.9 New York
+                  ■ 4.6.2.9.1 Westchester County GIS
+              ○ 4.6.2.10 Ohio
+                  ■ 4.6.2.10.1 CAGIS
+                  ■ 4.6.2.10.2 Clinton County GIS
+                  ■ 4.6.2.10.3 Montgomery County GIS
+              ○ 4.6.2.11 Oklahoma
+              ○ 4.6.2.12 Virginia
+                  ■ 4.6.2.12.1 Virginia Geographic Information Network
+                  ■ 4.6.2.12.2 Virginia Department of Transportation
+                  ■ 4.6.2.12.3 Prince William County
+                  ■ 4.6.2.12.4 City of Williamsburg
+              ○ 4.6.2.13 Washington State
+                  ■ 4.6.2.13.1 City of Bothell, Washington
+                  ■ 4.6.2.13.2 City of Bellingham, Washington
+                  ■ 4.6.2.13.3 City of Seattle, Washington
+                  ■ 4.6.2.13.4 King County, Washington
+                  ■ 4.6.2.13.5 Pierce County, Washington
+                  ■ 4.6.2.13.6 Clark County, Washington
+              ○ 4.6.2.14 Wisconsin
+                  ■ 4.6.2.14.1 State Cartographer's Office GeoData Portal
+                  ■ 4.6.2.14.2 Statewide Parcel Database
+  • 5 South America
+      □ 5.1 Argentina
+      □ 5.2 Bolivia
+      □ 5.3 Brazil
+          ☆ 5.3.1 Countrywide
+          ☆ 5.3.2 Ceará
+          ☆ 5.3.3 Espírito Santo
+          ☆ 5.3.4 Mato Grosso do Sul
+          ☆ 5.3.5 Minas Gerais
+          ☆ 5.3.6 Paraná
+          ☆ 5.3.7 Rio de Janeiro
+          ☆ 5.3.8 Rio Grande do Sul
+          ☆ 5.3.9 São Paulo
+      □ 5.4 Chile
+          ☆ 5.4.1 Dirección de Vialidad - Ministerio de Obras Publica
+          ☆ 5.4.2 Directorio de Transporte Público Metropolitano - Ministerio de Transporte y Telecomunicaciones
+          ☆ 5.4.3 Secretaría de Planificación de Transporte (SECTRA) - Ministerio de Transporte y Telecomunicaciones
+          ☆ 5.4.4 Gobierno Regional Metropolitano de Santiago
+          ☆ 5.4.5 Instituto Nacional de Estadísticas (INE)
+      □ 5.5 Colombia
+      □ 5.6 Ecuador
+      □ 5.7 Guyana
+      □ 5.8 Paraguay
+      □ 5.9 Peru
+      □ 5.10 Suriname
+      □ 5.11 Uruguay
+          ☆ 5.11.1 AGESIC
+      □ 5.12 Venezuela
+  • 6 Europe
+      □ 6.1 Multiple European countries
+          ☆ 6.1.1 Deutsche Bahn AG
+      □ 6.2 Austria
+      □ 6.3 Andorra
+      □ 6.4 Belgium
+          ☆ 6.4.1 B.R.I.C. UrbIS
+          ☆ 6.4.2 ADV
+          ☆ 6.4.3 De Lijn
+          ☆ 6.4.4 Géoportail de la Wallonie
+          ☆ 6.4.5 TEC SRWT
+          ☆ 6.4.6 Famenne à Vélo
+          ☆ 6.4.7 Grote Routepaden (long distance paths Flanders)
+          ☆ 6.4.8 Open data Antwerpen
+          ☆ 6.4.9 Open data Ghent
+          ☆ 6.4.10 Verkeersborden Vlaanderen
+      □ 6.5 Fondation Soignes - Stichting Zoniën
+      □ 6.6 Bosnia and Herzegovina
+      □ 6.7 Bulgaria
+      □ 6.8 Croatia
+          ☆ 6.8.1 City of Knin
+          ☆ 6.8.2 City of Zagreb
+          ☆ 6.8.3 City of Rijeka
+          ☆ 6.8.4 State geodetic administration
+      □ 6.9 Czech Republic
+      □ 6.10 Denmark
+          ☆ 6.10.1 Fugro Aerial Mapping
+          ☆ 6.10.2 Haderslev municipality
+          ☆ 6.10.3 KMS
+          ☆ 6.10.4 Kolding municipality
+          ☆ 6.10.5 OIOREST Geoservicen
+          ☆ 6.10.6 Stevns municipality
+          ☆ 6.10.7 Styrelsen for Dataforsyning og Effektivisering (SDFE)
+          ☆ 6.10.8 Copenhagen municipality
+      □ 6.11 Estonia
+      □ 6.12 Finland
+          ☆ 6.12.1 National Land Survey of Finland
+          ☆ 6.12.2 Finnish Transport Agency
+          ☆ 6.12.3 City of Tampere
+          ☆ 6.12.4 Helsinki Region
+          ☆ 6.12.5 City of Vantaa
+          ☆ 6.12.6 City of Espoo
+          ☆ 6.12.7 City of Helsinki
+          ☆ 6.12.8 Helsinki Regional Transport Authority / Helsingin Seudun Liikenne (HSL)
+          ☆ 6.12.9 City of Turku
+      □ 6.13 France
+      □ 6.14 Germany
+          ☆ 6.14.1 Deutschlandweite Datensätze
+          ☆ 6.14.2 Baden-Württemberg
+          ☆ 6.14.3 Bayern
+              ○ 6.14.3.1 Bayrische Vermessungsverwaltung
+              ○ 6.14.3.2 Stadt Erlangen
+              ○ 6.14.3.3 München
+              ○ 6.14.3.4 Münchner Verkehrsgesellschaft mbH (MVG)
+              ○ 6.14.3.5 Münchner Verkehrs- und Tarifverbund GmbH (MVV)
+              ○ 6.14.3.6 Flughafen München GmbH (FMG)
+          ☆ 6.14.4 Berlin
+          ☆ 6.14.5 Brandenburg
+          ☆ 6.14.6 Bremen
+          ☆ 6.14.7 Hamburg
+              ○ 6.14.7.1 Landesbetrieb Geoinformation und Vermessung
+              ○ 6.14.7.2 Kulturbehörde, Denkmalschutzamt
+          ☆ 6.14.8 Hesse
+              ○ 6.14.8.1 Hessische Verwaltung für Bodenmanagement und Geoinformation
+              ○ 6.14.8.2 Frankfurt am Main
+          ☆ 6.14.9 North Rhine-Westfalia
+              ○ 6.14.9.1 Verkehrsverbund Rhein-Ruhr AöR
+              ○ 6.14.9.2 Verkehrsverbund Rhein-Sieg GmbH
+              ○ 6.14.9.3 Köln
+              ○ 6.14.9.4 Moers
+              ○ 6.14.9.5 Bielefeld
+              ○ 6.14.9.6 Bonn
+          ☆ 6.14.10 Sachsen-Anhalt
+              ○ 6.14.10.1 Landesamt für Vermessung und Geoinformation LSA
+              ○ 6.14.10.2 Landesamt für Umweltschutz LSA
+          ☆ 6.14.11 Sachsen
+              ○ 6.14.11.1 Dresden
+          ☆ 6.14.12 Sachsen, Thüringen, Sachsen-Anhalt
+              ○ 6.14.12.1 Erfurt
+              ○ 6.14.12.2 Rhineland-Palatinate
+                  ■ 6.14.12.2.1 Nibelungenstadt Worms
+      □ 6.15 Hungary
+      □ 6.16 Iceland
+      □ 6.17 Ireland
+      □ 6.18 Italy
+          ☆ 6.18.1 Italian regions
+              ○ 6.18.1.1 Piemonte/Piedmont
+              ○ 6.18.1.2 Toscana/Tuscany
+              ○ 6.18.1.3 Puglia/Apulia
+          ☆ 6.18.2 Emilia Romagna/Emilia Romagna region
+          ☆ 6.18.3 Italian provinces
+              ○ 6.18.3.1 Biella (BI)
+          ☆ 6.18.4 Italian cities
+              ○ 6.18.4.1 Biella
+              ○ 6.18.4.2 Bologna
+              ○ 6.18.4.3 Lecce
+              ○ 6.18.4.4 Merano
+              ○ 6.18.4.5 Montagna in Valtellina
+              ○ 6.18.4.6 Palermo
+              ○ 6.18.4.7 Reggio nell'Emilia
+              ○ 6.18.4.8 Torino
+              ○ 6.18.4.9 Venezia
+              ○ 6.18.4.10 Verona
+      □ 6.19 Kosovo
+      □ 6.20 Latvia
+      □ 6.21 Lithuania
+      □ 6.22 Luxembourg
+      □ 6.23 Netherlands
+          ☆ 6.23.1 AND
+          ☆ 6.23.2 510 - Netherlands Red Cross
+          ☆ 6.23.3 ProRail
+          ☆ 6.23.4 Kadaster/Beeldmateriaal
+          ☆ 6.23.5 BGT / BRT
+          ☆ 6.23.6 3D Basisbestand Volledig
+          ☆ 6.23.7 DKK
+          ☆ 6.23.8 CBS / Kadaster
+          ☆ 6.23.9 Rijksmonumenten / Rijksdienst voor het Cultureel Erfgoed
+          ☆ 6.23.10 Wandelnet
+          ☆ 6.23.11 Gemeente Hengelo
+          ☆ 6.23.12 MTBroutes.nl
+      □ 6.24 Norway
+          ☆ 6.24.1 Kartverket (Norwegian Mapping Authority)
+          ☆ 6.24.2 Statens Vegvesen (The Norwegian Public Roads Administration)
+          ☆ 6.24.3 Norsk Polarinstitutt (Norwegian Polar Institute)
+          ☆ 6.24.4 Miljødirektoratet (Norwegian Environment Agency)
+          ☆ 6.24.5 Riksantikvaren (Norwegian Directorate for Cultural Heritage)
+          ☆ 6.24.6 Norges vassdrags- og energidirektorat (Norwegian Water Resources and Energy Directorate)
+          ☆ 6.24.7 Kystverket (Norwegian Coastal Administration)
+          ☆ 6.24.8 Fiskeridirektoratet (Norwegian Directorate of Fisheries)
+          ☆ 6.24.9 Oljedirektoratet (Norwegian Petroleum Directorate)
+          ☆ 6.24.10 Direktoratet for mineralforvaltning (Norwegian Directorate of Mining)
+          ☆ 6.24.11 Utdanningsdirektoratet (Norwegian Directorate for Education and Training)
+          ☆ 6.24.12 Direktoratet for samfunnssikkerhet og beredskap (DSB) (Norwegian Directorate for Civil Protection)
+          ☆ 6.24.13 Direktoratet for e-helse (Norwegian Directorate of eHealth)
+          ☆ 6.24.14 Brønnøysundregistrene (Brønnøysund Register Centre)
+          ☆ 6.24.15 Nasjonalbiblioteket (National Library of Norway)
+          ☆ 6.24.16 Kulturdepartementet (Norwegian Ministry of Culture)
+          ☆ 6.24.17 Mattilsynet (Norwegian Food Safety Authority)
+          ☆ 6.24.18 Posten Norge
+          ☆ 6.24.19 Entur
+          ☆ 6.24.20 Kirkelig arbeidsgiver- og interesseorganisasjon (Norwegian Association for Church Employers)
+          ☆ 6.24.21 Kolumbus.no
+          ☆ 6.24.22 Sortere.no
+          ☆ 6.24.23 Norwegian Consumer Council
+          ☆ 6.24.24 Municipality of Oslo (Oslo kommune)
+          ☆ 6.24.25 Municipality of Bergen (Bergen kommune)
+          ☆ 6.24.26 Municipality of Sørum (Sørum kommune)
+      □ 6.25 Poland
+      □ 6.26 Portugal
+      □ 6.27 Romania
+          ☆ 6.27.1 Norc.ro
+          ☆ 6.27.2 Guvernul României
+          ☆ 6.27.3 Primăria Municipiului București
+      □ 6.28 Russia
+          ☆ 6.28.1 Administration of Perm
+          ☆ 6.28.2 Administration of Rybinsk
+          ☆ 6.28.3 Administration of Togliatti
+          ☆ 6.28.4 BaikalNavi
+          ☆ 6.28.5 Ministry of Culture
+          ☆ 6.28.6 Moscow City Government
+          ☆ 6.28.7 OpenSpeedcam
+          ☆ 6.28.8 vsedomarossii
+          ☆ 6.28.9 Yandex.Panoramas
+      □ 6.29 Serbia
+          ☆ 6.29.1 Mountaineering association of Serbia
+          ☆ 6.29.2 Tourist Organization of Cacak
+          ☆ 6.29.3 PK Tara
+          ☆ 6.29.4 PE „Djerdap National Park“
+          ☆ 6.29.5 PE Vojvodinašume
+          ☆ 6.29.6 PK Javorak
+          ☆ 6.29.7 Zapisi - Zoran Blagojević
+          ☆ 6.29.8 Pošta Srbije
+          ☆ 6.29.9 Institute for the Protection of Cultural Monuments of Serbia
+          ☆ 6.29.10 itt.rs/treeking
+      □ 6.30 Slovakia
+      □ 6.31 Slovenia
+          ☆ 6.31.1 Republic of Slovenia, Ministry of Agriculture, Forestry and Food
+          ☆ 6.31.2 The Surveying and Mapping Authority of the Republic of Slovenia
+      □ 6.32 Spain
+          ☆ 6.32.1 Instituto Geográfico Nacional y Sistema Cartográfico Nacional (National Mapping Agency and National Cartographic System for Spain)
+          ☆ 6.32.2 Catastro de España (Spanish Cadastre)
+          ☆ 6.32.3 Ayuntamiento de Zaragoza (Zaragoza City Council)
+          ☆ 6.32.4 Ajuntament de Barcelona (Barcelona City Council): Open Data BCN i CartoBCN
+          ☆ 6.32.5 Confederacción Hidrográfica del Segura (Segura Hydraulic Confederation)
+          ☆ 6.32.6 Ayuntamiento de Madrid (Madrid City Council)
+          ☆ 6.32.7 Consejería de Educación de la Comunidad de Madrid
+          ☆ 6.32.8 Ayuntamiento de Castro Urdiales (Castro Urdiales Town Council)
+          ☆ 6.32.9 Instituto de Estadística y Cartografía de Andalucía (Institute of Statistics and Cartography of Andalusia)
+          ☆ 6.32.10 Concello de Santiago de Compostela (Santiago de Compostela City Council)
+          ☆ 6.32.11 Consell Insular de Menorca - Infraestructura de Dades Espacials de Menorca (Menorca Insular Council - Spatial Data Infrastructure of Menorca)
+          ☆ 6.32.12 Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (Basque Government. geoEuskadi)
+          ☆ 6.32.13 Ayuntamiento de Málaga (Málaga City Council)
+          ☆ 6.32.14 Ayuntamiento de València (Valencia City Council)
+          ☆ 6.32.15 Instituto de Estudos do Territorio (IET) Xunta de Galicia (Institute of Territorial Studies of Galicia)
+          ☆ 6.32.16 Sistema de Información Territorial de Navarra (SITNA) - Gobierno de Navarra / Nafarroako Gobernua
+      □ 6.33 Switzerland
+          ☆ 6.33.1 Gebäude- und Wohnungsregister
+          ☆ 6.33.2 SwissTopo
+          ☆ 6.33.3 Canton Aargau
+          ☆ 6.33.4 Canton Basel-Landschaft
+          ☆ 6.33.5 Canton Basel Stadt
+          ☆ 6.33.6 Canton Berne
+          ☆ 6.33.7 Canton Schaffhausen
+          ☆ 6.33.8 Canton Thurgau
+          ☆ 6.33.9 Canton Uri
+          ☆ 6.33.10 Canton Zug
+          ☆ 6.33.11 opentransportdata.swiss
+      □ 6.34 Sweden
+          ☆ 6.34.1 Lantmäteriet
+          ☆ 6.34.2 Trafikverket
+          ☆ 6.34.3 Stockholm stad
+          ☆ 6.34.4 Lidingö stad
+          ☆ 6.34.5 Helsingborg stad
+          ☆ 6.34.6 Linköpings kommun
+          ☆ 6.34.7 Kalmar kommun
+          ☆ 6.34.8 Örebro kommun
+          ☆ 6.34.9 Skåneleden
+          ☆ 6.34.10 Naturvårdsverket
+      □ 6.35 Turkey
+      □ 6.36 United Kingdom
+          ☆ 6.36.1 Bus Times
+          ☆ 6.36.2 Companies House
+          ☆ 6.36.3 Department for Environment, Food and Rural Affairs
+          ☆ 6.36.4 Food Hygiene Rating Scheme
+          ☆ 6.36.5 Retail Points from Geolytix
+          ☆ 6.36.6 Sectional Appendix or National Electronic Sectional Appendix (NESA)
+          ☆ 6.36.7 National Register of Social Housing (NROSH)
+          ☆ 6.36.8 Natural England data
+          ☆ 6.36.9 NatureScot
+          ☆ 6.36.10 Office for National Statistics
+          ☆ 6.36.11 Ordnance Survey OpenData
+              ○ 6.36.11.1 Code-Point Open
+          ☆ 6.36.12 Emu Analytics
+          ☆ 6.36.13 Traveline National Data Set (TNDS)
+          ☆ 6.36.14 Public Rights of Way Data from local councils
+          ☆ 6.36.15 University of Cambridge
+          ☆ 6.36.16 Land Registry - Price paid data
+          ☆ 6.36.17 Department for Transport - NaPTAN data
+          ☆ 6.36.18 Post Office Branch Data
+          ☆ 6.36.19 Database of registered common land in England
+          ☆ 6.36.20 National Heritage List for England (Historic England)
+          ☆ 6.36.21 Historic Environment Scotland
+          ☆ 6.36.22 Miscellaneous Data from Local Councils
+              ○ 6.36.22.1 Information in the "List of Streets" maintained by local councils
+          ☆ 6.36.23 Southern Vectis
+          ☆ 6.36.24 Land Registry INSPIRE Index Polygons
+          ☆ 6.36.25 Western Power Distribution
+          ☆ 6.36.26 Forestry commission
+          ☆ 6.36.27 Beryl
+      □ 6.37 Ukraine
+  • 7 Africa
+      □ 7.1 Multiple African countries
+      □ 7.2 Algeria
+      □ 7.3 Burundi
+      □ 7.4 Congo-Kinshasa (DRC)
+          ☆ 7.4.1 Z_GIS
+          ☆ 7.4.2 Médecins Sans Frontières
+      □ 7.5 Egypt
+          ☆ 7.5.1 Transport for Cairo
+      □ 7.6 Eritrea
+      □ 7.7 Ethiopia
+      □ 7.8 Guinea-Bissau
+      □ 7.9 Kenya
+      □ 7.10 Lesotho
+          ☆ 7.10.1 Land Administration Authority
+          ☆ 7.10.2 Dept. Of Education
+          ☆ 7.10.3 Dept. Of Health
+      □ 7.11 Morocco
+      □ 7.12 Mozambique
+      □ 7.13 Nigeria
+      □ 7.14 Rwanda
+      □ 7.15 Somalia
+          ☆ 7.15.1 United Nations Support Office in Somalia (UNSOS)
+      □ 7.16 Sudan
+      □ 7.17 South Africa
+          ☆ 7.17.1 Cape Town
+          ☆ 7.17.2 Durban
+      □ 7.18 Tanzania
+      □ 7.19 Tunisia
+      □ 7.20 Uganda
+  • 8 Western and Central Asia
+      □ 8.1 Armenia
+      □ 8.2 Georgia
+      □ 8.3 Iran
+      □ 8.4 Iraq
+      □ 8.5 Israel
+          ☆ 8.5.1 Keren Kayemet LeIsrael (KKL) Land Development Authority
+          ☆ 8.5.2 Tel Aviv Yafo Municipality
+      □ 8.6 Jordan
+      □ 8.7 Kazakhstan
+      □ 8.8 Kuwait
+          ☆ 8.8.1 The Public Authority of Civil Information
+      □ 8.9 Lebanon
+      □ 8.10 Saudi Arabia
+      □ 8.11 Tajikistan
+      □ 8.12 Turkey
+      □ 8.13 Turkmenistan
+      □ 8.14 United Arab Emirates
+          ☆ 8.14.1 Abu Dhabi
+      □ 8.15 Uzbekistan
+      □ 8.16 Yemen
+  • 9 Southern and Eastern Asia
+      □ 9.1 China
+      □ 9.2 India
+      □ 9.3 Indonesia
+      □ 9.4 Japan
+          ☆ 9.4.1 Lawson
+          ☆ 9.4.2 Kokudo Suchi Joho
+          ☆ 9.4.3 Yahoo! Japan
+          ☆ 9.4.4 Susono city
+      □ 9.5 Malaysia
+      □ 9.6 Pakistan
+      □ 9.7 Philippines
+          ☆ 9.7.1 Bureau of Fire Protection
+          ☆ 9.7.2 Department of Education
+          ☆ 9.7.3 Department of Public Works and Highways
+          ☆ 9.7.4 Department of Trade and Industry
+          ☆ 9.7.5 Schadow1 Expeditions
+      □ 9.8 Nepal
+      □ 9.9 South Korea
+      □ 9.10 Taiwan (Rep. of China)
+          ☆ 9.10.1 National Land Surveying and Mapping Center
+      □ 9.11 Myanmar
+      □ 9.12 Vietnam
+  • 10 Oceania
+      □ 10.1 Australia
+      □ 10.2 Commonwealth of Australia
+          ☆ 10.2.1 Australian Antarctic Data Centre
+          ☆ 10.2.2 data.gov.au
+          ☆ 10.2.3 Department of the Environment and Energy
+          ☆ 10.2.4 Department of Agriculture, Water and the Environment
+          ☆ 10.2.5 Geoscience Australia
+          ☆ 10.2.6 Australian National University MapsOnline maps
+      □ 10.3 Australian Capital Territory Government data
+      □ 10.4 New South Wales Government data
+          ☆ 10.4.1 New South Wales Spatial Services
+          ☆ 10.4.2 Geographical Name Register (GNR) of NSW
+          ☆ 10.4.3 NSW Department of Education
+          ☆ 10.4.4 NSW National Parks and Wildlife Service
+          ☆ 10.4.5 Transport for NSW
+          ☆ 10.4.6 NSW Department of Planning, Industry and Environment
+      □ 10.5 Queensland Government data
+          ☆ 10.5.1 Department of Transport and Main Roads
+          ☆ 10.5.2 Brisbane City Council data
+      □ 10.6 South Australian Government data
+      □ 10.7 Victorian Government data
+          ☆ 10.7.1 City of Melbourne data
+          ☆ 10.7.2 Hobsons Bay City Council data
+          ☆ 10.7.3 Victorian Ports Corporation (Melbourne)
+          ☆ 10.7.4 Wyndham City Council data
+      □ 10.8 Western Australia
+          ☆ 10.8.1 Main Roads (state government agency)
+      □ 10.9 New Zealand
+          ☆ 10.9.1 LINZ
+          ☆ 10.9.2 Department of Conservation (DOC) (New Zealand)
+          ☆ 10.9.3 Statistics New Zealand
+          ☆ 10.9.4 Christchurch City Council
+          ☆ 10.9.5 Bay of Plenty Regional Council
+          ☆ 10.9.6 Manawatu District Council
+          ☆ 10.9.7 Auckland Council
+          ☆ 10.9.8 Auckland Transport
+          ☆ 10.9.9 Wellington City Council
+          ☆ 10.9.10 Greater Wellington Regional Council
+          ☆ 10.9.11 Otago Regional Council
+          ☆ 10.9.12 Waikato Regional Council
+      □ 10.10 Cook Islands
+      □ 10.11 Tokelau
+      □ 10.12 Niue
+  • 11 Antarctica
+      □ 11.1 ADD (Antarctic Digital Database)
+      □ 11.2 LINZ (Land Information New Zealand)
+  • 12 Others
+  • 13 References
+  • 14 See also
+
+Finding contributors
+
+You may wish to try and find a list of contributors in a specific area. You can do this by browsing to the desired area, and moving to the 'history' tab, which displays details of all changesets intersecting this area. Generally the display includes a large number of 'big' changesets which covered a big area, and which are less likely to include significant updates actually within your desired area (but can't be sure). Using the data layer might be the better option to view the contributors to a single map object.
+
+You can find users who have last edited all elements in an area. This information is returned in map call e.g. the data you get when you download an area in JOSM. This can also be visualised using OSM Mapper. However this may be discounting the original creators of elements (possibly a more important contribution). You can find the original creator of an element, and all users who have since edited the element, by querying its history. Through the API, your query would be of the form http://api.openstreetmap.org/api/0.6/<objtype>/<id>/history where <objtype> is: 'way' or 'node' and <id> is the ID number of the item. This would have to be performed for every node and way within the area.
+
+Contributor specific attribution and disclaimer
+
+In addition to the individual contributions from our members, several commercial and government bodies have contributed and / or permitted to be contributed their data to OpenStreetMap. This may only be a partial list. Imports are also listed at Import/Catalogue.
+
+A small number of contributors are listed on the www.openstreetmap.org/copyright page because we have used data under a license that requires that attribution.^[1]
+
+Global / Multiple countries
+
+GADM (Global Administrative Areas)
+
+Borders in Turkey, Bahrain, Iran, Iraq, Ivory Coast, Jordan, Saudi Arabia, Sudan, and Syria are derived from GADM data. We have been given explicit permission to distribute the datasets for these countries under OSM licensing conditions, including commercial use.
+
+Please note that the normal GADM licence prohibits commercial use and GADM datasets are not legal data for inclusion in OSM without explicit permission from GADM.
+
+More information on GADM can be found on the GADM website.
+
+HOT (Humanitarian OpenStreetMap Team) crisis mapping
+
+HOT makes extensive use of Bing and MapBox imagery while mapping for various projects and humanitarian activations. In case of emergencies or for specific humanitarian projects, we need to compliment or add to this imagery. The contributors listed below graciously collaborate on the humanitarian responses by providing free imagery on a limited basis for specific HOT tracing projects. OpenStreetMap gratefully acknowledges such actions since they provide both a much needed immediate humanitarian value as well as allowing us to create a long term asset. The following companies and organizations have been instrumental in our humanitarian mapping projects:
+
+  • Airbus D&S, Centre National d’Etudes Spatiales (CNES) - SPOT 6 and Pleiades imagery
+  • MAXAR (formerly, DigitalGlobe)
+  • Google Crisis Response team have allowed imagery released under "Skybox for Good" to be digitized into OSM under OSM's license by HOT under the condition that changesets and/or features that are derived from Skybox for Good imagery are attributed to Skybox. (2014-10)
+  • US Gov. Humanitarian Information Unit (HIU) - WorldView, NextView and DigitalGlobe imagery
+  • Government of Mexico, Office of Open Data ( License )
+  • Planet Labs Inc. through their Open Data Portal, with explicit permissions for tracing into OSM
+
+EU Copernicus (GMES) data
+
+OpenStreetMap may use data from the European Union Copernicus (GMES) programme as a source of information which is being used according to EU regulation 1159/2013.
+
+In particular OSM may contain modified Copernicus Sentinel data obtained and used according to the legal notice and to the Terms and Conditions.
+
+Natural Earth
+
+Natural Earth is a source of global open geo data, it is licensed CC0 and they have confirmed using the data to improve OSM is approved. However, a caveat is that wikidata_id and localized names come from Wikidata, so there may be concerns with using those two fields. See here for more information about using Wikidata in OSM.
+
+Global Land Ice Measurements from Space
+
+The Global Land Ice Measurements from Space (GLIMS) is a global dataset of glaciers and is public domain. There are more details at GLIMS Glacier Database.
+
+World Food Programme Logistics Capacity Assessments
+
+The United Nations World Food Programme performs logistics assessments on roads around the world. They approved that the assessments can be used for improving OpenStreetMap, but caveat that they may be out of date. (See this and this for details.)
+
+Strava Heatmap
+
+OpenStreetMap users have permission to use data from Strava Heatmap for tracing into OSM only (further information).
+
+North America and Caribbean
+
+●Belize
+
+Biodiversity and Environmental Resource Data System of Belize (BERDS) has approved the use of their data for OpenStreetMap.
+
+    Meerman, J. and Clabaugh, J. 2017. Biodiversity and Environmental Resource Data System of Belize. Online. http://www.biodiversity.bz
+
+●Canada
+
+Contains information licensed under the Open Government Licence – Canada.
+
+Natural Resources Canada
+
+GeoBase
+
+The Licensee shall identify GeoBase® as a data source where any of the Data are redistributed, or contained within Derivative Products, and use of the Data shall not be construed as an endorsement by GeoBase® of those Derivative Products.
+
+GeoGratis
+
+© Department of Natural Resources Canada. All rights reserved. Use of the Data shall not be construed as an endorsement by Canada of any Derivative Products.
+
+CanVec
+
+© Department of Natural Resources Canada. All rights reserved. Use of the Data shall not be construed as an endorsement by Canada of any Derivative Products.
+
+Toporama
+
+© Department of Natural Resources Canada. All rights reserved. Use of the Data shall not be construed as an endorsement by Canada of any Derivative Products.
+
+StatCan
+
+Source: Geography Division, Statistics Canada, 2008 Road Network File, catalogue number 92-500-XWE, 92-500-XWF
+
+    The incorporation of data sourced from Statistics Canada within this product shall not be construed as constituting an endorsement by Statistics Canada of such product.
+
+Triplinx Metrolinx
+
+Metrolinx is an agency of Government of Ontario to deliver mobility solutions for the Greater Toronto and Hamilton Area (GTHA). Metrolinx uses OSM data to populate the addresses in the trip planner system (triplinx). To improve the precision of address ranges information in OSM, Metrolinx design and develop an import strategy to feed missing information from StatCan 92-500-G. The information is provided under Open Data license.
+
+Canadian provinces
+
+British Columbia
+
+OSM may contain information from DataBC or derived from DataBC data. This information is provided by the Province of British Columbia under the Open Government License for Government of BC Information v.BC1.0
+
+DataBC products are a mixture of vector and raster products. Where OpenStreetMap contributors have made use of raster data (mapping images) then any data from these within the OpenStreetMap database will have been derived, principally by hand tracing. Where DataBC products were made available in vector format, these may have been partially or completely imported into OpenStreetMap as modified vector data. Modification may include subtle positional modification, modification of data attributes, updating of data or integration of data with other data.
+
+The Government of BC does not endorse OpenStreetMap or OpenStreetMap's use of DataBC product data.
+
+More information can be found on the DataBC wiki page.
+
+Canadian Municipalities
+
+Gatineau
+
+OpenStreetMap data may include data from the City of Gatineau. Contains information licensed under the Creative Commons Attribution 4.0 International Public License. Formal authorization for data import can be found here.
+
+Ottawa
+
+Contains information licensed under the Open Government Licence – City of Ottawa.
+
+Montréal
+
+OpenStreetMap data may include data from the City of Montreal licensed under the Creative Commons Attribution 4.0 International. These data are ©Ville de Montréal. The complete dataset can be found here. Formal authorization for data import can be found here.
+
+OpenStreetMap data may include data from the Société de transport de Montréal. Their terms of use contains an attribution clause, an explicit permission has been granted to use their data in OpenStreetMap.
+
+OpenStreetMap data may include data from the Réseau de transport métropolitain, aussi connu sous le nom « exo ». Their terms of use contains attribution clause, an explicit permission has been granted to use their data in OpenStreetMap.
+
+Vancouver
+
+OpenStreetMap data may include data provided by the City of Vancouver under the Open Government Licence – Vancouver license.
+
+Laval
+
+Openstreetmap data may include data from the city of Laval, available on the Portail Données Québec. The licence is CC-By 4.0 and the city of Laval has given explicit permission for Openstreetmap.
+
+OpenStreetMap data may include data from the Société de Transport de Laval (STL). Their terms of use contains attribution clause, an explicit permission has been granted to use their data in OpenStreetMap.
+
+Burnaby
+
+Openstreetmap data may include data from the city of Burnaby, available on City of Burnaby Open Data.
+
+OpenStreetMap contains information licensed under the Open Government Licence – Burnaby.
+
+Airdrie
+
+Contains information licensed under the Open Data Licence – City of Airdrie.
+
+●Haiti
+
+Some post-earthquake data in and around Port-au-Prince Haiti is derived by permission from images copyright GeoEye.
+
+On 14 January 2010, GeoEye granted OpenStreetMap permission to derive data from a limited set of their aerial images related to the Haiti earthquake of Tuesday 12 January 2010. Find more information on the WikiProject Haiti Page.
+
+Exceptionally Google gave permission for aerial imagery flown post-earthquake (on January 17 2010 and January 21 2010) to be used by OSM contributors to map areas of Haiti. The permission was transmitted on twitter by Mikel Maron on January 21st, and Christoph Schmidt processed the images as tiles which were made available almost immediately, see Old Haiti Imagery. The imagery was available earlier, but was released with a non-commercial clause which required an exception to be made for use on OSM>
+
+●Honduras
+
+National parks and protected areas data was provided by SINAPH/ICF.
+
+●Mexico
+
+  • Mexico Main Road Network Import Project
+  • Mexico's Administrative Divisions Import Project
+  • CONANP data is provided with no use restrictions. Confirmation.
+
+●United States
+
+National-level
+
+TIGER
+
+The Census Bureau (an agency of the U.S. Government's Department of Commerce) TIGER data base is the source for maps generated by the TIGER Map Service. The data used to create the maps are in the public domain. Thus the maps you can download from this site are in the public domain; you are free to use them as you choose.
+
+USGS - NHD / Orbview-3
+
+Hydrography data in the US can come from NHD.
+
+USGS-authored or produced data and information are considered to be in the U.S. public domain.
+
+Credit: U.S. Geological Survey Department of the Interior/USGS U.S. Geological Survey^[2]
+
+We also use OrbView-3 imagery data courtesy of the U.S. Geological Survey
+
+AASHTO for proposed/approved USBRs
+
+Some proposed and/or approved United States Bicycle Routing System (USBRS) route data submitted to OSM are hereby expressly noted they are from an AASHTO publication which has copyright by AASHTO, and that explicit "Permission to reproduce and post these data has been granted to OpenStreetMap US by the American Association of State Highway and Transportation Officials." OSM-US thanks AASHTO for this permission.
+
+PGS, Prototype Global Shoreline Data set
+
+The Prototype Global Shoreline Data set is a global satellite-derived approximation of high water line) provided by the National Geospatial-Intelligence Agency of the USA. It is assumed to be released under section 105 of the US Copyright Act and so effectively public domain, (confirmation has been requested 2011-09-29).
+
+District of Columbia OCTO
+
+  • Data retrieved from DC Data Catalog (http://data.dc.gov/).
+  • Aerial Imagery retrieved from DC From Above.
+
+Puerto Rico
+
+Legal boundaries (municipios and barrios) produced by the Puerto Rico Planning Board (Junta de Planificación de Puerto Rico).
+
+State-level
+
+California
+
+All California state GIS data are specifically exempted from having any license under state law regarding "right of access to public records." Furthermore, this was upheld by the California Supreme Court.
+
+California Protected Areas Database
+
+Some data regarding state parks and other "protected" areas in the state are entered from California Protected Areas Database (CPAD) data published by GreenInfo Network. CPAD contains data on lands owned in fee by governments, non-profits and some private entities that are protected for open space purposes. Data include all such areas in California, from small urban parks to large national parks and forests, mostly aligned to assessor parcel boundaries, though CPAD considers California's Department of Parks and Recreation data authoritative when it comes to state parks boundaries. From an email from Maianna Voge, Associate Director, GreenInfo Network, March 25, 2019: "CPAD is not copyrighted, you are free to use it in OSM. We usually ask for attribution (specified in the shp metadata), but that’s just a courtesy, not a requirement."
+
+Please see California/Using CPAD data for suggestions on how to logically map the CPAD tags to OSM tags.
+
+Connecticut
+
+Some data regarding state-owned public access facilities may be entered from the DEP Property dataset. The metadata specifically state that the data are in the public domain. The site notes: "Once acquired, any modification made to the data must be noted in the metadata," - a request easily satisfied by the OSM changeset mechanism. It requests attribution: " When printing this information on a map or using it in a software application, please acknowledge the State of Connecticut, Department of Environmental Protection as the original source for this information."
+
+16 Sep 2020: Building footprint data from Western Connecticut Council of Governments (WestCOG) and address points from State of Connecticut released under CC0 1.0 license. See import page for details.
+
+Illinois
+
+Illinois Height Modernization LiDAR Data
+
+Per an email to user System-users-3.svgjdcarls2 (on osm, edits, contrib, heatmap, chngset com.) and the Remote Sensing Data Manager of the Illinois State Geological Survey:
+
+    After much research I have found that you are granted permissions to use the LiDAR data to make derivatives such as building footprints and similar derived products.  As long as you follow the guidelines mentioned in the metadata to cite ISGS as the source using the proper metadata for the LiDAR this would be fine.
+
+Indiana
+
+IndianaMap, Address points
+
+It is requested, but not required, that the IndianaMap Data Sharing Initiative between IGIC, Indiana Office of Technology (IOT), Indiana Geographic Information Office (GIO), Indiana Department of Homeland Security (IDHS), Indiana Geological Survey (IGS) and participating Indiana counties be cited in any products generated from this data set. If citing, the following source citation language should be included: [COUNTY_ADDRESS_POINTS_IDHS_IN: Address Points Maintained by County Agencies in Indiana, Twentieth Harvest (Indiana Department of Homeland Security, Point feature class), 20151217].
+
+Maine
+
+Address data was imported from "Maine_E911_Addresses_Roads_PSAP" provided by "Maine Emergency Services Communications Bureau (ESCB) branch of the Maine Public Utilities Commission (PUC)" in 2020. More information about the source data can be found at https://www.maine.gov/megis/.
+
+Maryland State Government
+
+All Maryland state GIS data is specifically exempted from having any license under state law. The passed law, Senate Bill 94 (2015) repealed the code that gave governments the authority to compel a citizen to enter into a contract (e.g. a license) before distributing geographic data^[3].
+
+Further, all local and municipal governments within in the State of Maryland are governed by the same law. Therefore, even if a county or local government website lists a license requirement, the license is invalidated by the law^[4]. Some local governments have not updated their terms after the passage of this bill.
+
+Data from the Maryland DNR portal is in the public domain according to Dave Foreman, GIS Analyst, MD DNR. I --ElliottPlack (talk) 16:59, 20 April 2013 (UTC) spoke to Dave at the TUgis conference in 2013 and secured permission to put the data on OpenStreetMap, and that there are no use constraints. The DNR is gradually migrating their data to the Maryland Open Data GIS Portal, which operates under the same public domain license.
+
+Massachusetts
+
+MASSGIS
+
+  • http://www.mass.gov/mgis/
+
+New Jersey
+
+Morris County GIS
+
+On 2020-08-10, Stuart Walter, of Morris County GIS, provided User:Safetygoggles with the following access and use statement:
+
+    Downloading GIS data from the Morris County GIS website is free and available for anyone to download and use. The data can be uploaded to OpenStreetMap. However, we ask that Morris County GIS is given credit for the data.
+
+
+    Please also see the disclaimer below.
+
+    ++++++++++++++++++++++++++++++++++++
+
+    The information provided via this web presence was compiled by the Morris County Department of Information Technology, GIS Section. The GIS Section strives to provide the most accurate data and analysis possible, however we do not guarantee the accuracy of this product. Morris County accepts no responsibility for any errors, omissions, or positional inaccuracies. Although information from land surveys may have been used in the creation of this product, in no way does this product represent or constitute a land survey. The information provided on/via this domain is used to locate, identify and inventory parcels/geography in Morris County for deliberative, advisory, and consultative purposes ONLY, and is NOT to be construed or used as a legal description. Users of the information contained in this product are strongly cautioned to verify all information before making any decisions.
+
+    ++++++++++++++++++++++++++++++++++++
+
+New York
+
+Westchester County GIS
+
+On 2020-05-29, Connor Lynch, of the Westchester County GIS, provided User:ZLima12 with the following access and use statement:
+
+    Downloading GIS data from the Westchester County GIS website is free and available for anyone to download and use. The data can be uploaded to OpenStreetMap. However, we ask that  Westchester County GIS is given credit for the data.
+
+
+    Please also see the disclaimer below.
+
+
+    ++++++++++++++++++++++++++++++++++++
+
+    Disclaimer
+
+    Please be advised that the geographic information and all downloadable data is provided "as is" to the public for general information, and are not accurate to surveying or engineering standards, and not suitable for site-specific purposes. The County of Westchester hereby disclaims any liability for any and all damage, loss, or liability which may result, directly or indirectly, from the use of this GIS mapping system and downloadable data by any person or entity.
+
+    ++++++++++++++++++++++++++++++++++++++
+
+Ohio
+
+CAGIS
+
+Many buildings and addresses in Hamilton County, Ohio, are derived from building and parcel datasets created by the Cincinnati Area Geographic Information System (CAGIS). These datasets are subject to the following disclaimer:
+
+    CAGIS Disclaimer
+
+    THE PROVIDER MAKES NO WARRANTY OR REPRESENTATION, EITHER EXPRESSED OR IMPLIED WITH RESPECT TO THIS INFORMATION, ITS QUALITY, PERFORMANCE, MERCHANTABILITY, OR FITNESS A PARTICULAR PURPOSE. AS A RESULT THIS INFORMATION IS PROVIDED 'AS IS'. AND YOU, THE REQUESTER, ARE ASSUMING THE ENTIRE RISK AS TO ITS QUALITY AND PERFORMANCE.
+
+    IN NO EVENT WILL THE PROVIDER BE LIABLE FOR DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM ANY DEFECT IN THE INFORMATION. EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN PARTICULAR, THE PROVIDER SHALL HAVE NO LIABILITY FOR ANY OTHER INFORMATION, PROGRAMS OR DATA USED WITH OR COMBINED WITH THE REQUESTED INFORMATION, INCLUDING THE COST OF RECOVERING SUCH INFORMATION, PROGRAMS OR DATA.
+
+Clinton County GIS
+
+On 2019-11-08, the Clinton County GIS provided User:AdamP with the following access and use statement:
+
+    Clinton County GIS has no objections to geodata derived in part from http://www.clintoncountyohgis.org/ being incorporated into the OpenStreetMap project geodata database and released under a free and open license, Joseph Merritt, Clinton County Ohio GIS Department Manager.
+
+Montgomery County GIS
+
+On 2020-05-19, the Montgomery County GIS Department confirmed that the county's GIS data can be imported into OSM with the following disclaimer:
+
+    DISCLAIMER: This map is a visual presentation of data to be used as a public resource of general information and is provided strictly  as a courtesy. The Montgomery County Auditors Office makes no warranty, representation, or guaranty as to the content, accuracy, timeliness,  or completeness of any information provided herein. Furthermore The Montgomery County Auditors Office shall assume no liability for:
+
+ 1.
+        Any  errors, omissions, or inaccuracies in the information provided regardless of how caused: or
+
+ 2.
+        Any decision made  or action taken or not taken by the reader in reliance upon any information furnished hereunder.
+
+    Note:   Exact property boundaries must  be derived by a legal survey of the property.
+
+Oklahoma
+
+  • Certain post-disaster locations in the Moore, Oklahoma area are in part derived from aerial imagery provided by Bearing Tree Land Surveying, L.L.C., 4201 North Barnes Avenue, Oklahoma City, OK 73112 under the Creative Commons BY-SA license.
+  • Fagin, T.D. and B.W. Hoagland. 2013. Oklahoma Protected Areas Database. http://biosurvey.ou.edu/PAD/PAD.html
+  • GIS Administrator of The City of Stillwater | 723 S. Lewis Street Stillwater, OK  74076-1449 | 405.742.8226 gisadmin@stillwater.org http://www.stillwater.org
+
+Virginia
+
+Virginia Geographic Information Network
+
+Virginia Geographic Information Network is given credit by using any VBMP GIS Data.
+
+Virginia Department of Transportation
+
+On 2011-05-09, the Virginia Department of Transportation (VDOT) provided User:Joshdoe the following access and use constraint statement.
+
+    The data you have requested from VDOT are provided to you as exports from VDOT's GIS database. Although the database is the intellectual property of the Commonwealth of Virginia, the data files are not copyrighted and are provided to you without the need for a license. Should you need a copy of our database, however, we will need to negotiate a license agreement. GIS files provided to you include the following provisions, which apply to such files:
+    Access Constraints:
+    The appropriate VDOT Division is the point of contact for any party who requires access or further information regarding this data. Please refer to the metadata to determine contact vehicles.
+    Use Constraints:
+    Disclaimer: Any person, organization, firm, corporation or other entity using this database does so at its own risk. The Virginia Department of Transportation accepts no liability for any loss suffered by any person, organization, firm, corporation, or other entity from the use of the information in this database. In addition, the Virginia Department of Transportation does not guarantee system availability and is not responsible for any losses associated with any system unavailability.
+    VDOT's digital data files are for use in performing the official business of the Commonwealth of Virginia. VDOT Divisions set all policy on the allowable uses of this data.
+    The representations of VDOT business data contained within are believed to be correct. This data is provided without any guarantee of accuracy, timeliness or completeness. No business decisions should be made based on this data without first validating its accuracy against the official Source System of Record (SSR). Users of this data are solely responsible for determining if it is appropriate for their application.
+    Please report errors and omissions directly to the appropriate VDOT Division data owner.
+
+Prince William County
+
+On 2020-07-06, an agent of the GIS Division of Prince William County provided User:mwoehlke with the following statement:
+
+        What is the usage license for this data. Is it Public Domain? If not, what are the restrictions with respect to attribution, redistribution and/or alteration?
+
+    Yes, the data is for public domain. There are no restrictions to attribution, redistribution, and/or alteration.
+    Thank you,
+    Drew Wold, GISP
+    GIS Analyst
+    703.792.7921
+    dwold@pwcgov.org
+    Prince William County Government
+    Department of Information Technology | GIS Division
+    5 County Complex Ct., Suite 140, Woodbridge, VA 22192
+    www.pwcgov.org/gis
+
+Data is accessible via this site with the following disclaimers:
+
+    All data Pursuant to Section 54.1-402, paragraph C of the Code of Virginia which is quoted below, since the data was not created, nor is it maintained under the supervision of a licensed land surveyor. "Any determination of topography or contours, or any depiction of physical improvements, property lines or boundaries is for general information only and shall not be used for the design, modification, or construction of improvements to real property or for flood plain determination."
+    This data is for reference purposes only and should not be used for design work. Prince William County hereby disclaims any and all liability or responsibility for any damage, injury, loss, claim, or lawsuit arising from any error, inaccuracy or other problem with either the digital maps contained with digital data delivery or digital data delivered. The User hereby releases the County, its officers, agents and all employees and volunteers, from all liability, damage, claims, injuries or suits arising from any such error, inaccuracy or problem. Furthermore, the User agrees to indemnify and hold harmless the County and its officers, agents and all employees and volunteers, from any and all claims, liability damages, injuries and suits arising from the use of the digital maps and data therein or thereon by the User, its employees or assignees, or by any third parties. Prince William County reserves the right to deny access to certain datasets. The digital maps and data provided hereunder are provided "as
+    is" and the County expressly disclaims all warranties, UCC and otherwise, express or implied including warranties as to accuracy of the digital maps, data and merchantability and fitness for a particular purpose, and further expressly disclaims responsibility for all incidental, consequential or special damages arising out of or in connection with the use or performance of the digital maps and data.User acknowledges this disclaimer of warranty and expressly waives all warranties express or implied and waives any right of claim for damages incidental, consequential or special, arising out of or in connection with the use or performance of the digital maps and data.
+
+City of Williamsburg
+
+In a 2022-04-11 email to jacobwhall, Aaron Small City Engineer for the City of Williamsburg confirmed that data published by the City is in the public domain:
+
+    We have confirmed that any data that is published on our open sites (visible via internet) is subject to the Freedom of Information Act, therefore is in the public domain.  You are free to use it as you need to ascribing the site as an appropriate source.
+
+This is the referenced site
+
+Washington State
+
+City of Bothell, Washington
+
+In a 2018-05-16 email to Patrick Noll, Daryn Brown GIS Supervisor for the City of Bothell confirmed that their data may be used, provided the following disclaimer is referenced:
+
+    The City of Bothell has developed data and maps for its own use. That data is provided to third-parties by permission of the City of Bothell. The City of Bothell does not warrant, support, or endorse any third-party applications or websites that use Bothell data, even those that the City may provide links to for informational purposes to the general public. The City of Bothell does not make any representations or guarantees concerning the accuracy, currency, or completeness of the information provided by or contained in any third-party applications and websites, in part because such data may have been modified from its original source. The City of Bothell does not provide any warranty, express or implied, of the accuracy or fitness for a particular use, and the City shall not be held liable for improper or incorrect use of the data. Users access and use third-party applications and websites and the data therein at their own risk and liability.
+
+City of Bellingham, Washington
+
+In a 2013-01-23 email to User:dericke, Don Burdick GIS Project Manager for the City of Bellingham confirmed that their data may be used, provided the following disclaimer is referenced:
+
+    The City of Bellingham has developed these data and maps for its own use and no warranty expressed or implied is made regarding the merchantability and fitness for a particular purpose nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions, or intended use. The City of Bellingham shall not be held liable for improper or incorrect use of the data described and/or contained herein. The risk or liability resulting from the use of this product is entirely assumed by the user.
+
+City of Seattle, Washington
+
+In a 2012-11-30 10:49PT email to User:Jeffmeyer, Neil Berry of the City of Seattle Department of Information Technology confirmed that the inclusion of the below notice on this OpenStreetMap Contributors page would suffice for crediting the source of any City of Seattle-derived data used in OpenStreetMap.
+
+    City of Seattle Source Data Disclaimer
+    Some data made available here has been modified for use from its original source, which is the City of Seattle. Neither the City of Seattle nor the Office of the Chief Technology Officer (OCTO) makes any claims as to the completeness, timeliness, accuracy or content of any data contained in this application; makes any representation of any kind, including, but not limited to, warranty of the accuracy or fitness for a particular use; nor are any such warranties to be implied or inferred with respect to the information or data furnished herein. The data is subject to change as modifications and updates are complete. It is understood that the information contained in the web feed is being used at one's own risk.
+    Source: https://data.seattle.gov/page/data-policy
+
+King County, Washington
+
+In a 2012-12-09 12:05PT email to User:Jeffmeyer, George Horning, King County GIS Center Manager, confirmed that the inclusion of the below notice on this OpenStreetMap Contributors page would suffice for crediting the source of any King County-derived data used in OpenStreetMap.
+
+    King County, Washington Data Disclaimer
+    Data provided by permission of King County.
+    King County provides links to third-party applications and sites that use King County data for informational purposes to the general public. King County does not warrant or support these applications or sites, nor does King County endorse or sponsor these sites. King County is not affiliated or associated in any way with these organizations. The content and views expressed on these sites are not those of King County. You access and use these links and applications at your own risk. Neither King County nor any of its employees or agents shall be liable for your use of these links and applications, nor shall they be liable for the accuracy of the information or any actions taken as a result of using the information.
+    Source: http://www5.kingcounty.gov/gisdataportal/
+
+Pierce County, Washington
+
+In a 2020-09-18 email, Pierce County Spatial Services confirmed that GIS data from Pierce County is allowed to be used for editing and updating OSM.
+
+Clark County, Washington
+
+In a 2021-08-26 email to User:Tguen, Clark County issued the following statement:
+
+    Clark County, Washington Data Disclaimer
+    Clark County GIS Manager Bob Pool has confirmed that GIS data from Clark County is allowed to be used for editing and updating OSM. OpenStreetMap Contributors page would suffice for crediting the source of any Clark County-derived data used in OpenStreetMap. Clark County does not warrant the accuracy, reliability or timeliness of any information in its GIS system, and shall not be held liable for losses caused by using this information. Portions of this information may not be current or accurate. Any person or entity who relies on any information obtained from this system, does so at their own risk.
+
+Wisconsin
+
+State Cartographer's Office GeoData Portal
+
+The State Cartographer's Office provides a wide variety of spatial datasets at http://geodata.wisc.edu/opengeoportal/. These data are covered by Wisconsin's Public Records Law, and are Public Domain.
+
+Statewide Parcel Database
+
+According to Wisconsin's Public Records Law, Wisconsin's parcel data is considered Public Domain and available for use in OSM. Included is the following disclaimer:
+
+    The information shown on this map was obtained from Wisconsin’s counties in 2018 and thus may not be the most current, comprehensive data available. Source data for parcel polygons was collected between January–July of 2018. However, the tax roll year for most records is 2017, as the assessment cycle lags a year behind. To ensure the most current, comprehensive parcel data, consult the local government’s land information websites first, or contact the city or county land information office directly. The next release of the statewide parcel layer, V5, is tentatively scheduled for June 30, 2019.
+
+    No warranty, expressed or implied, is made regarding accuracy, completeness, or legality of the information herein. The boundaries depicted on this map do not represent the legal ownership boundaries of any property. The delineation of legal boundaries may only be conducted by a licensed surveyor. This map is not a survey of the actual boundary of any property this map depicts.
+
+Source: https://www.sco.wisc.edu/parcels/data/
+
+South America
+
+●Argentina
+
+OpenStreetMap data may include information provided by:
+
+  • Datos Abiertos del Gobierno de la Ciudad Autónoma de Buenos Aires
+  • Datos Abiertos del Gobierno de la República Argentina
+  • Datos Abiertos del Instituto Geográfico Nacional (IGN)
+  • Datos Abiertos del Ministerio de Energía (Minem)
+
+●Bolivia
+
+(fill in here)
+
+●Brazil
+
+OpenStreetMap contains data provided by the following sources.
+
+Countrywide
+
+  • Departamento Nacional de Infraestrutura de Transportes (DNIT).
+  • Instituto Brasileiro de Geografia e Estatística (IBGE). (Open Data)
+  • Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio).
+  • Banco de Dados Geográfico do Exército Brasileiro (BDGEx) - Documentation and licensing information are available at BDGEx Tile Layer.
+  • Fundação Nacional do Índio (Funai)
+  • Associação Brasileira de Telecomunicações (Telebrasil) - Licensing information are available at here
+  • Instituto Nacional de Pesquisas Espaciais (INPE) - Licensing information are available at here
+  • Agência Nacional de Telecomunicações (Anatel) - Licensing information are available at here (Open Data)
+  • Agência Nacional de Águas (ANA) - Licensing information are available at here (Open Data)
+
+
+Ceará
+
+Fortaleza
+
+Prefeitura Municipal de Fortaleza (PMF)
+
+  • AMC - Autarquia Municipal de Trânsito e Cidadania - Explicit authorization to data usage here.
+  • Fortaleza em Mapas - Explicit authorization to data usage here.
+  • Infraestrutura de Dados Espaciais - Explicit authorization to data usage here.
+
+
+Sobral
+
+Prefeitura Municipal de Sobral
+
+  • GeoServer Sobral - Explicit authorization to data usage here.
+  • Banco de Dados SEUMA - Explicit authorization to data usage here.
+
+
+Espírito Santo
+
+  • Departamento de Estradas e Rodagem do Espírito Santo (DER-ES).
+  • Instituto de Jones dos Santos Neves (IJSN). Licensing information can be found here.
+
+  • Sistema Integrado de Bases Geoespaciais do Estado do Espírito Santo (GEOBASES)
+
+Vitória
+
+  • Prefeitura de Vitória
+
+
+Mato Grosso do Sul
+
+Dourados
+
+Prefeitura Municipal de Dourados (PMD)
+
+  • GeoDourados - Explicit authorization to data usage here.
+
+
+Minas Gerais
+
+  • Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DER-MG).
+  • Secretaria de Estado de Meio Ambiente de Minas Gerais (SEMAD-MG)
+  • Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos (IDE-Sisema)
+
+Belo Horizonte
+
+Prefeitura de Belo Horizonte (PBH)
+
+  • BH Geo - Explicit authorization to data usage here.
+
+
+Paraná
+
+Curitiba
+
+Prefeitura Municipal de Curitiba
+
+  • IPPUC - Instituto de Pesquisa e Planejamento Urbano de Curitiba - Explicit authorization to data usage here.
+
+
+Rio de Janeiro
+
+  • Departamento de Estradas de Rodagem do Rio de Janeiro (DER-RJ).
+
+Rio de Janeiro City
+
+  • Dados Geográficos Abertos da Cidade do Rio de Janeiro - Instituto Pereira Passos (Data.Rio - IPP) - Explicit authorization to data usage here.
+
+
+Rio Grande do Sul
+
+  • Labgeo/UFRGS. Data originally appeared in Hasenack, H.; Weber, E.; Marcuzzo, S. (org.). Diagnóstico Ambiental de Porto Alegre: Geologia, Solos, Drenagem, Vegetação e Ocupação. Porto Alegre: Secretaria Municipal do Meio Ambiente, 2008. 84 p.
+
+
+São Paulo
+
+  • Departamento de Estradas e Rodagem de São Paulo (DER-SP).
+  • Desenvolvimento Rodoviário de São Paulo (DERSA-SP).
+  • Fundação Sistema Estadual de Análise de Dados (Seade-SP)
+  • Secretaria de Infraestrutura e Meio Ambiente (SIM-SP) - Licensing information are available at here
+  • Empresa Metropolitana de Transportes Urbanos de São Paulo (EMTU-SP).
+
+São Paulo City
+
+  • Prefeitura de São Paulo (SIG-SP) - GeoSampa
+  • Prefeitura de São Paulo
+
+Itapetininga
+
+  • Secretaria de Administração e Planejamento da prefeitura de Itapetininga - 1996 City General Map and 2016 specific area maps
+  • Secretaria de Planejamento da prefeitura de Itapetininga - 2010 City General Map
+
+Sorocaba
+
+  • Secretaria de Mobilidade, Desenvolvendo Urbano e Obras - City General Map and specific area maps
+  • Secretaria do Meio Ambiente - Environmental protected area maps and park locations
+  • Secretaria de Cultura e Turismo
+  • Secretaria de Cultura e Turismo
+  • Empresa de Desenvolvimento Urbano e Social de Sorocaba (URBES)
+
+●Chile
+
+Dirección de Vialidad - Ministerio de Obras Publica
+
+OpenStreetMap data may include information provided by the Dirección de Vialidad (Roads Department) from the Ministerio de Obras Públicas (Ministry of Public Works).
+
+Directorio de Transporte Público Metropolitano - Ministerio de Transporte y Telecomunicaciones
+
+OpenStreetMap data may include information provided by the Coordinación General de Transportes de Santiago (Directorio de Transporte Público Metropolitano in 2017) (General Transportation Coordinator of Santiago) including over ten thousand bus stops in Santiago.
+
+Secretaría de Planificación de Transporte (SECTRA) - Ministerio de Transporte y Telecomunicaciones
+
+OpenStreetMap data may include information provided by the Secretaria de Planificación de Transporte.
+
+Gobierno Regional Metropolitano de Santiago
+
+OpenStreetMap data may include information provided by the Gobierno Regional Metropolitano de Santiago including schools for the Metropolitan Region of Santiago.
+
+Instituto Nacional de Estadísticas (INE)
+
+OpenStreetMap data may include information provided by the Instituto Nacional de Estadísticas, including streetnames for the biggest cities in Chile.
+
+●Colombia
+
+OpenStreetMap data may include information found on the Instituto Geográfico Agustín Codazzi database, which includes street names and building addresses. Bogotá, Antioquia, Medellín, Cali and Barranquilla have their own cadastral departments and should be considered first before the national database. National data is undergoing an update and should be available in March 2020.
+
+OpenStreetMap data may include information found on the ideca database, which includes street names for Bogotá.
+
+●Ecuador
+
+(fill in here)
+
+●Guyana
+
+(fill in here)
+
+●Paraguay
+
+(fill in here)
+
+●Peru
+
+- Ministerio de Educación: http://sigmed.minedu.gob.pe/mapaeducativo/
+
+●Suriname
+
+(fill in here)
+
+●Uruguay
+
+AGESIC
+
+OpenStreetMap data may include information found on the Direcciones Geográficas del Uruguay data base by the Infraestructura de Datos Espaciales (IDE), which includes addresses for all the Uruguay territory from the Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento (AGESIC). The imagery layer utilized may be from the National Orthophotography Project: "Proyecto de adquisición de imágenes y modelos digitales de cobertura nacional". The license is posted on their site and they have also confirmed the data is usable for OSM.
+
+●Venezuela
+
+(fill in here)
+
+Europe
+
+Europe Multiple European countries
+
+Deutsche Bahn AG
+
+OpenStreetMap contributors use various datasets by Deutsche Bahn AG and its subsidiary companies from its open data portal. This affects
+
+  • Germany
+  • thousands of stations outside Germany
+  • German railway infrastructure in Switzerland which is coverd by "Vertrag zwischen der Schweizerischen Eidgenossenschaft und dem Grossherzogtum Baden betreffend die Weiterführung der badischen Eisenbahnen über schweizerisches Gebiet" (Contract between Swiss Confederation and Grand Duchy of Baden regarding the continuation of Baden railway lines over Swiss territory) from 27. July 1852
+
+The datasets have different licenses.
+
+●Austria
+
+  • City of Vienna (Stadt Wien) under CC BY 4.0 (since March 2019), (CC BY 3.0 AT (since May 2011) ).
+  • City of Linz (Stadt Linz) under CC BY 3.0 AT (since December 2011).
+  • City of Graz (Stadt Graz) under CC BY 3.0 AT (since June 2012).
+  • City of Salzburg (Stadt Salzburg) under CC BY 3.0 AT (since June 2012).
+  • Federal State of Vorarlberg (Land Vorarlberg) under CC BY 3.0 AT (since May 2012).
+  • Federal State of Tyrol (Land Tirol) licensed "gemäß CC BY 3.0 AT samt Erweiterungen zur Lizenz" (CC BY 3.0 AT with amendments) (since May 2012).
+  • Republic of Austria (Republik Österreich) under CC BY 4.0 (since March 2019), ( CC BY 3.0 AT (since April 2012) ).
+  • Environment Agency Austria (Umweltbundesamt) under CC BY 3.0 AT (since June 2012).
+  • Federal State of Styria (Land Steiermark, GIS-Steiermark) under CC BY 3.0 AT (since January 2013^[5]).
+  • Federal State of Styria (Land Steiermark, OGD-Portal) under CC BY 4.0 (since March 2019) (under CC BY 3.0 AT (since April 2013)). Special CC BY-Statement for OpenStreetMap.
+  • Federal State of Lower Austria (Land Niederösterreich) under CC BY 3.0 AT (since April 2013).
+  • Federal State of Carinthia (Land Kärnten) under CC BY 3.0 AT (since June 2013).
+  • Federal State of Salzburg (Land Salzburg) under CC BY 3.0 AT (since July 2014).
+  • geoimage.at(wiki) (collaboration of state administrations) under special license (for OSM) (since October 2010).
+  • basemap.at(wiki) (collaboration of state administrations) under CC BY 4.0 (since March 2019), ( CC BY 3.0 AT (since November 2012) ). Special permission for OpenStreetMap
+  • Adressregister des Österreichischen Bundesamtes für Eich- und Vermessungswesen (address data set of the Austrian Federal Office for Calibration and Measurement) (wiki) with special permission for OpenStreetMap (since March 15th, 2017)
+      □ © Österreichisches Adressregister 2017, N 23806/2017
+      □ Metadata for the address dataset
+
+●Andorra
+
+(fill in here)
+
+●Belgium
+
+B.R.I.C. UrbIS
+
+The Brussels Regional Informatics Centre publishes UrbIS under an open data licence (in French) compatible with the Open Government Licence (OGL), CC-BY 2.0 and Open Data Commons Attribution (ODC-BY) from the Open Knowledge Foundation.
+
+ADV
+
+Agentschap Digitaal Vlaanderen (a government agency, abbreviated ADV, formerly AIV and before that AGIV) release various datasets under open licenses compatible with the ODbL, which have been used by different mappers:
+
+  • Orthofoto's (orthophotos): aerial imagery. It includes recent imagery with a 25 cm resolution (captured every year), all earlier editions of that imagery, and imagery with a resolution of 10 cm (captured 2013 through 2015).
+  • CRAB: database with addresses and their positions. See AGIV CRAB Import.
+  • GRB: database with numerous geographical entries, including waterbodies, street areas and building outlines. Most publicly accessible features (e.g. the front sides of the buildings) have been measured on the ground with great accuracy (typically better than 10cm). See GRBimport.
+  • Wegenregister. Most of the data is owned by AIV itself, but some of it is also © NGI-IGN Nationaal Geografisch Instituut / Institut géographique national. AIV has the right to distribute the NGI-IGN data under the Flemish license for free re-use.
+  • Landbouwgebruikspercelen: a series of datasets owned by the agency / department Landbouw en Visserij. The data give an overview of land parcels used for agriculture, including information about crops grown on those parcels.
+
+De Lijn
+
+De Lijn (a public transport company in Flanders) publishes data about their stops and routes. See WikiProject Belgium/De Lijndata.
+
+Géoportail de la Wallonie
+
+Géoportail de la Wallonie (Wallonia Geo Portal) has a lot of maps on such subjects as geography, geology, wildlife and flora. [1] is data in WMS for cartography.
+
+TEC SRWT
+
+TEC (a public transport company in Wallonia) releases the data of all the bus/tram stop locations and routes under a CC-BY 4.0 International License.
+
+Famenne à Vélo
+
+We have explicit permission from Famenne à Vélo to add the cycle node network they developed, covering the town of Marche-en-Famenne (Namur, Liège, Luxembourg).
+
+Grote Routepaden (long distance paths Flanders)
+
+We have explicit permission to use the GPX files provided by Grote Routepaden vzw for improving GR routes in Flanders.
+
+Open data Antwerpen
+
+The city of Antwerp publishes open data. The license was explicitly created to enable reuse.
+
+Open data Ghent
+
+The city of Ghent publishes open data. The license is the Flemish "Modellicentie Gratis Hergebruik".
+
+Verkeersborden Vlaanderen
+
+The Verkeersborden Vlaanderen dataset collects traffic signs, managed by Agentschap Wegen en Verkeer, Departement Mobiliteit en Openbare Werken and Flemish municipalities. The data is released under the Flemish Modellicense for free re-use.
+
+Fondation Soignes - Stichting Zoniën
+
+This Foundation provides data about forest paths and access rules, with an explicit permission to use for OSM .
+
+●Bosnia and Herzegovina
+
+Bosnian news portal Klix.ba and their photographer Edin Hadžihasić have explicitly released their drone photos for tracing in OSM. The imagery is accessible on mapwarper.net under the tag "klix.ba".
+
+●Bulgaria
+
+(fill in here)
+
+●Croatia
+
+City of Knin
+
+  • Orthophoto aerial imagery from 2007. with a 20cm resolution. Hosted by OpenStreetMap Croatia. Written permission acquired by user:hbogner
+
+City of Zagreb
+
+City Office for the Strategic Planning and Development of the City
+
+  • Orthophoto aerial imagery from 2012. with a 25cm resolution. Hosted by OpenStreetMap Croatia. Written permission acquired by user:hbogner
+  • Orthophoto aerial imagery from 2018. with a 20cm resolution. Hosted by OpenStreetMap Croatia. Written permission acquired by user:hbogner
+  • Vector POI/AOI data from Geoportal. Hosted by OpenStreetMap Croatia. Written permission acquired by user:hbogner
+  • Vector topografical data from Geoportal. Hosted by OpenStreetMap Croatia. Written permission acquired by user:hbogner
+
+Zagrebački električni tramvaj
+
+  • GTFS data hosted on their website [2] Permissive license stated on the webpage.
+
+City of Rijeka
+
+  • Orthophoto aerial imagery. Open data licence. Written permission request in process by user:hbogner
+
+State geodetic administration
+
+Contains data from State geodetic administration
+
+  • Orthophoto aerial imagery from 2011. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Orthophoto aerial imagery from 2014-2016. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Orthophoto aerial imagery from 2017. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Topographic map 1:200 000. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Topographic map 1:100 000. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Topographic map 1:25 000. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Topographic map-new 1:25 000. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Gazetteer - Registry of geographical names. Hosted on Geoportal of State geodetic administration. Licence changed by request from user:hbogner
+  • Sisak-Moslavina County addresses, given for use to 2020 Petrinja earthquake relieve efforts. [3]
+
+●Czech Republic
+
+Contains data from:
+
+  • HSRS ("HELP SERVICE - REMOTE SENSING" spol. s r.o. http://www.bnhelp.cz)
+  • UHUL lesy ("ÚSTAV PRO HOSPODÁŘSKOU ÚPRAVU LESŮ" http://www.uhul.cz)
+  • IPR Praha ("INSTITUT PLÁNOVÁNÍ A ROZVOJE HLAVNÍHO MĚSTA PRAHY" http://www.iprpraha.cz)
+  • ROPID ("Regionální organizátor Pražské integrované dopravy" https://pid.cz/)
+  • Poštovní schránky (Česká Pošta https://www.ceskaposta.cz/)
+  • Katastrální mapa (Státní správa zeměměřictví a katastru https://www.cuzk.cz/)
+  • Adresy (RÚIAN - http://www.ruian.cz/)
+  • Jeskyně (Správa jeskyní České Republiky https://www.caves.cz/)
+
+  • We want to give big thanks to the Ústav pro hospodářskou úpravu lesů (Czech Forest Management Institute) for providing us their high resolution orthophoto map of whole republic. Without their ortophoto would be the mapping progress much weaker. We also want to thank them for providing us their forest database, which was imported into OSM.
+
+  • Thanks also to the Český úřad zeměměřický a katastrální for their cadaster map, which is allowing to make our map in high details.
+
+  • Ředitelství silnic a dálnic is providing us their road maps. Thanks for that.
+
+  • Thanks to the HELP SERVICE - REMOTE SENSING for providing us their data of primary and secondary roads.
+
+●Denmark
+
+See Da:Permissions for details and current status.
+
+Fugro Aerial Mapping
+
+Provided a complete set of aerial imagery from 2005 covering all of Denmark for use by OpenStreetMap. More details can be found here.
+
+Haderslev municipality
+
+Provided a set of data such as parking areas, schools, hotels etc. More details can be found here (in Danish)
+
+KMS
+
+Provided a dump of all address points from 2002. More details here.
+
+Kolding municipality
+
+Provided building data (and more?).
+
+OIOREST Geoservicen
+
+Web service run by IT & Telestyrelsen which provides access to updated address data. License information.
+
+Stevns municipality
+
+Provided a comprehensive set of data including buildings, water features, roads as well as high-resolution aerial imagery covering Stevns. More info here.
+
+Styrelsen for Dataforsyning og Effektivisering (SDFE)
+
+SDFE (earlier called Geodatastyrelsen) provides a 100 % aerial imagery coverage of Denmark in 10 cm resolution, photographed in the spring and released in december same year. Since 2015 it is being updated every year. They also provide building data for the country. License information. It's like a CC-BY license more information in Danish.
+
+Copenhagen municipality
+
+The City of Copenhagen provides open data through Open Data DK. The data includes road markings, and a map is available here. The license is similar to CC0 and CC-BY, see license information in Danish.
+
+●Estonia
+
+(fill in here)
+
+●Finland
+
+National Land Survey of Finland
+
+Contains data from the "Topographic Database", "Background map series (raster)", "Topographic map series (raster)", "NLS Ortophotos" and other datasets from the National Land Survey of Finland. Data has been received from 08/2013 onwards. Data recived before 01/2015 is licensed under NLS Open Data License and since then under CC-BY-4.0.
+
+Quote of the 2013 permission for the importing of the data
+
+Finnish Transport Agency
+
+Contains data from Finnish Transport Agency (under CC 40 BY) with explicit permission, that was retrieved from National Road and Street Database Digiroad on 21st of December, 2016 and on 30th of March, 2017.
+
+Licensed under CC-BY 4.0 International License.
+
+New link
+
+City of Tampere
+
+Contains open data provided by the City of Tampere, including:
+
+  • Bus stops, 2012 revision. Data has been modified.
+
+See licence information.
+
+Helsinki Region
+
+Aerial imagery provided by Helsinki Region Infoshare, licensed under CC-BY 4.0 by the municipalities of Espoo, Helsinki, Vantaa, Kirkkonummi and Nurmijärvi + Helsinki Regional Transport Authority (HSL) and Helsinki Region Environmental Services Authority (HSY).
+
+See permission
+
+City of Vantaa
+
+Contains building outlines provided by City of Vantaa.
+
+See Helsinki region building import
+
+City of Espoo
+
+Contains building outlines provided by City of Espoo.
+
+See Helsinki region building import
+
+City of Helsinki
+
+Contains building outlines provided by City of Helsinki.
+
+See Helsinki region building import
+
+Helsinki Regional Transport Authority / Helsingin Seudun Liikenne (HSL)
+
+Contains public transport data such as routes, stops etc. provided by Helsinki Regional Transport Authority, licensed under CC-BY-4.0 with OSM waiver.
+
+See Finland:Joukkoliikenne/HSL.
+
+City of Turku
+
+Contains geographical data from City of Turku, licensed under CC-BY-4.0 with OSM waiver.
+
+●France
+
+Contains cadastral data sourced from the Direction Générale des Impôts, now the Direction Générale des Finances Publiques (DGFiP).
+
+Contains post office locations, identifiers, and opening hours data sourced from La Poste.
+
+Other sources of data or used to create data are listed on Sources de données potentielles/France
+
+●Germany
+
+Nebenseite: DE:Potential_Datasources – Informationen über Datenquellen
+Nebenseite: DE:Permissions – detailierte Informationen über erteilte oder nicht erteilte Genehmigungen
+
+Deutschlandweite Datensätze
+
+Der DELFI e.V. stellt auf der Seite [4] unter anderem Daten aus dem zentralen Haltestellenverzeichnis für die Verwendung in Openstreetmap zur Verfügung.
+
+Baden-Württemberg Coat of arms of Baden-Württemberg (lesser).svg
+
+Seit dem 17.01.2013 stellt Baden-Württemberg gewisse amtliche Geodaten kostenlos unter CC-BY 3.0 zur Verfügung. In der zugehörigen Pressemitteilung wird OpenStreetMap erwähnt. Die Namensnennung hat in folgender Weise zu erfolgen: "Datenquelle: LGL, www.lgl-bw.de".
+
+Der Nahverkehrsverband Baden-Württemberg stellt u.a. seine Haltestellendaten mit ausdrücklicher Nutzungsgenehmigung für OSM zur Verfügung. Die Datensätze sind zu kennzeichnen „Datensatz der NVBW GmbH“ mit einem Link zur Seite https://www.nvbw.de/aufgaben/digitale-mobilitaet/open-data/.
+
+Die VAG Freiburg stellt seine GTFS-Daten für ÖPNV mit ausdrücklicher Nutzungsgenehmigung für OSM zur Verfügung. Die Datensätze sind zu kennzeichnen „Datensatz der VAG Freiburg“ mit einem Link zur Seite https://www.vag-freiburg.de/service-infos/downloads/gtfs-daten.
+
+Bayern Bayern Wappen.svg
+
+Bayrische Vermessungsverwaltung
+
+Im Rahmen der OpenData-Initiative gibt die Bayrische Vermessungsverwaltung folgende Daten zur Nutzung für OSM frei:
+
+  • Digitale Orthophotos DOP80 (Bodenauflösung 80 cm) [S:http://www.geodaten.bayern.de/ogc/ogc_dop80_oa.cgi?:S] https://geoservices.bayern.de/wms/v2/ogc_dop80_oa.cgi?SERVICE=WMS&REQUEST=GetCapabilities
+  • [S:Digitale Orthophotos DOP200 (Bodenauflösung 2 m) http://www.geodaten.bayern.de/ogc/ogc_dop200_oa.cgi?:S] (eingestellt)
+  • Digitales Geländemodell DGM50 und DGM200
+  • POI (u.a. Jugendherbergen und Hütten)
+  • Freizeitwege
+  • Verwaltungsgrenzen
+  • (aber NICHT Topo 50)
+
+Es gelten die selben Nutzungs-Bedingungen wie beim Pilotprojekt "Luftbilder aus Bayern":
+
+Die Daten bleiben im Besitz der Bayerischen Vermessungsverwaltung, dürfen aber zum Abzeichnen benutzt werden.
+
+Abgeleitete Daten - also OSM-Elemente - gehören OSM und dürfen unter der OSM-Lizenz veröffentlicht werden. --Markus 19:55, 14 December 2011 (UTC)
+
+English: Under CC-BY Creative Commons Attribution 3.0 German License (Datenquelle: Bayerische Vermessungsverwaltung – www.geodaten.bayern.de). See [5] for more information. Only the data licensed under CC-BY may be used for OSM!
+
+Stadt Erlangen
+
+Die Stadt Erlangen stellt ihr Luftbild 2013 unter der Creative Commons Namensnennung 3.0 Deutschland (CC BY 3.0 DE) zur Verfügung. © Stadt Erlangen | © Aerowest GmbH
+
+Die Stadt Erlangen stellt ihr Luftbild 2016 unter der Creative Commons Namensnennung 4.0 International (CC BY 4.0) zur Verfuegung (Attribution: © Stadt Erlangen | © GEOCART GmbH). Es gibt einen Extra-Absatz in den Lizenzbedingungen der explizit die Nennung unter den Contributors als fuer OSM ausreichend definiert.
+
+Die Stadt Erlangen stellt ihr Luftbild 2018 unter der Creative Commons Namensnennung 4.0 International (CC BY 4.0) zur Verfuegung (Attribution: © Stadt Erlangen | © Hansa Luftbild AG). Es gibt einen Extra-Absatz in den Lizenzbedingungen der explizit die Nennung unter den Contributors als fuer OSM ausreichend definiert.
+
+The city of Erlangen provides their Aerial Imagery 2016 and 2018 under Creative Commons Attribution 4.0 International (CC BY 4.0) (Attribution 2016: © Stadt Erlangen | © GEOCART GmbH; Attribution 2018: © Stadt Erlangen | © Hansa Luftbild AG). There is an extra section in the license restrictions permitting use for OSM by declaring the "attribution" satisfied with this Contributors listing.
+
+München
+
+Luftbilder der Landeshauptstadt München 60 cm Bodenauflösung: https://ogc.muenchen.de/wms/opendata_luftbild?SERVICE=WMS&REQUEST=GetCapabilities
+"Es gelten die Nutzungsbedingungen des Open Data Portals der Landeshauptstadt München, siehe https://www.opengov-muenchen.de/pages/nutzungsbedingungen. Darüber hinaus darf dieser WMS von den Mitwirkenden der OpenStreetMap-Community zur Pflege und Erweiterung des OpenStreetMap-Datenbestandes gemäß der OSM-Teilnehmervereinbarung genutzt werden. Dies ergibt sich nicht zuletzt aus dem Beitritt der Landeshauptstadt München zur Community OpenStreetMap – Deutschland (Beschluss des Verwaltungs- und Personalausschusses vom 21.11.2012, Sitzungsvorlage Nr. 08-14 / V 10524)".
+
+Münchner Verkehrsgesellschaft mbH (MVG)
+
+Die von der MVG als GTFS-Daten zur Verfügung gestellten Fahrplan-Daten dürfen für OSM genutzt werden.
+
+"Die auf unserer Website bereitgestellten GFTS-Daten stehen Ihnen ohne Einschränkungen zur Verfügung, somit können Sie sie auch gerne für OSM nutzen."
+
+Siehe auch: Beitrag im OpenStreetMap Forum und Eintrag unter "Permissions".
+
+Münchner Verkehrs- und Tarifverbund GmbH (MVV)
+
+Die vom MVV öffentlich zur Verfügung gestellten Fahrplandaten für den MVV-Regionalbusverkehr dürfen für OSM genutzt werden.
+
+"Die von uns angebotenen GTFS-Daten stehen unter der Creative Commons Attribution License (cc-by). Als Quellenangabe notieren Sie bitte: "Münchner Verkehrs- und Tarifverbund GmbH (MVV)" sowie das Datum des Abrufs. Die Daten aus unserem GTFS-Feed dürfen ausdrücklich für OpenStreetMap verwendet werden. In diesem Fall genügt es, im Source-Tag als Herkunft die Münchner Verkehrs- und Tarifverbund GmbH (MVV) und die Versionsnummer des Feeds anzugeben."
+
+Derzeit (2021-12-13) ist die Erlaubnis auf die Busse des Regionalverkehrs beschränkt, die GTFS-Daten enthalten nur deren Fahrplandaten. Siehe aber auch "Münchner Verkehrsgesellschaft mbH (MVG)" für die U-Bahnen, Trams und städtischen Busse in München.
+
+Siehe auch: Beitrag im OpenStreetMap Forum und Eintrag unter "Permissions".
+
+Flughafen München GmbH (FMG)
+
+Der Flughafen München stellt seit Juni 2020 einen Teil seiner Gebäudeflächen für die Aktualisierung der jeweiligen OSM-Daten zur Verfügung.
+Die Aktualisierung der Gebäudeflächen in OSM erfolgt dabei regelmäßig und ab sofort.
+Für nähere Informationen siehe: FMG-TE_JC
+
+Berlin Coat of arms of Berlin.svg
+
+Die Berliner Senatsverwaltung für Stadtentwicklung und Umwelt (SenStadtUm) stellt seit dem 1. Oktober 2013 Geodaten unter an CC-BY angelehnten Nutzungsbedingungen bereit. Nach einer senatseigenen Formulierung in den Jahren 2013-2019 gilt ab dem 6.6.2019 die "Datenlizenz Deutschland Namensnennung - Version 2.0" (Amtsblatt Berlin Nr. 21 / 17. Mai 2019 / Seite 3231).
+
+Gemäß einer Zusatzvereinbarung, die uns vom Senat schriftlich als PDF erteilt wurde, wird die erkennbare und in optischem Zusammenhang stehende Einbindung der Quellenverweise nur gefordert, wenn die Geodaten einen überwiegenden Anteil im Folgewerk haben. Wenn die veränderten Geodaten nur einen untergeordneten Anteil an dem Folgeprodukt haben, dann kann der Quellenvermerk für abgeleitete Werke auch an einer anderen Stelle (also hiermit im Wiki sowie als Changeset-source-Tag) angebracht werden.
+
+Der Quellenvermerk lautet: Geoportal Berlin / [Titel des Datensatzes] und soll jeweils in das source-Tag der Changesets aufgenommen werden.
+
+  • Weitere Hinweise zur Nutzung des Geoportals Berlin in OSM
+  • aktuelle Zusatzvereinbarung als PDF vom 3.6.2019
+  • archivierte allgemeine Nutzungsbedingungen 2013 - 2019
+  • OSM Forum zum Thema
+
+Brandenburg Brandenburg Wappen.svg
+
+Die Landesvermessung und Geobasisinformation Brandenburg (LGB) stellt seit dem 15. Januar 2020 digitale Geobasisinformationen und Geodatendienste gemäß BbgVermG (20. Juni 2019) und BbgGeoNutzV (23. Dezember 2019) unter Anwendung der "Datenlizenz Deutschland Namensnennung - Version 2.0" (dl-de/by-2-0) entgeltfrei zur Verfügung. Gemäß den Allgemeinen Geschäfts- und Nutzungsbedingungen (AGNB) der LGB (April 2020), wird die erkennbare und in optischem Zusammenhang stehende Einbindung der Quellenverweise nicht gefordert, wenn die Geobasisdaten im Folgeprodukt des Nutzers nur einen untergeordneten Anteil haben und dem Folgeprodukt mehrere Ausgangsquellen zugrunde liegen. Es genügt in diesem Fall, den Quellenvermerk an anderer geeigneter Stelle beizugeben. Zu Details der rechtlichen Situation siehe Brandenburg/Geoportal.
+
+Die Nutzung der Geobasisdaten entsprechend den AGNB wurde der LGB angezeigt. Der Quellenvermerk lautet: © GeoBasis-DE/LGB, dl-de/by-2-0, Daten geändert. Die Quelle GeoBasis-DE/LGB (Jahr)/ [Titel des Datensatzes] soll jeweils in das source=*-Tag der einzelnen Changesets aufgenommen werden.
+
+Bremen Bremen Wappen.png
+
+Auf dem Portal www.daten.bremen.de stellt die bremische Verwaltung Datensätze zur Verfügung. Diese können aus den unterschiedlichsten Bereichen stammen z.B. Umwelt, Verkehr, Wetter, Statistik, Geoinformationswesen, Bildung, Gesundheit oder Finanzen.
+
+Von OSM werden davon vollständig oder teilweise genutzt.
+
+  • Umweltbetrieb Bremen (UBB): Hundekotbehälterstandorte in Bremen
+    Als Referenz wird das Feld STRASSE benutzt.
+  • Umweltbetrieb Bremen (UBB): Parkbänke in öffentlichen Grünanlagen und auf kommunalen Friedhöfen.
+    Als Referenz wird das Feld OBJECTID benutzt.Die Zuordnung zum Datensatz der bremischen Verwaltung ist durch folgendes Tag gegeben. ref:ubb:bench=*
+
+Hamburg Coat of arms of Hamburg.svg
+
+Landesbetrieb Geoinformation und Vermessung
+
+Der LGV Hamburg (Landesbetrieb Geoinformation und Vermessung) stellt über ein Online-Portal und über diverse Geo-Dienste Daten unter der "Deutschland Namensnennung 2.0" Datenlizenz bereit. Eine entsprechende Quellenangabe in Changesets ist dabei verpflichtend z.B. im Format "HH LGV <Dienstname> <Jahr>" (Beispiel "HH LGV ALKIS 2021" oder "HH LGV DOP20 2021"). Damit ist es uns gestattet die Daten zu nutzen.
+
+  • Online Portal Geo-Online: https://geoportal-hamburg.de/geo-online/
+  • Geobasisdaten (DK5, DISK20, DISK60, DIRK150, DIRK600)
+  • DOP 40 cm, DOP 20 cm
+
+Quelle: Freie und Hansestadt Hamburg, Landesbetrieb Geoinformation und Vermessung, Lizenz: Datenlizenz Deutschland - Namensnennung - Version 2.0
+
+In Changesets verkürzt als: HH LGV <Dienstname> <Jahr>. Die Layer in JOSM heißen u.A. Hamburg DK5 und Hamburg 20cm.
+
+Weitere Informationen und Diskussionen:
+
+  • Foren-Diskussion
+  • DE:Permissions/LGV_Hamburg_2021
+
+Kulturbehörde, Denkmalschutzamt
+
+Denkmalliste Hamburg, Daten auch auf Karte und als Dokument verfügbar.
+
+Quelle: Freie und Hansestadt Hamburg, Kulturbehörde, Denkmalschutzamt, 2013, Lizenz Datenlizenz Deutschland - Namensnennung - Version 2.0
+
+In Changesets verkürzt als Denkmalliste Hamburg.
+
+Hesse Coat of arms of Hesse.svg
+
+Hessische Verwaltung für Bodenmanagement und Geoinformation
+
+Nach §18 HVGG, stellt die HVBG alle ihrer Geodaten frei zu Verfügung. Zurzeit in Benutzung ist das Luftbild DOP20.
+
+Während das HVGG es nicht explizit vorschreibt, ist es doch empfohlen, den Namen des Luftbildes im Änderungssatz zu vermerken. (Die meisten Editoren machen dies sowieso automatisch)
+
+Frankfurt am Main
+
+Der Magistrat der Stadt Frankfurt am Main stellt in dem Portal OffeneDatenFRANKFURT.de zahlreiche amtliche Daten Rahmen unter der Datenlizenz Deutschland – Namensnennung Version 2.0 zur Verfügung.
+
+Es wurde eine ausdrückliche Erlaubnis zur Nutzung sämtlicher Daten aus diesem Portal erteilt. Hierunter fallen (ohne Anspruch auf Vollständigkeit):
+
+  • Hauskoordinaten der Stadtgrundkarte Frankfurt
+  • WMS Luftbild 2017
+
+Im Änderungssatz ist ein Quellenvermerk anzubringen, eine bestimmte Formulierung wird seitens der Stadt Frankfurt am Main nicht vorgegeben.
+
+North Rhine-Westfalia Coat of arms of North Rhine-Westfalia.svg
+
+Verkehrsverbund Rhein-Ruhr AöR
+
+Der VRR veröffentlicht seit dem Herbst 2017 Daten im OpenData-Portal OpenVRR. Diese stehen unter der Lizenz Open Data Commons Attribution License (odc-by).
+In den Datensatzbeschreibungen steht "Wenn die Daten der Verkehrsverbund Rhein-Ruhr AöR (VRR AöR) Bestandteil des OpenStreetMap Datenbankwerkes werden, genügt eine Nennung der VRR AöR in der Liste der Beitragenden. [...]".
+
+Die Daten sind eine sehr nützliche Ergänzung zu den bereits bestehenden Möglichkeiten wie dem VRR EFA OSM Projekt, die Zusammenarbeit ist hier beschrieben.
+
+Verkehrsverbund Rhein-Sieg GmbH
+
+Der VRS trägt seit 2010 Daten zum Projekt bei.
+Mit Freigabeschreiben vom 10.10.2018 wird der öffentlich zugängliche Teil des Internetauftrittes der Verkehrsverbund Rhein-Sieg GmbH zur Verbesserung des OpenStreetMap-Datenbestandes freigegeben.
+
+Köln
+
+Die Stadt Köln, Amt für Stadtentwicklung und Statistik veröffentlicht durch E-Government und Online-Dienste unter www.offenedaten-koeln.de u.a. die amtlichen Geodaten als Shape-Dateien unter ccby3.0de. Unter anderem wurden veröffentlicht: administrative Grenzen (level6-11) und Adressen des Stadtgebietes.
+
+Moers
+
+Das OpenData-Portal der Stadt Moers stellt Datensätze zum Download bereit. Die Datensätze stehen weitestgehend unter der Datenlizenz Deutschland. Für die Nutzung der Daten in der OpenStreetMap ist das Objekt mit Tag:source=offenedaten.moers.de zu taggen. Außerdem wird empfohlen, den DE:Changeset ebenfalls mit Tag:source=offenedaten.moers.de zu versehen. Sollte an einem Objekt mehrere Quellen verwendet worden sein, so sollten die Werte entweder mit Semikolon getrennt werden (source=bing;offenedaten.moers.de) oder mehrere key:sources eintragen (source:addr=offenedaten.moers.de und source:geo=bing).
+
+Bielefeld
+
+Die Stadt Bielefeld, Amt für Geoinformation und Vermessung, veröffentlicht im Open Data Portal unter anderem (https://open-data.bielefeld.de) auch die bielefeldKARTE als WMS unter Creative Commons Attribution 4.0 International (CC BY 4.0). Bei Nutzung der bielefeldKARTE als Datengrundlage in OSM ist kein Quellenvermerk erforderlich. Die bielefeldKARTE ist die tagesaktuelle Basiskarte der GDI Bielefeld und nutzt Daten aus ALKIS (Gebäude, Hausnummern, administrative Grenzen, tatsächliche Nutzung) und OSM für die Objektdarstellung.
+
+Bonn
+
+Die Bundesstadt Bonn, Amt für Organisation und Informationstechnologie veröffentlicht unter OpenData.bonn.de u.a. die amtlichen Geodaten als Shape-Dateien unter Datenlizenz-Deutschland Namensnennung-Version 1.0. Für die Nutzung der Daten in der OpenStreetMap ist das Objekt mit source=Datenquelle: Bundesstadt Bonn-OpenData.Bonn.de zu taggen.
+
+    (Dieser Artikel wird in Kürze noch weiter ausgestaltet)
+
+Sachsen-Anhalt Wappen Sachsen-Anhalt.svg
+
+Landesamt für Vermessung und Geoinformation LSA
+
+Seit dem 01.01 2021 stellt das Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo) digitale Geobasisdaten als Datendownload und über Dienste online unter Anwendung der Datenlizenz Deutschland – Namensnennung – Version 2.0 (dl-de/by-2-0) über das Geodatenportal des Landesamtes kostenfrei zur Verfügung. Als Bezeichnung des Bereitstellers nach Absatz 2 Nr. 1 dieser Lizenz ist „© GeoBasis-DE / LVermGeo LSA“ anzugeben. Im Übrigen gelten die Nutzungsbedingungen des LVermGeo https://www.lvermgeo.sachsen-anhalt.de/de/nutzungsbedingungen.html. Alle über die Portalseite https://www.lvermgeo.sachsen-anhalt.de/de/kostenfreie_geobasisdaten_lvermgeo.html kostenfrei bereitgestellten WMS-Dienste können zum Abzeichnen für OSM verwendet werden.
+
+In Changesets ist die Angabe der Quelle mit dem Key:source wie folgt anzugeben:
+
+    © GeoBasis-DE / LVermGeo LSA, dl-de/by-2-0", Verweis auf Datensatz (z.B. ST DOP20)
+
+Weitere Infos sind auf der Seite DE:Permissions/Geobasisdaten Sachsen-Anhalt zu finden.
+
+Landesamt für Umweltschutz LSA
+
+Naturschutzgebietsdaten werden von Landesamt für Umweltschutz Sachsen-Anhalt importiert. Die Erlaubnis zur Nutzung ist auf der Import-Seite angegeben. Die Daten werden mit source=Landesamt für Umweltschutz Sachsen-Anhalt, source:metadata=http://www.metaver.de/trefferanzeige?cmd=doShowDocument&docuuid=A16D544B-6DB0-47EA-8285-C1BC2ED2F418&plugid=/ingrid-group:dsc-adr-ST getaggt.
+
+Sachsen Coat of arms of Saxony.svg
+
+Dresden
+
+Die Landeshauptstadt Dresden veröffentlicht Daten im OpenData-Portal unter der Datenlizenz Deutschland – Namensnennung – Version 2.0. Die Namensnennung kann für die OpenStreetMap-Nutzung "z. B. in der Projektdokumentation, den Metadaten oder auch in einer Anwendungsoberfläche" erfolgen.
+
+Datenquelle: Landeshauptstadt Dresden, dl-de/by-2-0 (www.govdata.de/dl-de/by-2-0), opendata.dresden.de
+
+Sachsen, Thüringen, Sachsen-Anhalt
+
+Der Mitteldeutsche Verkehrsverbund GmbH (MDV) stellt in seinem Tarifgebiet (Teile Sachsens, Sachsen-Anhalts & Thüringens) offene Fahrplandaten im GTFS-Format zur Verfügung. Dort sind momentan Haltestellenstandorte enthalten. Der Datensatz steht unter CC BY 4.0 DE. Die Nutzung für Zwecke in OSM ist explizit gestattet. Ein entsprechender Hinweis findet sich unter Downloads unter Open Data.
+
+Erfurt
+
+In Erfurt, two iniatives are found as contributors to OSM: Erfurt/Stammtisch and Bauhaus.MobilityLab.
+
+
+Rhineland-Palatinate
+
+Nibelungenstadt Worms
+
+Zur Recherche darf das Luftbild der Stadt Worms verwendet werden. Abgeleitete Informationen dürfen in OSM aufgenommen und veröffentlicht werden. Für mehr Infos, Siehe Projektseite.
+
+●Hungary
+
+  • A vast amount of data has been imported from Corine Land Cover Hungary. (We attempted to mark all these relations with the tags either "source"="CLC_HUN" or "source"="© EEA, Koppenhága (2009); Készítette a FÖMI a KvVM megbízásából (2009)".)
+
+    Source of the data: © EEA, Koppenhága (2009); Készítette a FÖMI a KvVM megbízásából (2009), which translates to: © EEA, Copenhagen (2009); Made by FÖMI on behalf of KvVM (2009)
+    See CORINE information page (in Hungarian).
+
+  • GYSEV contributed vector data of railway network in April, 2014.
+  • MAVIR contributed vector data of power lines in January, 2015.
+  • Since February 1, 2015 database and raw gps traces are available from turistautak.hu under ODbL. Data can be downloaded from a read-only OSM API using realtime data conversion Contributions are tagged with source=turistautak.hu
+
+●Iceland
+
+  • Some address data has been imported from Þjóðskrá Íslands using Staðfangaskrám released under OGL. See Staðfangaskrá Import.
+      □ Versions used: 14.02.2016
+  • Coastline and water data from the Landmælingar Íslands. See WikiProject Iceland#Free data sources
+
+●Ireland
+
+(fill in here)
+
+●Italy
+
+Italian regions
+
+Piemonte/Piedmont
+
+Contains data by the Regional Administration of Piedmont provided by Dati Piemonte released under cc-by 2.5 license or creative commons zero - public domain dedication.
+
+Toscana/Tuscany
+
+Contains data by the Regional Administration of Tuscany provided by Dati Toscana and Giroscopio] released under cc-by 3.0 license.
+
+Puglia/Apulia
+
+Contains data by the Regional Administration of Apulia provided by SIT Puglia released under "open by default" cc-by 4.0 license.
+
+Emilia Romagna/Emilia Romagna region
+
+Contains data by the Regional Administration of Emilia Romagna provided by Geoportale E-R released under cc-by 2.5 license with an additional explicit permission.
+
+Italian provinces
+
+Biella (BI)
+
+Contains data provided by Sistema Informativo Territoriale Ambientale - Provincia di Biella released under CC-BY-3.0 IT license.
+
+Italian cities
+
+Bergamo
+
+Contains data from based maps of City of Bergamo provided by Open Data Lombardia released under IODL 2.0 - Italian Open Data License.
+
+Biella
+
+Contains data from based maps of City of Biella provided by Biella Open Data released under IODL 2.0 - Italian Open Data License.
+
+Bologna
+
+Contains data based on imagery from the City of Bologna provided by Comune di Bologna Open Data released under CC-BY 4.0 ODbL compliant.
+
+Lecce
+
+Contains data from base maps of City of Lecce provided by Lecce Open Data released under CC-By 4.0 - Creative Commons Attribution 4.0.
+
+Merano
+
+Contains data from "Comune di Merano, Ufficio Urbanistica, Servizio GIS".
+
+Montagna in Valtellina
+
+Contains data provided by Comune di Montagna in Valtellina released under CC-BY 4.0 with ODbL addendum.
+
+Palermo
+
+Contains data from based maps of City of Palermo provided by CARTA TECNICA COMUNALE - UNITÀ VOLUMETRICHE released under - CC BY 4.0.
+
+Reggio nell'Emilia
+
+Contains data from maps of City of Reggio nell'Emilia provided by Opendata Comune di Reggio Emilia released under CC-By 4.0 - Creative Commons Attribution 4.0.
+
+Torino
+
+Contains data from City of Torino Technical map 2012 provided by Geoportale Comune di Torino released under CC-By 2.5 license. See this page for details (in Italian)
+
+Venezia
+
+Contains data from based maps of City of Venice provided by Cartografia di base del Comune di venezia released under IODL 2.0 - Italian Open Data License.
+
+Verona
+
+Contains data in shape and csv format relative to streets and addresses of Verona municipality provided by Comune di Verona released under IODL 2.0 - Italian Open Data License.
+
+●Kosovo
+
+Addressing data provided by Republic of Kosovo Cadaster Agency are available by virtue of Article 20 of the Law No. 04/L-071 on Address System and an MoU between Cadaster Agency and local NGO FLOSSK.
+
+●Latvia
+
+  • Latvijas valsts meži
+  • LGIA
+  • LVC and others. See Latvian data sources page for more details
+  • The State Land Service of Latvia (VZD) gave permission to use the published open data released under the CC-BY 4.0 licence.
+
+●Lithuania
+
+Contains data from:
+
+  • National Land Agency
+  • Vilnius municipality
+  • Lithuanian Road Administration
+
+and others. See Lithuanian data sources page for more details
+
+●Luxembourg
+
+(fill in here)
+
+●Netherlands
+
+AND
+
+Contains © AND data, 2007 (www.and.com)
+
+510 - Netherlands Red Cross
+
+510 gave permission to import roof shape and roof material data set for St. Maarten (SXM) under the ODbL licence.
+
+ProRail
+
+The Dutch rail infrastructure owner provides public data through OpenOV and gave permission to make use of their downloadable RailMaps content. Railmaps is ProRail's GIS database.
+
+Kadaster/Beeldmateriaal
+
+Kadaster / Beeldmateriaal gave permission to use the aerial photo (luchtfoto) WM(T)S released under the CC-BY 4.0 licence.
+
+BGT / BRT
+
+The Dutch Ministry of the Interior and Kingdom Relations (BZK) gave permission to use the Basisregistratie Grootschalige Topografie (BGT) and Basisregistratie Topografie (BRT) released under the CC-BY 4.0 licence.
+
+3D Basisbestand Volledig
+
+The Dutch Ministry of the Interior and Kingdom Relations (BZK) gave permission to use the 3D Basisbestand Volledig)] released under the CC-BY 4.0 licence.
+
+DKK
+
+The Dutch Ministry of the Interior and Kingdom Relations (BZK) gave permission to use the Digitale kadastrale kaart (DKK) released under the CC-BY 4.0 licence.
+
+CBS / Kadaster
+
+Centraal Bureau voor de Statistiek, gave permission to use the Wijk en buurtkaart released under CC-BY 3.0 licence.
+
+Rijksmonumenten / Rijksdienst voor het Cultureel Erfgoed
+
+The Dutch Cultural Heritage Agency gave permission to use the Rijksmonumenten dataset released under CC-BY 3.0 licence.
+
+Wandelnet
+
+Wandelnet gave permission to use the map of hiking node networks
+
+Gemeente Hengelo
+
+Gemeente Hengelo gave permission to use open data released under the CC-BY 3.0 licence to improve OpenStreetMap, if Gemeente Hengelo is mentioned in the source tag of the changeset.
+
+MTBroutes.nl
+
+MTBroutes.nl gave permission to use their route data to improve OpenStreetMap, if MTBroutes.nl is mentioned in the source tag of the changeset.
+
+●Norway
+
+Kartverket (Norwegian Mapping Authority)
+
+Contains data from Kartverket (Norwegian Mapping Authority) released under the CC BY 4.0 licence. More information.
+
+Statens Vegvesen (The Norwegian Public Roads Administration)
+
+Contains data from Statens Vegvesen (The Norwegian Public Roads Administration) released under the Norwegian Licence for Open Government Data (NLOD). More information
+
+Norsk Polarinstitutt (Norwegian Polar Institute)
+
+Contains data from Norsk Polarinstitutt (Norwegian Mapping Authority) released under the CC BY 4.0 licence. More information.
+
+Miljødirektoratet (Norwegian Environment Agency)
+
+Contains data from Miljødirektoratet (Norwegian Environment Agency). More information released under the Norwegian Licence for Open Government Data (NLOD). More information.
+
+Riksantikvaren (Norwegian Directorate for Cultural Heritage)
+
+Contains data from Riksantikvaren (Norwegian Directorate for Cultural Heritage) released under the NLOD license. More information.
+
+Norges vassdrags- og energidirektorat (Norwegian Water Resources and Energy Directorate)
+
+Contains data from Norges vassdrags- og energidirektorat (the Norwegian Water Resources and Energy Directorate) released under the NLOD. More information.
+
+Kystverket (Norwegian Coastal Administration)
+
+Contains data from Kystverket (Norwegian Coastal Administration) released under the NLOD license. More information.
+
+Fiskeridirektoratet (Norwegian Directorate of Fisheries)
+
+Contains data from Fiskeridirektoratet (Norwegian Directorate of Fisheries) released under the NLOD license. More information.
+
+Oljedirektoratet (Norwegian Petroleum Directorate)
+
+Contains data from Oljedirektoratet (Norwegian Petroleum Directorate) released under the NLOD license. More information
+
+Direktoratet for mineralforvaltning (Norwegian Directorate of Mining)
+
+Contains data from Direktoratet for mineralforvaltning (Norwegian Directorate of Mining) released under the NLOD license.
+
+Utdanningsdirektoratet (Norwegian Directorate for Education and Training)
+
+Contains data from the Norwegian Directorate for Education and Training (Utdanningsdirektoratet) released under the NLOD license. More information.
+
+Direktoratet for samfunnssikkerhet og beredskap (DSB) (Norwegian Directorate for Civil Protection)
+
+Contains data from Norwegian Directorate for Civil Protection) (Direktoratet for samfunnssikkerhet og beredskap (DSB)) released under the NLOD license. More information.
+
+Direktoratet for e-helse (Norwegian Directorate of eHealth)
+
+Contains data from Norwegian Directorate of eHealth (Direktoratet for e-helse). More information.
+
+Brønnøysundregistrene (Brønnøysund Register Centre)
+
+Contains data from Brønnøysund Register Centre (Brønnøysundregistrene). More information.
+
+Nasjonalbiblioteket (National Library of Norway)
+
+Contains libraries from BaseBibliotek. More information.
+
+Kulturdepartementet (Norwegian Ministry of Culture)
+
+Contains sports and cultural facilities from Anleggsregisteret More information.
+
+Mattilsynet (Norwegian Food Safety Authority)
+
+Contains restaurants from inspections released under the NLOD license. More information.
+
+Posten Norge
+
+Contains post offices, parcel lockers and post boxes from Posten Norge released with explicit permission to OSM. More information.
+
+Entur
+
+Contains stop places from the National stop register released under the NLOD license. More information.
+
+Kirkelig arbeidsgiver- og interesseorganisasjon (Norwegian Association for Church Employers)
+
+Contains data from Kirkelig arbeidsgiver- og interesseorganisasjon (Norwegian Association for Church Employers) released under the NLOD license. More information.
+
+Kolumbus.no
+
+By permission of NLOD license: "Inneholder data under Norsk lisens for offentlige data (NLOD) tilgjengeliggjort av Kolumbus". Position, ref and name for highway=bus_stop's merged into OSM from from Kolumbus.no's GTFS stops.txt.
+
+Sortere.no
+
+Contains recycling stations from Sortere.no released with explicit permission to OSM. More information.
+
+Norwegian Consumer Council
+
+Contains dental clinics from hvakostertannlegen.no released with explicit permission to OSM. More information.
+
+Municipality of Oslo (Oslo kommune)
+
+Contains data from Municipality of Oslo (Oslo kommune) released under the NLOD license. More information.
+
+Municipality of Bergen (Bergen kommune)
+
+Bergen kommune has provided data on playgrounds in Bergen under the Norwegian Licence for Open Government Data (NLOD). More information.
+
+Municipality of Sørum (Sørum kommune)
+
+Sørum kommune has provided geodata with foot and cycle routes and cross-country ski pistes in Sørum municipality, which is included in OpenStreetMap with from Sørum kommune. More information.
+
+●Poland
+
+OSM
+    See Category:Pl:Importy
+UMP pcPL
+    Contains data from the UMP pcPL project (http://ump.waw.pl/ and also in English) and owned by this project's contributors. This is a community project in Poland very similar in spirit to OSM but with a focus on providing very high-quality road data for Garmin GPS devices.
+Data from gminas and powiats
+    Contains data from:
+      □ Urząd Miasta Bytom
+      □ Urząd Miasta Katowice
+      □ Urząd Miasta Zabrze
+
+●Portugal
+
+OpenStreetMap contains data provided by the following sources:
+
+Câmara Municipal de Lisboa
+    Information licensed under the Public Domain Mark 1.0 available in Geodados - Plataforma de Dados Abertos Georreferenciados - Details (portuguese)
+Câmara Municipal do Porto
+    Information licensed under the Open Data Commons Open Database License 1.0 (ODbL) available in Portal de Dados Abertos da cidade do Porto - Details (portuguese)
+
+●Romania
+
+Norc.ro
+
+Donated 30GB of tracks (available under NorcTracks account) and the possibility to derive data from their street-view like images for all the countries. See Norc website for more information.
+
+Guvernul României
+
+Data published on the Open Data Portal are licensed under the OGL-ROU license.
+
+    Attribution: "Conține informații publice în baza Licenței pentru Guvernare Deschisa v1.0" and a link to the date.gov.ro website.
+
+Primăria Municipiului București
+
+Data published on http://urbanism.pmb.ro/ are considered open source data in accordance with the "Guide for open source data publishing " from ogp.gov.ro
+
+●Russia
+
+Administration of Perm
+
+Perm municipal administration gives a permission to use data from ISOGD Portal.
+
+Administration of Rybinsk
+
+Base data in and around city of Rybinsk by Administration of Rybinsk.
+
+Administration of Togliatti
+
+Administration of Togliatti gives permission to use data from EMGIS.
+
+Government of the Rostov region
+
+Ministry of Digital Development, Information Technologies and Communications of the Rostov Region gives permission to use data from GIS RO.
+
+BaikalNavi
+
+Data for some towns in Zabaykalsky Krai was provided by BaikalNavi.
+
+Ministry of Culture
+
+Open data from Ministry of Culture of Russian Federation can be used in the OpenStreetMap because the special permission was given.
+
+Moscow City Government
+
+Some data in the Moscow City is imported from the Moscow Open Data Portal with permission by the Department of Information Technology. Original data (c) Moscow City Government, CC-BY 3.0. Permissions granted for all data from the portal.
+
+OpenSpeedcam
+
+Data for speedcams and other road features from OpenSpeedcam web-site are free to use in OSM according permission.
+
+vsedomarossii
+
+The owner of the site "vsedomarossii" (in English "All houses of Russia") gives permission to edit OSM data based on their images.
+
+Yandex.Panoramas
+
+Yandex gives permission to use their panoramas for OSM editing. It is important to remember that you can only use photo itself, without blue address plates displayed on top of the photos.
+
+●Serbia
+
+Mountaineering association of Serbia
+
+Hiking routes, for more information visit (RS), permission obtained (RS).
+
+Tourist Organization of Cacak
+
+Hiking routes of Ovcar-Kablar gorge, permission obtained (RS).
+
+PK Tara
+
+Hiking routes of National Park Tara, permission obtained (RS).
+
+PE „Djerdap National Park“
+
+Hiking trails of National Park Đerdap, permission obtained (RS).
+
+PE Vojvodinašume
+
+Hiking trails of SRP Obedska bara, permission obtained (RS).
+Hiking trails of SRP Deliblatska peščara and SRP Gornje Podunavlje, permission obtained (RS).
+
+PK Javorak
+
+Hiking trails around Grza, Paraćin, permission obtained (RS).
+
+Zapisi - Zoran Blagojević
+
+Sacred trees in Serbia, permission obtained (RS).
+
+Pošta Srbije
+
+Post offices, permission obtained (RS).
+
+Institute for the Protection of Cultural Monuments of Serbia
+
+monuments in Serbia, permission obtained (RS)
+
+itt.rs/treeking
+
+hiking routes, permission obtained (RS)
+
+●Slovakia
+
+All agreement details of the following sources for Slovakia are on WikiProject Slovakia/Sources page.
+
+Forestry roads marked with source=nlc (or source=NLC): NLC (Národné Lesnícke Centrum, Zvolen, Slovakia)
+
+Data with source="Ortofotomozaika SR" derived from National forestry center (Národné lesnícke centrum vo Zvolene) and Geodetic and Cartographic Institute Bratislava (Geodetický a kartografický ústav Bratislava) imagery. © GKÚ, NLC; r.2017-2019.
+
+Data with source=ZBGIS derived from geoportal.sk WMS. ZBGIS®, Úrad geodézie, kartografie a katastra Slovenskej republiky
+
+Geomorphological units from Geografický ústav Slovenskej akadémie vied: source="Geografický ústav SAV"
+
+●Slovenia
+
+Republic of Slovenia, Ministry of Agriculture, Forestry and Food
+
+Actual land use data (Evidenca dejanske rabe kmetijskih zemljišč) from Ministry of Agriculture, Forestry and Food - for details see Slovenia Landcover Import - RABA-KGZ, tagged with source=RABA-KGZ
+
+    Note: Due to ongoing changes the imported land use data might not always represent the current (on the ground) or official land use (official in Slovene: "Evidenca dejanske rabe kmetijskih in gozdnih zemljišč se sprotno posodablja, glede na dostopnost virov in informacij. Prikazano stanje ne odraža vedno trenutnega stanja")
+
+The Surveying and Mapping Authority of the Republic of Slovenia
+
+Administrative borders of Slovenia (country border, statistical regions...), from Geodetska uprava Republike Slovenije, tagged with source=GURS
+
+    Note: Public information of Slovenia, The Surveying and Mapping Authority of the Republic of Slovenia (official in Slovene: "Javne informacije Slovenije, Geodetska uprava Republike Slovenije")
+
+●Spain
+
+Instituto Geográfico Nacional y Sistema Cartográfico Nacional (National Mapping Agency and National Cartographic System for Spain)
+
+Instituto Geográfico Nacional (IGN) and Sistema Cartográfico Nacional (SCNE) are providing to OpenStreetMap several valuable resources:
+
+  • The official imagery (PNOA) is allowed to be used for tracing. Details
+  • Municipality boundaries, geodetic and elevation points and place names were imported. Details
+  • CORINE Land Cover. Details
+  • Infraestructura de Datos Espaciales de España (IDEE), Centro Nacional de Información Geográfica, Instituto Geográfico Nacional
+
+See the original license(es) and the open letter the IGN wrote to the OSM community.
+
+Attribution for the aerial imagery (PNOA): "Obra derivada de OrtoPNOA 2004-2022 CC-BY 4.0 scne.es"
+Attribution for the Basic Geographic Nomenclature of Spain: "Obra derivada de NGBE 2010-2022 CC-BY 4.0 ign.es"
+Attribution for the Nomenclature of Municipalities and Population Entities: "Obra derivada de NGMEP 2011-2022 CC-BY 4.0 ign.es"
+Attribution for the Administrative boundaries: "Obra derivada de BDLJE 2009 CC-BY 4.0 ign.es"
+Attribution for CORINE-Land Cover: "Obra derivada de CORINE-Land Cover 2006 CC-BY 4.0 scne.es"
+Attribution for the National Geodetic Network: "Obra derivada de VGN 2007 CC-BY 4.0 ign.es"
+Attribution for the High Precision Leveling Network: "Obra derivada de REDNAP 2011 CC-BY 4.0 ign.es"
+Attribution for all other datasets: "Obra derivada 2004-2022 CC-BY 4.0 ign.es"
+
+Catastro de España (Spanish Cadastre)
+
+The Spanish Cadastre (Dirección General del Catastro) provides information about buildings and other features under an Open Data license(es). See: Spanish_Cadastre
+
+Attribution: "Contiene direcciones y edificios derivados de los Servicios INSPIRE de Cartografía Catastral de la Dirección General del Catastro, del Ministerio de Economía y Hacienda del Reino de España"
+
+Ayuntamiento de Zaragoza (Zaragoza City Council)
+
+Address data derived from Zaragoza Open Data under a specific Open Data License(es).
+
+Attribution: "Contiene datos de direcciones derivados del Callejero de Zaragoza 2013, Ayuntamiento de Zaragoza"
+
+Ajuntament de Barcelona (Barcelona City Council): Open Data BCN i CartoBCN
+
+Building data derived from CartoBCN under the CC BY 4.0.
+
+The city council has signed a waiver(ca) giving us permission to use their CC BY 4.0 data from CartoBCN and their Open Data BCN Portal to improve OSM.
+
+Attribution: "Conté dades d'edificis derivades de CartoBCN 2013, Ajuntament de Barcelona
+
+Confederacción Hidrográfica del Segura (Segura Hydraulic Confederation)
+
+Contains hydrographic data derived from data dowloaded from the Segura Hydraulic Confederation website under a CC BY 3.0. You can read the original license(es)
+
+Attribution: "Contiene datos hidrográficos derivados de los descargados del sitio web de la Confederación Hidrográfica del Segura 2014-2015"
+
+Ayuntamiento de Madrid (Madrid City Council)
+
+Contains data about pharmacies, drinking fountains, museums, bicycle parkings, post offices, taxi ranks, places of worship, cemeteries and tourist information points derived from data downloaded from the Madrid City Council Open Data site under a specific Open Data license(es). (2016-2022)
+
+For the exact dates, and other details about the datasets that have been imported, see: Import_Ayuntamiento_Madrid
+
+Attribution: "Contiene datos de farmacias, fuentes de agua potable, museos, aparcamientos para bicicletas, oficinas de correos, paradas de taxi, lugares de culto, cementerios y puntos de información turística derivados de datos descargados del Portal de Datos Abiertos del Ayuntamiento de Madrid 2016-2022"
+
+Consejería de Educación de la Comunidad de Madrid
+
+Contains schools derived from data provided by Consejería de Educación de la Comunidad de Madrid. One-time import done in 2008, using the tag educamadrid. See: Educamadrid_Import
+
+Ayuntamiento de Castro Urdiales (Castro Urdiales Town Council)
+
+Contains data about exhibition halls, art centers, social centers, parks, natural areas, observation points, educational centers, health centers, municipal services, social services, emergencies and the cemetery derived from data downloaded from the Castro Urdiales Transparency Site under CC0. See ES:Castro_Urdiales_Town_Council_Imports
+
+Attribution: "Contiene datos de salas de exposiciones, centros de arte, centros sociales, parques, espacios naturales, monumentos, puntos de observación, centros educativos, centros de salud, servicios municipales, servicios sociales, suministros, emergencias y cementerio derivados de datos descargados del Portal de Transparencia del Ayuntamiento de Castro Urdiales 2017"
+
+Instituto de Estadística y Cartografía de Andalucía (Institute of Statistics and Cartography of Andalusia)
+
+Contains address data derived from the Unified Digital Street Map of Andalusia under CC BY 4.0. See: Import CDAU.
+
+Attribution: "Contiene datos de direcciones derivados del Callejero Digital de Andalucía Unificado 2018-2022"
+
+Concello de Santiago de Compostela (Santiago de Compostela City Council)
+
+Provides information via Xeoportal IDE under CC BY 4.0. See the legal notice on their web and authorization.
+
+Attribution: Xeoportal IDE - Concello de Santiago de Compostela
+Tagging: "source=Xeoportal Concello de Santiago de Compostela" + "source:date=YYYY-MM-DD"
+
+Consell Insular de Menorca - Infraestructura de Dades Espacials de Menorca (Menorca Insular Council - Spatial Data Infrastructure of Menorca)
+
+Provides information about streets and roads names. See the authorization(ca) http://ide.cime.es/visoride/
+
+Attribution: "Consell Insular de Menorca - Infraestructura de Dades Espacials de Menorca"
+
+Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (Basque Government. geoEuskadi)
+
+Provides information via geoEuskadi under CC BY 3.0 with permission.
+
+Attribution: "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi"
+
+Ayuntamiento de Málaga (Málaga City Council)
+
+Provides information via Málaga City Council Open Data site under CC BY-SA 3.0 Spain with permission.
+
+Attribution: "Ayuntamiento de Málaga"
+
+Ayuntamiento de València (Valencia City Council)
+
+Provides information via Valencia City Council Open Data site under CC BY 4.0 with permission.
+
+Attribution: Ajuntament de València
+Tagging: "source=Ajuntament de València" + "source:date=YYYY-MM-DD"
+
+Instituto de Estudos do Territorio (IET) Xunta de Galicia (Institute of Territorial Studies of Galicia)
+
+Provides information via mapas.xunta.gal subdomain. They granted us access to their data under a CC BY 4.0, giving us explicit permission to incorporate their CC BY data into OSM.
+
+Attribution: Instituto de Estudos do Territorio (IET) - Xunta de Galicia
+Tagging: "source=Instituto de Estudos do Territorio (IET), Xunta de Galicia" and data subset + "source:date=YYYY-MM-DD"
+
+Sistema de Información Territorial de Navarra (SITNA) - Gobierno de Navarra / Nafarroako Gobernua
+
+Provides information via IDENA under CC BY 4.0 with permission.
+
+Attribution: "SITNA"
+
+●Switzerland
+
+Gebäude- und Wohnungsregister
+
+Addresses in any region of Switzerland may contain data from the GWR (see Switzerland/GWR).
+
+Quelle: Bundesamt für Statistik, Eidg. Gebäude- und Wohnungsregister (GWR), https://www.housing-stat.ch/
+
+Source: Office fédéral de la statistique, Registre fédéral des bâtiments et des logements (RegBL), https://www.housing-stat.ch/ Fonte: Ufficio federale di statistica, Registro federale degli edifici e delle abitazioni (REA), https://www.housing-stat.ch/
+
+SwissTopo
+
+Communal and other administrative borders imported with permission from SwissTopo
+
+May contain data derived from the swissimage (orthofotos), swissalti and swisssurface datasets ©swisstopo.
+
+Canton Aargau
+
+Data derived from orthophotos supplied by the Canton Aargau AGIS (see Switzerland/AGIS) .
+
+Canton Basel-Landschaft
+
+Data derived from orthophotos provided by the Canton Basel-Landschaft (Terms of Use).
+
+Canton Basel Stadt
+
+Building outlines and addresses imported from the Canton Basel Stadt (Geodaten Kanton Basel Stadt)
+
+Data derived from orthophotos supplied by the Canton Basel Stadt.
+
+Canton Berne
+
+Address data for the Canton Berne partially derived from Gebäudeadressen des Kantons Bern © Amt für Geoinformation des Kantons Bern (GEBADR). Data about ground and land (such as building outlines) is also available from the Canton of Bern provided by Amtliche Vermessung vereinfacht © Amt für Geoinformation des Kantons Bern (MOPUBE).
+
+May contain data derived from Digitales Terrainmodell LIDAR 50cm © Amt für Wald und Naturgefahren des Kantons Bern and Digitales Oberflächenmodell LIDAR 50cm © Amt für Wald und Naturgefahren des Kantons Bern
+
+Hiking network data from Sachplankarte Wanderroutennetz © Tiefbauamt des Kantons Bern; Gemeinden des Kantons Bern
+
+Canton Schaffhausen
+
+Field names, addresses and building outlines derived from the Canton Schaffhausen (Amt für Geoinformation Schaffhausen)
+Attribution: "Geodaten des Kantons Schaffhausen"
+
+Canton Thurgau
+
+Data derived from orthophotos supplied by the Canton Thurgau Thurgis (see Switzerland/Luftbilder Thurgau) .
+
+May contain data derived from Kanton Thurgau, DTM Relief 2014 .
+
+May contain data derived from hiking and cycling network datasets Kanton Thurgau, Rad-Routen, Kanton Thurgau, Wanderwege .
+
+May contain data derived from Kanton Thurgau, Basisplan-AV.
+
+Canton Uri
+
+Field names, addresses and building outlines partially derived from the Canton Uri (GIS URI)
+
+Attribution: "Quelle: Lisag AG"
+
+Canton Zug
+
+Data derived from orthophotos supplied by the Canton Zug WMS
+Attribution: "GIS Kanton Zug"
+
+Canton of Geneva
+
+Data derived from orthophotos and terrain hillshades (See SITG WMS)
+
+opentransportdata.swiss
+
+Public transport stops and route information partially derived from opentransportdata.swiss
+
+●Sweden
+
+See Sv:Permissions for details and current status.
+
+Lantmäteriet
+
+Includes data from Lantmäteriet licensed under CC0. More information.
+
+Trafikverket
+
+Includes data from Trafikverket licensed under CC0. More information.
+
+Stockholm stad
+
+Includes data from Stockholm municipality licensed under CC0. More information.
+
+Lidingö stad
+
+Includes data from Lidingö municipality licensed under CC0. More information.
+
+Helsingborg stad
+
+Includes data from Helsingborg municipality licensed as Public domain. More information.
+
+Linköpings kommun
+
+Includes data from Linköping municipality licensed under CC-BY 4.0. More information.
+
+Kalmar kommun
+
+Includes data from Kalmar municipality. More information.
+
+Örebro kommun
+
+Includes data from Örebro municipality licensed under CCO. More information.
+
+Skåneleden
+
+Includes Skåneleden hiking trails provided by Stiftelsen Skånska Landskap. See Skåneleden project page for more details.
+
+Naturvårdsverket
+
+Includes raster data for land use for the whole territory of Sweden licensed under CC0. More information.
+
+●Turkey
+
+(fill in here)
+
+●United Kingdom
+
+Bus Times
+
+Data from Bus Times licensed under the OGL
+
+Bus Times contains Bus Route Data in the UK.
+
+Attribution: " Contains public sector information licensed under the Open Government Licence v3.0."
+
+(This is the attribution statement in the official license)
+
+Companies House
+
+Data from Companies House Basic Company Data licensed under the OGL:
+Required attribution is not clear, presumably Attribution: "© Crown copyright and database right [year]." is appropriate.
+
+Department for Environment, Food and Rural Affairs
+
+Data from DEFRA, including: Database of registered common land in England, National Nature Reserves (England) and CRoW Act 2000 - Access Layer; licensed under the OGL. "Contains public sector information licensed under the Open Government Licence v3.0." suggested source tags: defra_common_land_database, defra_national_nature_reserves_england, defra_crow_2000_access_layer.
+
+Food Hygiene Rating Scheme
+
+Data from the Food Safety Agency's Food Hygiene Rating Scheme are licensed under the OGL.
+Attribution: "© Crown copyright and database right [year]."
+
+    See UK Food Hygiene Rating Scheme for more details
+
+Retail Points from Geolytix
+
+Retail Points is a geolocated database of branches of food outlet chains in the UK, maintained by Geolytix, and released on terms equivalent to the Open Government Licence v3. [6] Attribution:
+
+  • Contains public sector information licensed under the Open Government License v3.0
+  • Contains Ordnance Survey data © Crown copyright and database right 2020
+  • Contains Royal Mail data © Royal Mail copyright and database right 2020
+  • Contains National Statistics data © Crown copyright and database right 2020
+
+Suggested source tag: geolytix_retail_points.
+
+Sectional Appendix or National Electronic Sectional Appendix (NESA)
+
+Network Rail periodically release updated documents containing route information including speed limits, line of route codes, engineers line references and other restrictions. Correspondence to Network Rail have concluded that we are welcome to use the data on OSM as long as it's attributed to Network Rail.
+
+Copies of the Sectional Appendix can be found here.
+
+Attribution: "Network Rail"
+
+National Register of Social Housing (NROSH)
+
+Data from National Register of Social Housing 2011 snapshot licensed under the OGL:
+Required attribution is not clear, presumably Attribution: "© Crown copyright and database right 2011." is appropriate.
+
+Natural England data
+
+Natural England have provided some datasets under the Open Government Licence.
+Attribution: "© Natural England copyright. Contains Ordnance Survey data © Crown copyright and database right 2012-present."
+
+  • Polygons for designated "Access Land", included in the "CRoW Act 2000 - Access Layer" from http://environment.data.gov.uk/ds/catalogue/#/catalogue. Suggested source tag: natural_england_crow_act_access_layer.
+  • Polygons for commons included in the "CRoW Act 2000 - Section 4 Conclusive Registered Common Land" dataset from https://data.gov.uk/dataset/8326dcbe-c9f3-4921-8cf0-9a107ef103ee/crow-act-2000-section-4-conclusive-registered-common-land Suggested source tag: natural_england_crow_act_common_land.
+
+NatureScot
+
+NatureScot has various environmental datasets available through Natural Spaces, licensed under the Open Government Licence v3.
+
+Attribution: "Contains NatureScot information licensed under the Open Government Licence v3.0".
+
+Office for National Statistics
+
+Several datasets from the ONS have been released under OGL. The following Attribution is required: "Source: Office for National Statistics licensed under the Open Government Licence v.3.0". Some products include information derived from other public sector data sources, and so require additional attribution. See [7]. These datasets include:
+
+  • National Statistics UPRN Lookup (NSUL)
+      □ Contains OS data © Crown copyright and database right [year]
+      □ Contains Royal Mail data © Royal Mail copyright and Database right [year]
+      □ Contains GeoPlace data © Local Government Information House Limited copyright and database right [year] [licence number]
+  • ONS UPRN Directory (ONSUD)
+      □ Contains OS data © Crown copyright and database right [year]
+      □ Contains Royal Mail data © Royal Mail copyright and Database right [year]
+      □ Contains GeoPlace data © Local Government Information House Limited copyright and database right [year] [licence number]
+
+  • National Statistics Postcode Lookup (NSPL)
+      □ Contains OS data © Crown copyright and database right [year]
+      □ Contains Royal Mail data © Royal Mail copyright and Database right [year]
+
+  • ONS Postcode Directory (ONSPD)
+      □ Contains OS data © Crown copyright and database right [year]
+      □ Contains Royal Mail data © Royal Mail copyright and Database right [year]
+
+Ordnance Survey OpenData
+
+The OpenStreetMap Database covering the United Kingdom "Contains Ordnance Survey Data © Crown copyright and database right 2010." Contains public sector information licensed under the Open Government Licence v1.0, Open Government Licence v2.0, and Open Government Licence v3.0.
+
+Specifically OpenStreetMap has used products released by Ordnance Survey as part of the OpenData™ suite on 1st April 2010. OpenStreetMap contributors are asked to also add a source tag to data entered into OpenStreetMap where this has specifically originated from an Ordnance Survey OpenData™ product.
+
+Ordnance Survey OpenData™ products are a mixture of vector and raster products. Where OpenStreetMap contributors have made use of raster data (mapping images) then any data from these within the OpenStreetMap database will have been derived, principally by hand tracing. Where Ordnance Survey OpenData™ products were made available in vector format, these may have been partially or completely imported into OpenStreetMap as modified vector data. Modification may include subtle positional modification or modification of data attributes.
+
+Ordnance Survey does not endorse OpenStreetMap or OpenStreetMap's use of Ordnance Survey OpenData™ product data.
+
+Ordnance Survey OpenData™ products and OpenStreetMap
+
+Code-Point Open
+
+The OS OpenData Product Code-Point Open is available for use in OSM under the Open Government Licence v3, but has its own additional attribution requirements: Contains OS data © Crown copyright and database right 2016; Contains Royal Mail data © Royal Mail copyright and Database right 2016; Contains National Statistics data © Crown copyright and database right 2016.
+
+Emu Analytics
+
+We have been given explicit permission from Emu Analytics via a waiver form to use English Urban Areas Building Heights data in OpenStreetMap.
+
+Attribution: "English Urban Areas Building Heights by Emu Analytics is licensed under CC BY 4.0"
+
+Traveline National Data Set (TNDS)
+
+Data from the TNDS has been used to check, update and add public transport routes. The data.gov.uk site lists it as OGL v2.0 and the Traveline site says OGL v1.0 (though the Traveline page also links to service holidays which are 2 years out of date). As the specific OGL version is unclear either
+
+  • Contains public sector information licensed under the Open Government Licence v1.0.
+
+or
+
+  • Contains public sector information licensed under the Open Government Licence v2.0.
+
+applies.
+
+Public Rights of Way Data from local councils
+
+The following councils have given permission for certain data they hold on public rights of way to be used in OpenStreetMap. These data are not the only source used to help map rights of way in OSM, and the use of these data does not imply that OSM's representation of public rights of way is complete or accurate. Nor does the use imply that the councils endorse OSM or its use of the information.
+
+  • Bath and North East Somerset -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: bath_and_north_east_somerset_council_prow_gis_data
+    Attribution: "Contains public sector information from Bath and North East Somerset Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Birmingham -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: birmingham_city_council_prow_gis_data
+    Attribution: "Contains public sector information from Birmingham City Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Buckinghamshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: buckinghamshire_council_prow_gis_data
+    Attribution: "Contains public sector information licensed under the Open Government Licence v3.0. http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Caerphilly -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: caerphilly_council_prow_gis_data
+    Attribution: "Contains public sector information licensed under the Open Government Licence v3.0. http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Cambridgeshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: cambridgeshire_county_council_prow_gis_data
+    Attribution: "Public Rights of Way, Cambridgeshire County Council, 5th May 2017, licensed under the Open Government Licence http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Cornwall -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: cornwall_council_prow_gis_data
+    Attribution: "Contains public sector information from Cornwall Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Derbyshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: derbyshire_council_prow_gis_data
+    Attribution: "Contains public sector information from Derbyshire Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Devon -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: devon_county_council_prow_gis_data
+    Attribution: "Contains Public Sector information from Devon Council, licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/".
+  • Dorset -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: dorset_council_prow_gis_data
+    Attribution: "Contains Public Sector information from Dorset County Council, licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/".
+  • Dudley -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: dudley_metropolitan_borough_council_prow_gis_data
+    Attribution: "Contains public sector information from Dudley Metropolitan Borough Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Essex -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: essex_county_council_prow_gis_data
+    Attribution: "Contains public sector information from Essex County Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    Disclaimer: "Please note that the GIS layer showing Public Rights of Way (PRoW) is supplied by Essex County Council for general reference purposes only. The GIS layer does not replace the statutory Definitive Map which is held at County Hall. District, Borough, Town and Parish Councils must also keep copies of the Definitive Map for their particular areas.That map, and its associated Definitive Map Modification Orders, must be referred to in the case of any specific query or dispute.In law it provides conclusive evidence of the existence of any Public Right of Way shown on it." [8]
+
+-- Permission to use the Working Copy of its Definititve Statements under the OGL v3. Suggested source tag: definitive_statement
+Attribution: "Contains public sector information from Essex County Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+Disclaimer: "This data is not the actual Definitive Statement, but just an unofficial working copy of it, which may contain errors."
+
+  • Gloucestershire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: gloucestershire_council_prow_gis_data
+    Attribution: "Contains public sector information from Gloucestershire Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • East Riding of Yorkshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: east_riding_council_prow_gis_data
+    Attribution: "OpenStreetMap uses data that is public sector information from The East Riding of Yorkshire Council. The data is licensed under the Open Government Licence v3. The date of the data is 07.02.2018."
+    Disclaimer: "An authority's Definitive Map and Statement is the authoritative source of information about the Public Rights of Way in that authority's area. The details of the Public Rights of Way network contained in the data supplied on this page are for information only, and are an interpretation of the Definitive Map and Statement, not the Definitive Map itself and should not be relied on for determining the position or alignment of any Public Right of Way. For legal purposes, the data does not replace its Definitive Map and Statement and changes may have been made to the Definitive Map and Statement that are not included in this data. The data contains Ordnance Survey Data © Crown copyright and database right 2018. Attempting to view this data at a scale greater than 1:10000 may produce an inaccurate rendering of the route of the Public Right of Way. In terms of re-use; this information is available for re-use but the East Riding of Yorkshire Council must be referenced as the source."
+  • East Sussex -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: east_sussex_county_council_prow_gis_data
+    Attribution: "Contains Public Sector information from East Sussex County Council, licensed under the Open Government Licence http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Hampshire -- Permission to use its PRoW GIS data under the OGL v3. Also permission to use its Definitive Statements, List of Roads Maintained at Public Expense, and List of Traffic Regulation Orders under the OGL v3.
+    Attribution: "Contains Public Sector information from Hampshire County Council, licensed under the Open Government Licence http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/".
+  • Herefordshire -- Permission to use its Public Rights of Way GIS data under the OGL v3.
+    Attribution: "Contains public sector information from Herefordshire Council licensed under the Open Government Licence v3.0."
+  • Hertfordshire -- Permission to use its Definitive Statements under the OGL.
+    Attribution: "Contains public sector information from Hertfordshire County Council licensed under the Open Government Licence v1.0."
+  • Kent -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: kent_county_council_prow_gis_data
+    Attribution: "Contains public sector information licensed under the Open Government Licence v3.0. ‘Contains OS data © Crown copyright and database rights 2017"
+  • Lancashire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: lancashire_county_council_prow_gis_data
+    Attribution: "Contains public sector information from Lancashire County Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Lincolnshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: lincolnshire_county_council_prow_gis_data
+    Attribution: "Contains Public Sector information from Lincolnshire County Council, licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/".
+  • Norfolk -- Permission to use its Definitive Statements under the OGL.
+    Attribution: "Contains public sector information from Norfolk County Council licensed under the Open Government Licence v1.0."
+    -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: norfolk_county_council_prow_gis_data
+    Attribution: "Contains public sector information licensed under the Open Government Licence v3.0. Contains OS data © Crown copyright [and database right] (year)"
+  • North Yorkshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: north_yorkshire_county_council_prow_gis_data
+    Attribution: "Contains public sector information from North Yorkshire County Council, licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Nottingham City Council -- Permission to use its Definitive Statements under the OGL.
+    Attribution: "Contains public sector information licensed under the Open Government Licence v1.0. Contains Ordnance Survey data © Crown copyright and database right [year]."
+  • Oxfordshire -- Permission to use its PRoW GIS data under the OGL v3. -- Permission to use its Definitive Statements under the OGL.
+    Attribution: "Contains public sector information from Oxfordshire County Council licensed under the Open Government Licence v3.0."
+  • Somerset -- Permission to use its PRoW GIS data under the OGL v3.
+    Attribution: "Contains public sector information from Oxfordshire County Council licensed under the Open Government Licence v3.0."
+    Disclaimer: "The precise line of a right of way can only be determined by reference to the Definitive Map (1:10560 scale). Somerset County Council can accept no responsibility for any error or inaccuracy which may arise from the transposition of the Definitive Map to a different scale."
+  • South Gloucestershire -- Permission to use its PRoW GIS data under the OGL v3.
+    Attribution/Disclaimer: "The PROW dataset in South Gloucestershire area has been provided on this date (28 August 2019) and is not maintained by the Authority. The precise line of a right of way can only be determined by referring to the Definitive Map (at 1:10560 scale). The Council can accept no responsibility for any error or inaccuracy which may arise from the transposition of the rights of way Definitive Map to a different scale nor for any updates not included."
+  • Suffolk -- Permission to use its Definitive Statements under the OGL.
+    Attribution: "Contains public sector information © Suffolk County Council licensed under the Open Government Licence v2.0. The information should not be presumed to be accurate."
+    -- Permission to use its List of Streets [9] under the OGL.
+    Attribution: "Contains public sector information © Suffolk County Council licensed under the Open Government Licence v3.0. The information should not be presumed to be accurate."
+    -- Permission to use its list of Traffic Regulation Orders affecting Public Rights of Way [10] under the OGL.
+    Attribution: "Contains public sector information © Suffolk County Council licensed under the Open Government Licence v3.0. The information should not be presumed to be accurate." Suggested source tag: suffolk_county_council_tro_list
+    -- Permission to use GIS data and electronic working copy of the definitive statements as at 16 September 2015 under the OGL v3 (source), and later versions supplied to rowmaps.com.
+    Attribution/disclaimer: "OpenStreetMap uses data that is public sector information from Suffolk County Council. The data is licensed on terms equivalent to the Ordnance Survey OpenData Licence. The date of this data ranges from 16 September 2015 to the most recent version at [11]. An authority's Definitive Map and Statement is the authoritative source of information about the public rights of way in that authority's area. The details of the public rights of way network contained in the data supplied are for information only, and are an interpretation of the Definitive Map and Statement, not the Definitive Map itself, and should not be relied on for determining the position or alignment of any public right of way. For legal purposes, the data does not replace its Definitive Map and Statement and changes may have been made to the Definitive Map and Statement that are not included in this data. The data contains Ordnance Survey data © Crown copyright and database right 2015-2019. Attempting to view this
+    data at a scale greater than 1:10000 may produce an inaccurate rendering of the route of a public right of way."
+    Suggested source tags: suffolk_county_council_prow_gis_data / suffolk_county_council_prow_descriptions
+  • Warwickshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: warwickshire_county_council_prow_gis_data
+    Attribution: "The Warwickshire County Council has licensed public sector information under the Open Government Licence v3.0. The Warwickshire County Council is not liable for any loss, injury or damage of any kind caused by reliance on this information and you should not rely on this information to determine where paths exist. The Definitive Map and Statement provide the legal record of public footpaths, bridleways, restricted byways and byways open to all traffic in Warwickshire: www.warwickshire.gov.uk/definitivemap"
+  • Wiltshire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: wiltshire_council_prow_gis_data
+    Attribution: "Contains public sector information from Wiltshire Council licensed under the Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  • Worcestershire -- Permission to use its PRoW GIS data under the OGL v3. Suggested source tag: worcestershire_county_council_prow_gis_data
+    Attribution: "Contains public sector information from Worcestershire County Council licensed under the Open Government Licence v3.0."
+    Permission to use its Definitive Statements under the OGL v1.
+    Attribution: "Contains public sector information from Worcestershire County Council licensed under the Open Government Licence v1.0."
+
+Also contains data from the following authorities which have expressly released their data under the Open Government Licence: Barnsley, Blackburn with Darwen, Bolton, Bracknell Forest, Bradford, Brecon Beacons National Park Authority, Bromley, Calderdale, Central Bedfordshire, Cheshire West and Chester, City of Leicester, City of Plymouth, Cumbria, Denbighshire, Isle of Wight, Kirklees, Knowsley, Lake District National Park Authority, Leeds, Manchester, Northumberland, Oldham, Powys, Rhondda Cynon Taff, Salford, Sheffield, Surrey, Tameside, Trafford, Wigan, Wirral, Wrexham, York.
+
+University of Cambridge
+
+As part of its Project Drake the University of Cambridge commissioned surveys of its entire estate and its associated colleges down to the level of buildings and entrances. This data comprising all 31 colleges and thousands of manually surveyed locations has kindly been contributed to OpenStreetMap.
+
+Land Registry - Price paid data
+
+Despite the Price Paid Data being published under the Open Government Licence, the addresses within the dataset are not OpenData and may not be used in OpenStreetMap. Other information in the dataset can be used in OSM, but it of limited use. Attribution: "Contains HM Land Registry data © Crown copyright and database right 2019. This data is licensed under the Open Government Licence v3.0."
+
+Department for Transport - NaPTAN data
+
+OpenStreetMap contributors can request an import of bus stop data from the national dataset which is published under the UK Open Government Licence. See the Naptan wiki page
+
+Post Office Branch Data
+
+In January 2018, Post Office Ltd provided a dataset containing details of Post Office branches, together with permission to use it under the Open Government Licence v3. Further updates have been provided since and are summarized at https://osm.mathmos.net/postoffice/data/. The required attribution is the default "Contains public sector information licensed under the Open Government Licence v3.0." along with an acknowledgement that "the information may not be entirely up-to-date and that the latest network information can be found on http://www.postoffice.co.uk/branch-finder". Suggested source tag: source=pol_branch_list_2022-05.
+
+Database of registered common land in England
+
+The Department for Environment, Food and Rural Affairs published a database of registered common land in England in 2015 (the database was current as of 2000). It is licensed under the OGL v3 with no specific attribution statement required.
+
+Suggested source tag: source=defra_common_land_2015
+
+National Heritage List for England (Historic England)
+
+The Historic Buildings and Monuments Commission for England (commonly known as Historic England) has given permission for the National Heritage List for England (NHLE) to be used in OSM under the terms of the Open Government Licence v3. [12] No specific attribution was requested, so the default: "Contains public sector information licensed under the Open Government Licence v3.0." applies. The NHLE includes the following heritage listings:
+
+  • Listed buildings (see Key:listed_status)
+  • Scheduled monuments
+  • Protected wreck sites
+  • Registered parks and gardens
+  • Registered battlefields
+  • World Heritage Sites
+  • Buildings with Building Preservation Notices (BPNs)
+
+Historic Environment Scotland
+
+Historic Environment Scotland has datasets available under the Open Government Licence v3.
+
+Attribution: "Contains Historic Environment Scotland and Ordnance Survey data © Historic Environment Scotland - Scottish Charity No. SC045925 © Crown copyright and database right 2022".
+
+These datasets include:
+
+  • Listed Buildings (see Key:listed_status)
+  • Scheduled Monuments
+  • Gardens and Designed Landscapes
+  • Battlefields
+  • Historic Marine Protection Areas
+  • Conservation Areas
+  • World Heritage Sites
+  • Properties in Care
+
+Miscellaneous Data from Local Councils
+
+  • Permission to use Thetford Street Bin Collection Schedule from Breckland District Council, under OGL3. Contains public sector information licensed under the Open Government Licence v3.0. [13]
+
+  • Permission from Breckland Council to use information on its car parks at https://www.breckland.gov.uk/carparks
+
+  • Sheffield City Council 20 mph zones dataset is released under the OGLv3.
+  • Sheffield City Council Grit Bins dataset released under the OGLv3.
+  • Sheffield City Council Bins dataset released under the OGLv3.
+      □ Attribution: Contains public sector information licensed under the Open Government Licence v3.0.
+  • London Borough of Camden housing stock data is released under the OGLv3.
+
+Information in the "List of Streets" maintained by local councils
+
+Under section 36(6) Highways Act 1980, each Highways Authority has to maintain an official list of "highways maintainable at the public expense". Typically this list will include each public road name, reference number, and a description of the start and end points. Cycleways and some urban footways are also listed. The information is useful in particular for identifying and classifying unsurfaced tracks which are technically public highways but may not appear so (e.g. routes shown on OS maps as "Other Route with Public Access"). Permission has been obtained from the following councils to make use of their "List of Streets" files:
+
+  • Norfolk -- Permission to use its List of Streets under the OGL.
+    Attribution: "Contains public sector information from Norfolk County Council licensed under the Open Government Licence v2.0."
+  • Suffolk -- Permission to use its List of Streets [14] under the OGL.
+    Attribution: "Contains public sector information © Suffolk County Council licensed under the Open Government Licence v3.0. The information should not be presumed to be accurate."
+
+Southern Vectis
+
+Data from Southern Vectis licensed under the OGLv3. Changeset tagged with source=Southern Vectis.
+
+Default licence attribution: "Contains public sector information licensed under the Open Government Licence v3.0."
+
+Land Registry INSPIRE Index Polygons
+
+Land Registry Dataset released under OGLv3. An overlay is available in the iD editor labelled 'OSMUK Cadastral Parcels'.
+
+Attribution: This information is subject to Crown copyright and database rights 2020-present and is reproduced with the permission of HM Land Registry. The polygons (including the associated geometry, namely x, y co-ordinates) are subject to Crown copyright and database rights 2020-present Ordnance Survey 100026316. [15]
+
+Suggested source tag: land_registry_index_polygons.
+
+Western Power Distribution
+
+Western Power Distribution open data is released under the Western Power Distribution Open Data Licence.
+
+Attribution: Supported by WPD Open Data
+
+Suggested source tag: wpd_open_data
+
+Forestry commission
+
+Forestry Commission open data is released under the OGLv3.
+
+Attribution: Contains Forestry Commission information licensed under the Open Government License v3.0.
+
+Beryl
+
+Beryl's GBFS data is available under the Community Data License Agreement – Permissive – Version 2.0, and they have given us explicit permission to use the data for OSM.
+
+Changeset tagged with source=Beryl.
+
+●Ukraine
+
+Ukravtodor (the State Road Agency of Ukraine)
+
+KM+ data on road names from the Ukravtodor (the State Road Agency of Ukraine) was approved for use in OSM via their API.
+
+Africa
+
+Multiple African countries
+
+  • Africover (africover.org) and DELPHA (depha.org) are UN agencies that maintain collections of public domain GIS base layer data for a number of countries in Africa. See Africover/DEPHA for details about the agreement. The current coverage of these sources include basic data (first for roads and rivers) for Burundi, Democratic Republic of the Congo, Egypt, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, Sudan, Tanzania, Uganda.
+  • Peace Parks Foundation (https://new-ppfmaps.opendata.arcgis.com) approved their data for protected areas and transfrontier conservation areas to be used for OpenStreetMap
+  • RCMRD (opendata.rcmrd.org): The Regional Centre for Mapping of Resources for Development is an intergovernmental organization established by the UN and African Union with data in eastern and southern Africa. The license is posted on their site and they confirmed the data is usable for OSM.
+  • Google Open Buildings (https://sites.research.google/open-buildings/): The Open Buildings dataset has been approved by Google for use by OpenStreetMap.
+
+●Algeria
+
+(fill in here)
+
+●Burundi
+
+(fill in here)
+
+●Congo-Kinshasa (DRC)
+
+Z_GIS
+
+Z_GIS, the Department of Geoinformatcics of the University of Salsburg, created building footprints based on WorldView-3 & WorldView-2 satellite images acquired in January 2020 with 50 cm spatial resolution, provided by EUSI (European Space Imaging). The datasets contains almost 30 000 buildings in the Lopa and Lingo area in Ituri, and will be added onto OSM through an import. See the following wiki page: Lopa & Lingo building footprints.
+
+Médecins Sans Frontières
+
+Médecins Sans Frontières (MSF) is contributing to the map in DRC through the Missing Maps project.
+
+●Egypt
+
+Transport for Cairo
+
+Transport for Cairo (TfC) is a private transportation consultancy based in Cairo. Their work relies primarily on data and their data relies completely on OSM. TfC also has several tools developed in-house for data digitization and Quality Assurance that uses OpenStreetMap and routing engines such as OSRM and Graphhopper, meaning that TfC's data quality is bound to OSM's data quality and ensures a binding symbiotic relationship between the two organizations.
+
+●Eritrea
+
+(fill in here)
+
+●Ethiopia
+
+The World Institute for Conservation and Environment gave permission to use parks data they created
+
+●Guinea-Bissau
+
+United Nations Logistics Cluster has a road assessment for Guinea-Bissau. They approved its use for adding data to OSM.
+
+●Kenya
+
+(fill in here)
+
+●Lesotho
+
+Land Administration Authority
+
+Permission granted to use any and all available LAA datasets for use in OSM. Permission record
+
+Dept. Of Education
+
+Permission to use schools file to add data on schools for Lesotho
+
+Dept. Of Health
+
+Permission to use health facilities file to add data on Health facilities in Lesotho
+
+●Morocco
+
+Street view imagery for some cities in Morocco from http://carte.ma/ was approved for use in OSM [16]
+
+●Mozambique
+
+BIOFUND/WCS Mozambique approved their parks boundaries to be used for OpenStreetMap
+
+●Nigeria
+
+Data collected by eHealth Africa Foundation, like health facilities, settlements, residential areas and administrative boundaries. See Nigeria Imports.
+
+Data collected by the Enugu State in Nigeria and Upande Ltd, Nairobi, Kenya.
+
+Data collected by the Federal Ministry of Power ( POWER HOUSE 14, Zambezi Crescent Maitama, Abuja, Nigeria.) and partners through the Nigeria Nigerian Energy Support Programme (NESP) II. See the Nigerian Energy Support Programme (NESP) II Businesses and Facilities Import
+
+●Rwanda
+
+(fill in here)
+
+●Somalia
+
+United Nations Support Office in Somalia (UNSOS)
+
+Permission to import old data into OSM.
+
+●Sudan
+
+(fill in here)
+
+●South Africa
+
+Contains data sourced from Chief Directorate: National Geo-Spatial Information, State copyright reserved.
+
+EGIS of the Government of South Africa granted permission for their data to used
+
+Cape Town
+
+Permission granted by the City of Cape Town to use data from their TCT Road Centrelines GIS layer in OSM. Reference "City of Cape Town" as the source.
+
+Durban
+
+Permission granted by eThekwini municipality to use their public GIS data in OSM.
+
+●Tanzania
+
+Crowd2Map Tanzania - a crowd-sourced mapping project aiming to put rural Tanzania on the map.
+
+●Tunisia
+
+(fill in here)
+
+●Uganda
+
+Contains data provided by the Uganda Bureau of Statistics (UBOS)
+
+Western and Central Asia
+
+●Armenia
+
+(fill in here)
+
+●Georgia
+
+(fill in here)
+
+●Iran
+
+  • Snapp
+
+●Iraq
+
+(fill in here)
+
+●Israel
+
+Keren Kayemet LeIsrael (KKL) Land Development Authority
+
+Contains data sourced from GIS Project of KKL Land Development Authority, Israel. KKL Land Development Authority gives no warranty in relation to the data, including its accuracy, reliability and suitability and accepts no liability whatsoever in relation to any loss, damage or other costs relating to the use of any data, any compilations, derivative works or modifications of the data.
+
+Tel Aviv Yafo Municipality
+
+Contains data provided by the Tel Aviv Yafo Municipality under the terms of this license (in Hebrew). The Tel Aviv Yafo Municipality accepts no liability relating to use of the data; for further details on this subject please consult the license.
+
+●Jordan
+
+(fill in here)
+
+●Kazakhstan
+
+Protected areas boundaries from the GEF-UNDP-Government of Kazakhstan project: "Conservation and sustainable management of key globally significant ecosystems for various benefits" can be used for OpenStreetMap.
+
+●Kuwait
+
+The Public Authority of Civil Information
+
+Information is allowed to be entered into OSM by referencing PACI's online interactive map. Data referenced from PACI should be attributed in the source tag.
+
+●Lebanon
+
+(fill in here)
+
+●Saudi Arabia
+
+Regions and Governorates admin boundaries open data by the Ministry of Health
+
+●Tajikistan
+
+(fill in here)
+
+●Turkey
+
+(fill in here)
+
+●Turkmenistan
+
+(fill in here)
+
+●United Arab Emirates
+
+Abu Dhabi
+
+Data from Abu Dhabi's new street and address system, "Onwani" is available for use in OpenStreetMap. This is an ongoing project with new street names and addresses to be added throughout the emirate.
+
+●Uzbekistan
+
+(fill in here)
+
+●Yemen
+
+(fill in here)
+
+Southern and Eastern Asia
+
+●China
+
+(fill in here)
+
+
+●India
+
+  • Suyash.Dwivedi (talk)
+  • Kautilya3 (talk))
+
+●Indonesia
+
+OSM Indonesia
+
+  • The World Bank's small hydropower dataset for Indonesia was approved for use in OSM by World Bank staff
+
+●Japan
+
+Lawson
+
+Data provided by Lawson, Japan
+
+Kokudo Suchi Joho
+
+Government agency MLIT (Ministry of Land, Infrastructure, Transport and Tourism), Japan provide numeric geo data in public.
+
+    source=KSJ2
+
+Yahoo! Japan
+
+Yahoo! Japan announces that they provide their ALPS map data to OpenStreetMap in ODbL in 2011 March. It helps much for disaster recovery and map growing in Japan.
+
+  • 2011 Data provided by Yahoo! Japan
+
+    source=YahooJapan/ALPSMAP
+
+Susono city
+
+Orthophoto aerial imagery
+
+●Malaysia
+
+(fill in here)
+
+●Pakistan
+
+  • Kautilya3 (talk))
+
+●Philippines
+
+Bureau of Fire Protection
+
+Through the HailHydrant project of the MapAmore Initiative, explicit permission has been granted by the Bureau of Fire Protection to incorporate their data provided that the following attribution is made on the Contributors page:
+
+    "Contains data sourced from local units of the Bureau of Fire Protection. The agency gives no warranty in relation to the data, including its accuracy, reliability and suitability and accepts no liability whatsoever in relation to any loss, damage or other costs relating to the use of any data, any compilations, derivative works or modifications of the data".
+
+The following are the local units of the agency, and the datasets provided:
+
+  • Manila Fire District (NCR District I) - hydrants, fire stations (including accredited auxiliaries) and their contact information
+  • San Juan City Fire Office (part of NCR District IV) - hydrants, fire stations (including accredited auxiliaries) and their contact information
+  • General Santos City Fire Office - hydrants, fire stations (including accredited auxiliaries) and their contact information
+  • Davao City Fire District - hydrants, fire stations (including accredited auxiliaries) and their contact information, station fire protection boundaries
+
+Department of Education
+
+Explicit permission has been granted to incorporate data from the Department of Education, and made available through the Government Open Data Portal.
+
+Department of Public Works and Highways
+
+The Philippines' Department of Public Works and Highways is the agency responsible for construction projects financed by public funds and constructed by the national government for the benefit or use of the general public. The agency maintains the Roads and Bridges Inventory (RBI) dataset, and was provided "as-is" (without a specific license) to the local community, facilitated by a Freedom of Information request made on 10th October 2021.
+
+On 19th January 2022, the agency consented, and released a statement giving explicit permission to use the dataset: " ... we are giving you permission to use DPWH Road and Bridge Inventory data to validate official location data against satellite imagery and publish the result in OpenStreetMap."
+
+The working copy of the dataset, and copies of the communication exchanges with the agency are available in the local community's public project repository.
+
+Department of Trade and Industry
+
+Through Schadow1 Expeditions, the data from the collaboration of Department of Trade and Industry and the Deutsche Gesellschaft für Internationale Zusammenarbeit's private sector promotion program (SMEDSEP) has granted explicit permission for tourism points-of-interests (POIs) in the province of Bohol.
+
+Schadow1 Expeditions
+
+The Schadow1 Expeditions mapping initiative has granted many of its expeditions data in the Philippines with explicit permission provided that it is tagged with source=Schadow1 Expeditions and OSM edits based from their contributed images in Mapillary be tagged with source:mapillary:user=schadow1.
+
+●Nepal
+
+Kathmandu Living Labs
+
+OSM Nepal
+
+User:Kautilya3
+
+●South Korea
+
+(fill in here)
+
+●Taiwan (Rep. of China)
+
+National Land Surveying and Mapping Center
+
+Contains maps data from National Land Surveying and Mapping Center (NLSC) under Taiwan Open Government Data License 1.0, which is convertible to CC-BY 4.0.
+
+  • Taiwan Electronic map(With contours), © NLSC, Taiwan OGDL 1.0
+  • Taiwan Electronic map(Without contours), © NLSC, Taiwan OGDL 1.0
+  • Taiwan Electronic Map, © NLSC, Taiwan OGDL 1.0 (url broken)
+  • Administration Boundaries(Datum: TWD97), © NLSC, Taiwan OGDL 1.0
+  • All Datasets On Taiwan Open Data Platform of Government
+
+●Thailand
+
+(fill in here)
+
+●Myanmar
+
+The Wildlife Conservation Society gave permission for using their GIS data for national parks and protected areas (PAs) in Myanmar.
+
+●Vietnam
+
+(fill in here)
+
+Oceania
+
+●Australia
+
+Licences are tracked in the Australian data catalogue.
+
+Commonwealth of Australia
+
+Incorporates or developed using Administrative Boundaries © Geoscape Australia licensed by the Commonwealth of Australia under Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+
+Australian Antarctic Data Centre
+
+Contains data sourced from the Australian Antarctic Data Centre published under the Creative Commons CC BY 4.0 license. (Waiver)
+
+data.gov.au
+
+The explicit permission granted by the data.gov.au team (operated by the Digital Transformation Agency) is not valid for current CC BY licensed datasets, for which permission needs to be obtained directly from the respective rights owners.
+
+Contains data from Australian government public information datasets. The original datasets are available from the Australian government data website under Creative Commons - Attribution 2.5 Australia (CC-BY) and Creative Commons - Attribution 3.0 Australia (CC-BY). We have also been given explicit permission to incorporate and publish such CC-BY licensed geographic coordinate datasets under a free and open license, including the Open Database License, provided that primary attribution is made here and that each dataset used is also listed here in the format Dataset Name, Date Published, License, Agency Name, originally retrieved from http://data.australia.gov.au:
+
+  • National Parks and Asset Locations (South Australia), 29 October 2009, CC-BY 2.5 Australia, Department for Environment and Heritage (SA), originally retrieved from http://data.gov.au/589 (Archived)
+  • Police Station Locations (VIC), 16 October 2009, CC-BY 3.0 Australia, Victoria Police, originally retrieved from http://data.gov.au/406 and https://data.gov.au/dataset/police-station-locations
+  • Location of ACT Schools (ACT), 2008-11, CC-BY 2.5 Australia, Department of Education and Training (ACT), originally retrieved from http://data.gov.au/717 and https://data.gov.au/dataset/location-of-act-schools
+  • TOLT – Public Toilets (ACT), 15 September 2009, CC-BY 2.5 Australia, Territory and Municipal Services (TAMS) (ACT), originally retrieved from http://data.gov.au/dataset/tolt-public-toilets-act
+  • Barbeques (ACT), 15 September 2009, CC-BY 2.5 Australia, Territory and Municipal Services (TAMS) (ACT), originally retrieved from http://data.gov.au/716 and https://data.gov.au/dataset/act-barbecue-bbq-locations
+  • Property Boundaries Annual Extract Queensland (Lite DCDB), unknown publication date, CC-BY 2.5 Australia, Queensland Department of Environment and Resource Management, originally retrieved from http://data.gov.au/152 (Archived)
+  • Vicmap Lite Local Government, 1 January 2010, CC-BY 2.5 Australia, Department of Sustainability and Environment (VIC), originally retrieved from http://data.gov.au/1989 (Archived)
+  • Vicmap Lite Rivers, 1 January 2010, CC-BY 2.5 Australia, Department of Sustainability and Environment, originally retrieved from http://data.gov.au/2035 (Archived)
+
+Contains suburbs data based on Australian Bureau of Statistics data.
+
+    See ABS website for more information
+    ABS data sets in use:
+      □ SSC_2011_AUST
+
+The above permission *may* also extend to the following datasets also incorporated. This is being investigated (2011-09-22).
+
+  • Australian Bureau of Statistics - Suburb boundaries, probably a 2009 version of State Suburbs ASGS Non ABS Structures Ed 2011 http://data.gov.au/4105
+  • Australian Bureau of Statistics - Postal Code boundaries. Not yet imported?
+  • Bureau of Meteorology GWeather stations ftp://ftp.bom.gov.au/anon2/home/ncc/metadata/sitelists/
+  • Queensland police stations
+  • Queensland national parks, state forests and conservation areas
+
+Department of the Environment and Energy
+
+Contains data from the Collaborative Australian Protected Areas Database (CAPAD) 2014, 2016, 2018 and 2020, Commonwealth of Australia.
+
+The data is supplied to the Commonwealth for compilation by States and Territories of Australia, as well as a number of large environmental NGO’s. Custodianship rests with the source agencies listed below:
+
+Australian Antarctic Division (DOEE), ACT Transport Canberra and City Services, Australian Wildlife Conservancy, Bush Heritage Australia, Department of the Environment and Energy, Forestry Corporation of NSW, Lord Howe Island Board, Nature Foundation SA Inc., NSW Office of Environment and Heritage, Parks and Wildlife Commission of the NT, National Trust of Western Australia, Queensland Department of Environment and Heritage Protection, Queensland Department of National Parks, Sport and Racing, South Australian Department of Environment, Water and Natural Resources, Forestry South Australia, Tasmanian Department of Primary Industries, Parks, Water and Environment, Queensland Trust for Nature, Trust for Nature Victoria, Tasmanian Land Conservancy Inc., Torres Strait Regional Authority, Victorian Department of Environment, Land, Water and Planning, and Western Australian Department of Parks and Wildlife.
+
+Original Datasets:
+
+  • Collaborative Australian Protected Areas Database (CAPAD) 2020 - Marine
+  • Collaborative Australian Protected Areas Database (CAPAD) 2018 - Terrestrial
+  • Collaborative Australian Protected Areas Database (CAPAD) 2016
+  • Collaborative Australian Protected Areas Database (CAPAD) 2016 - Marine
+  • Collaborative Australian Protected Areas Database (CAPAD) 2014
+  • Collaborative Australian Protected Areas Database (CAPAD) 2014 - Marine
+
+Contains data from Australian Marine Parks, © Commonwealth of Australia, Australian Government Department of the Environment and Energy, 2018. (OSM waiver)
+
+We have been given explicit permission from the Department of the Environment and Energy formalised with the CC BY 4.0 OSMF Waiver to incorporate their Collaborative Australian Protected Areas Databases (CAPAD) into OpenStreetMap provided that the above attribution is made on the Contributors page.
+
+Department of Agriculture, Water and the Environment
+
+Contains data from the Dedicated Indigenous Protected Areas 2020, Commonwealth of Australia 2020
+
+This data has been supplied by the Australian Government Department of Agriculture, Water and the Environment with credit to the following entities:
+
+Land Policy and Environment Branch, Economic Policy & Programs Group, National Indigenous Australians Agency and the Geospatial and Information Analytics, Department of Agriculture, Water and the Environment (c) Department of Agriculture, Water and the Environment and National Indigenous Australians Agency, 2020.
+
+Original Dataset:
+
+Dedicated Indigenous Protected Areas 2020, Commonwealth of Australia 2020
+
+Further Information:
+
+Indigenous Protected Areas
+
+We have been given explicit permission from the Department of Agriculture, Water and the Environment formalised with the CC BY 3.0 OSMF Waiver to incorporate their Dedicated Indigenous Protected Areas 2020, Commonwealth of Australia 2020 into OpenStreetMap provided that the above attribution is made on the Contributors page.
+
+Geoscience Australia
+
+We have been given explicit permission from Geoscience Australia to incorporate their CC-BY licensed datasets into OpenStreetMap provided that this attribution is made on the Contributors page:
+
+By.png Contains data from Geoscience Australia © Commonwealth of Australia (Geoscience Australia) 2017. These products are released under the Creative Commons Attribution 4.0 International Licence. http://creativecommons.org/licenses/by/4.0/legalcode
+
+Datasets used:
+
+  • GEODATA TOPO 250K Series 3 See this page for details on how to find subsets of this dataset.
+  • GEODATA COAST 100K 2004
+  • Gazetteer of Australia 2012 (see Gazetteer of Australia 2012)
+
+Australian National University MapsOnline maps
+
+We have been given explicit permission from Geoscience Australia to incorporate their CC-BY licensed datasets into OpenStreetMap provided that this attribution is made on the Contributors page:
+
+CartoGIS Services is pleased to give explicit permission to use the MapsOnline maps for updating OpenStreetMap with the following attributions:
+
+“Contains data from CartoGIS Services, College of Asia and the Pacific, Australian National University 2019. These products are released under the Creative Commons Attribution 4.0 International Licence.”
+
+Australian Capital Territory Government data
+
+By.png Contains data from ACTmapi © Australian Capital Territory. These products are released under the Creative Commons Attribution 4.0 International Licence http://creativecommons.org/licenses/by/4.0/legalcode and the data terms of use http://www.actmapi.act.gov.au/terms.html.
+
+Datasets used:
+
+  • ACT Division Boundaries
+  • 2016 Aerial Imagery (10cm) (see ACT2016)
+  • 2017 Aerial Imagery (10cm) (see ACT2017)
+  • Territory Plan Land Use Zones (see ACTMapiTP)
+  • ACT Road Centrelines (see ACTMapiRoads)
+  • ACT Blocks (see ACTBlocks)
+  • ACT Feature Names ((see ACTNames)
+
+OpenStreetMap has been given explicit permission from ACTmapi further formalised via the CC BY waiver to incorporate ACT Government CC BY licensed geospatial datasets into OpenStreetMap provided that this attribution is made on this Contributors page.
+
+New South Wales Government data
+
+New South Wales Spatial Services
+
+  • Contains data and information derived from New South Wales Government public information datasets. The original datasets are available from Department of Customer Service Spatial Services under the Creative Commons Attribution 4.0 Licence (formerly Land and Property Information, DFSI).
+  • We have been given explicit permission and have been provided with the LWG's standard CC BY waiver to incorporate and publish such CC-BY licensed geographic coordinate datasets under free and open licence, provided that primary attribution is made here and that each dataset used is also listed here in the format Dataset Name, Date Published, License, Publishing Organisation Name, URL from which originally retrieved.
+      □ NSW Base Map, 6, December 2015 to present, CC-BY 4.0, Spatial Services, Department of Customer Service https://www.spatial.nsw.gov.au/products_and_services/web_services/access_web_services (see NSW LPI Base Map)
+      □ NSW Imagery, 7, December 2015 to present, CC-BY 4.0, Spatial Services, Department of Customer Service https://www.spatial.nsw.gov.au/products_and_services/web_services/access_web_services
+      □ NSW Administrative Boundaries, 7, December 2015 to present, CC-BY 4.0, Spatial Services, Department of Customer Service https://www.spatial.nsw.gov.au/products_and_services/web_services/access_web_services
+      □ NSW Topographic Map, 7, December 2015 to present, CC-BY 4.0, Spatial Services, Department of Customer Service https://www.spatial.nsw.gov.au/products_and_services/web_services/access_web_services
+      □ NSW Address Location Service, 17, December 2015 to present, CC-BY 4.0, Spatial Services, Department of Customer Service https://www.spatial.nsw.gov.au/products_and_services/web_services/access_web_services
+      □ NSW Property, 17, December 2015 to present, CC-BY 4.0, Spatial Services, Department of Customer Service https://www.spatial.nsw.gov.au/products_and_services/web_services/access_web_services
+
+Geographical Name Register (GNR) of NSW
+
+  • Contains data and information derived from Geographical Name Register (GNR) of NSW, © State of New South Wales through the Geographical Names Board 2016. (Original waiver form)
+
+NSW Department of Education
+
+  • Master dataset: NSW government school locations and student enrolment numbers, NSW Department of Education, CC BY 4.0. (waiver form)
+
+NSW National Parks and Wildlife Service
+
+  • https://datasets.seed.nsw.gov.au/dataset/asset-infrastructure-landing, © State Government of NSW and Department of Planning, Industry and Environment 2017.
+
+Transport for NSW
+
+  • Cycleway Data: https://opendata.transport.nsw.gov.au/dataset/cycleway-data, Transport For NSW, CC BY 4.0 (waiver form)
+  • Public Transport Data (including routes and stop locations): https://opendata.transport.nsw.gov.au/dataset/timetables-complete-gtfs, Transport For NSW, CC BY 4.0 (waiver form)
+  • Some traffic lights were identified through the Traffic Lights Location dataset, CC BY 4.0 (with waiver)
+
+NSW Department of Planning, Industry and Environment
+
+  • Explicit permission (via waiver) has been received on 19 January 2021 from the Director for Spatial and Data to use the Environmental Planning Instrument - Land Zoning dataset.
+      □ Licence: CC-BY 4.0
+      □ Origin: Department of Planning, Industry and Environment Planning Portal
+      □ First Published: 29 Decemeber 2008.
+      □ Update Frequency: Weekly. Normally every Wednesday night (AEST/AEDT).
+      □ Links involved in accessing this data for OSM use:
+          ☆ https://www.planningportal.nsw.gov.au/opendata/dataset/environment-planning-instrument-local-environmental-plan-land-zoning
+          ☆ https://www.planningportal.nsw.gov.au/opendata/dataset/33392e59-cbf5-4a2d-8419-02efd1319e97/metaexport/html
+          ☆ https://www.planningportal.nsw.gov.au/opendata/dataset/environment-planning-instrument-local-environmental-plan-land-zoning/resource/data_quality_report/pdp
+          ☆ https://mapprod3.environment.nsw.gov.au/arcgis/rest/services/Planning/EPI_Primary_Planning_Layers/MapServer
+          ☆ https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fmapprod3.environment.nsw.gov.au%2Farcgis%2Frest%2Fservices%2FePlanning%2FPlanning_Portal_Layers%2FMapServer&source=sd
+      □ Custom Basemap: https://api.apps1.nsw.gov.au/planning/arcgis/V1/rest/services/ePlanning/Planning_Portal_Layers/MapServer/export?bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&f=image&size={width}%2C{height}&layers=hide&dynamicLayers=%5B%7B"id"%3A19%2C"source"%3A%7B"mapLayerId"%3A19%2C"type"%3A"mapLayer"%7D%2C"drawingInfo"%3A%7B"showLabels"%3Atrue%2C"transparency"%3A50%7D%7D%5D
+
+Queensland Government data
+
+  • Contains Protected areas of Queensland data © State of Queensland (Department of Environment and Science) 2018. Updated data available at http://qldspatial.information.qld.gov.au/catalogue/. Creative Commons Attribution 3.0 Australia with the OSMF waiver.
+  • Contains data © State of Queensland (Department of Natural Resources, Mines and Energy) 2020 licensed under CC BY 4.0. (ref)
+
+Department of Transport and Main Roads
+
+  • Contains data source from "State controlled roads surveyed centerline - Queensland, State of Queensland (Department of Transport and Main Roads)" (waiver)
+
+We have been given explicit permission to incorporate Transport and Main Roads datasets sourced through the Queensland Government data portal. The following statement has been provided for attribution purposes:
+
+"Contains data from Queensland government public information datasets. The original datasets are available from the Queensland Government data portal and are subject to Creative Commons licensing. This permission is granted provided that attribution of each dataset used is given in the format Dataset Name, Date Published, Licence, Transport and Main Roads, originally retrieved from http://data.qld.gov.au"
+
+  • General transit feed specification (GTFS)—qconnect, 24 December 2013, CC-BY 3.0 Australia, Transport and Main Roads, originally retrieved from http://data.qld.gov.au
+  • General transit feed specification (GTFS)—SEQ, 24 December 2013, CC-BY 3.0 Australia, Transport and Main Roads, originally retrieved from http://data.qld.gov.au
+
+Brisbane City Council data
+
+We have been given explicit permission and the CC BY waiver with the following provided attribution statement and conditions:
+
+“Contains data from Brisbane City Council public information datasets. The original datasets are available from Brisbane City Council’s Open Data data website Creative Commons - Attribution 4.0 (CC-BY). We have also been given explicit permission to incorporate and publish such CC-BY licensed geographic coordinate datasets under a free and open license, including the Open Database License, provided that primary attribution is made here and that each dataset used is also listed here in the format Dataset Name, Date Published, License, Agency Name, originally retrieved from http://data.brisbane.qld.gov.au”
+
+  • Park facilities and assets, 16/09/2015, Creative Commons Attribution 4.0, Brisbane Infrastructure, originally retrieved from http://data.brisbane.qld.gov.au
+  • Cemetery locations, 29/06/2015, Creative Commons Attribution 4.0, Brisbane City Council, originally retrieved from http://data.brisbane.qld.gov.au
+
+South Australian Government data
+
+Contains data from South Australian government public information datasets. The original datasets are available from the South Australian government data directory http://www.data.sa.gov.au/ under a Creative Commons Attribution Licence. Where specific licence terms (such as Creative Commons) are applied to datasets, those licence terms shall prevail over any inconsistent provisions in this statement. We have also been given explicit permission to incorporate and publish such CC-BY licensed geographic coordinate datasets under a free and open license, including the Open Database License, provided that primary attribution is made here and that each dataset used is also listed here in the format Dataset Name, Date Published, License, Publishing Organisation Name, originally retrieved from http://data.sa.gov.au". This explicit permission presumably also applies when viewing the datasets using http://location.sa.gov.au/viewer/, but does not apply to the basemaps (Roads, Satellite, Topographic). Permission has
+been further formalised with the OSMF Waiver.
+
+  • Character Preservation Districts, published 2015 and updated 21 October 2016, CC-BY 4.0 International, Department of Planning, Transport and Infrastructure, originally retrieved from https://data.sa.gov.au/data/dataset/character-preservation-districts
+  • Conservation Reserve Boundaries, published 2013 and updated 20 September 2016, CC-BY 4.0 International, Department of Environment, Water and Natural Resources, originally retrieved from http://www.data.sa.gov.au/data/dataset/conservation-reserve-boundaries
+  • Land Division Applications, Creative Commons Attribution 3.0 Australia Licence, Department of Planning, Transport and Infrastructure, retrieved using http://location.sa.gov.au/viewer/
+  • Local Government Areas, published 2013 and updated 8 November 2016, CC-BY 4.0 International, Department of Planning, Transport and Infrastructure, originally retrieved from https://data.sa.gov.au/data/dataset/local-government-areas
+  • Place names (State Gazetteer),published 2013 and updated 30 June 2016, CC-BY 4.0 International, Department of Planning, Transport and Infrastructure, originally retrieved from https://data.sa.gov.au/data/dataset/gazetteer
+  • Roads, published 2013 and updated 25 November 2016, CC-BY 4.0 International, Department of Planning, Transport and Infrastructure, originally retrieved from http://www.data.sa.gov.au/dataset/roads
+  • Suburbs, published 2013 and updated 23 December 2016, CC-BY 4.0 International, Department of Planning, Transport and Infrastructure, originally retrieved from https://data.sa.gov.au/data/dataset/suburb-boundaries
+  • Water bodies, published 2013 and updated 16 June 2016, CC-BY 4.0 International, Department of Environment, Water and Natural Resources, originally retrieved from http://data.sa.gov.au/dataset/waterbodies-in-south-australia
+  • Watercourses in South Australia, published 2014 and updated 16 June 2016, CC-BY 4.0 International, Department of Environment, Water and Natural Resources, originally retrieved from http://data.sa.gov.au/dataset/watercourses-in-south-australia
+  • Marine Park Network Boundaries, published 2013 updated 21 March 2022, CC-BY 4.0, Department for Environment and Water, originally retrieved from https://data.sa.gov.au/data/dataset/marine-park-network-boundaries
+
+Victorian Government data
+
+Contains Vicmap data from the Victorian Government Data Directory: data.vic.gov.au under Creative Commons Attribution 4.0 International (CC-BY 4.0). The OSMF CC BY 4.0 waiver has been completed by DELWP at File:Vicmap_CCBYPermission_OSM_Final_Jan2018_Ltr.pdf.
+
+  • Vicmap Transport, CC-BY 4.0 , Department of Environment and Primary Industries, originally retried from http://www.data.vic.gov.au/raw_data/vicmap-transport-scale-various/4840
+  • Vicmap Hydro, CC-BY 4.0 , Department of Environment and Primary Industries, originally retried from http://www.data.vic.gov.au/raw_data/vicmap-hydro-1-25-000/5162
+  • Vicmap Admin, CC-BY 4.0 , Department of Environment and Primary Industries, originally retried from http://www.data.vic.gov.au/raw_data/vicmap-admin/4866 [dead link]
+  • Vicmap Address, CC-BY 4.0 , Department of Environment and Primary Industries, originally retried from http://www.data.vic.gov.au/raw_data/address-vicmap-address/5223
+  • Vicmap LITE, CC-BY 4.0 , Department of Environment and Primary Industries, originally retried from http://www.data.vic.gov.au/raw_data/vicmap-lite/5016
+
+City of Melbourne data
+
+We have been given explicit permission to use all public spatial data, with the following attribution statement and disclaimer.
+
+"Contains data derived from the City of Melbourne's open data."
+
+Disclaimer:
+
+"While all due care has been taken to ensure the data of this website is accurate and current, there may be errors or omissions in it. The City of Melbourne and its employees accept no responsibility for the completeness, accuracy or reliability of the data. The City of Melbourne and its employees also accept no responsibility for any loss, damage, claim, expense, cost or liability whatsoever (including in contract, tort including negligence, pursuant to statue and otherwise) arising in respect of or in connection with using or reliance upon the data in this website."
+
+Hobsons Bay City Council data
+
+Contains data from Hobsons Bay City Council datasets on data.gov.au. Permission has been granted with this waiver, covering CC BY 2.5 and CC BY 3.0.
+
+Victorian Ports Corporation (Melbourne)
+
+Contains Steer Clear areas in Port Phillip supplied by Victorian Ports Corporation (Melbourne) as published under the Creative Commons CC BY 4.0 license. (waiver)
+
+Wyndham City Council data
+
+Contains data from Wyndham City Council datasets on data.gov.au. Permission has been granted with this waiver, covering CC BY 2.5 and CC BY 3.0.
+
+Western Australia
+
+Main Roads (state government agency)
+
+OpenStreetMap contains data from Main Roads Western Australia public datasets. We have been given explicit permission to incorporate and publish such CC-BY licensed geographic coordinate datasets into OpenStreetMap provided that primary attribution is made here on the Contributors wiki page.
+
+The Commissioner of Main Roads is the creator and owner of the data and Licenced Material, which is accessed pursuant to a Creative Commons (Attribution) Licence, which has a disclaimer of warranties and limitation of liability. Creative Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+Note that you are accessing this data pursuant to a Creative Commons (Attribution) Licence which has a disclaimer of warranties and limitation of liability. You accept that the data provided pursuant to the Licence is subject to changes. Pursuant to section 3 of the Licence you are provided with the following notice to be included when you Share the Licenced Material:— The Commissioner of Main Roads is the creator and owner of the data and Licenced Material, which is accessed pursuant to a Creative Commons (Attribution) Licence, which has a disclaimer of warranties and limitation of liability. Creative Commons CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+Datasets used:
+
+ 1. Road Network (MRWA-514)
+ 2. Road Hierarchy (MRWA-515)
+
+Permission granted via email from Sanath Jayamanna and formalised with the CC BY 4.0 OSMF Waiver.
+
+●New Zealand
+
+LINZ
+
+Contains data sourced from Land Information New Zealand. Crown Copyright reserved. Land Information New Zealand gives no warranty in relation to the data, including its accuracy, reliability and suitability and accepts no liability whatsoever in relation to any loss, damage or other costs relating to the use of any data, any compilations, derivative works or modifications of the data.
+
+    NZ Topo50 Gridless Maps: Sourced from the LINZ Data Service https://data.linz.govt.nz/layer/2343-nz-topo50-gridless-maps/ and licensed by LINZ for re-use under the Creative Commons Attribution 3.0 New Zealand licence.
+    NZ Aerial Imagery: Sourced from the LINZ Data Service https://data.linz.govt.nz/set/2-nz-aerial-imagery/ and licensed by LINZ for re-use under the Creative Commons Attribution 3.0 New Zealand licence. http://www.linz.govt.nz/data/licensing-and-using-data/attributing-aerial-imagery-data
+    See LINZ's website and the OSM LINZ wiki page for more information.
+    See LINZ OSM CC BY Waiver Form
+
+Department of Conservation (DOC) (New Zealand)
+
+The information and data are provided as a public service by the Department of Conservation (DOC) under the following conditions:
+
+    1) The information supplied is provided for general information only.
+    2) The Department of Conservation makes no claims, promises or guarantees as to the accuracy or completeness of the information, or its suitability for any purpose.
+    3) The Department of Conservation does not accept any liability for the content and shall not be responsible or liable for any claims of any kind arising from the use of the information.
+    4) The Crown (through the Department of Conservation) remains the sole owner of the intellectual property in the information on this disk.
+
+See DOC#Data_Attribution for more details
+
+Statistics New Zealand
+
+Licensed from Statistics New Zealand under Creative Commons Attribution 3.0 New Zealand License.
+
+Christchurch City Council
+
+Licensed from Christchurch City Council under Creative Commons Attribution 3.0 New Zealand License.
+
+Bay of Plenty Regional Council
+
+Licensed from Bay of Plenty Regional Council under Creative Commons Attribution 3.0 New Zealand License.
+
+Manawatu District Council
+
+Licensed from Manawatu District Council under Creative Commons Attribution 3.0 New Zealand License.
+
+Auckland Council
+
+Licenced from Auckland Council under Creative Commons Attribution 3.0 New Zealand License.
+
+Auckland Transport
+
+Auckland Transport have signed the CC-BY Waiver Form for their open GIS data (licensed under CC-BY 4.0), but requested that the signed form is not published online. For information regarding the waiver, please email info@at.govt.nz
+
+Wellington City Council
+
+Licenced from Wellington City Council under Creative Commons Attribution 3.0 New Zealand License.
+
+Greater Wellington Regional Council
+
+Metlink's website does not mention what license their GTFS data is available under. In response to an email sent on 29 April 2021 (File:Metlink-License-Email.pdf), Metlink gave explicit consent for its GTFS data to be used in OpenStreetMap:
+
+"Metlink has no objections to geodata derived in part from Metlink’s GTFS data being incorporated into the OpenStreetMap project geodata database and released under a free and open license."
+
+Otago Regional Council
+
+Data from Otago Regional Council is licensed under CC-BY 4.0. In response to an email sent on 29 April 2021 (File:ORC-License-Email.pdf), Otago Regional Council gave explicit consent for its public data to be used in OpenStreetMap:
+
+"We are happy for you to re-use this data, and any other publicly available data as you like. Although we release it under CC-BY, the information is owned by the ratepayer and we encourage it’s [sic] free and creative re-use."
+
+Waikato Regional Council
+
+BusIt's website does not mention what license their GTFS data is available under. In response to an email sent on 29 April 2021 (File:WRC-License-Email.pdf), Waikato Regional Council gave explicit consent for its GTFS data to be used in OpenStreetMap:
+
+"I can confirm that Waikato Regional Council has no objections to geodata derived in part from Waikato Regional Council’s GTFS data being incorporated into the OpenStreetMap project geodata database and released under a free and open license."
+
+●Cook Islands
+
+See #New Zealand. Data from Land Information New Zealand (LINZ) covers the Cook Islands under the same license.
+
+●Tokelau
+
+See #New Zealand. Data from Land Information New Zealand (LINZ) covers Tokelau under the same license.
+
+●Niue
+
+See #New Zealand. Data from Land Information New Zealand (LINZ) covers Niue under the same license.
+
+●Antarctica
+
+ADD (Antarctic Digital Database)
+
+The Antarctic Digital Database is copyright (c) 1993-2013 Scientific Committee on Antarctic Research. OpenStreetMap may use this data by permission of the SCAR.
+
+Information in the Antarctic Digital Database has been obtained from sources believed to be reliable but its accuracy and completeness, and the validity of the opinions based thereon, are not guaranteed. As every effort has been made to provide accurate information in this database, SCAR would appreciate it if users could indicate in writing any errors that may be noticed. SCAR is not inviting reliance on these data, and the user should always check original published data. The information in this database is subject to change.
+
+See the ADD terms for specific warnings concerning use of the data.
+
+LINZ (Land Information New Zealand)
+
+See #New Zealand. Data from Land Information New Zealand (LINZ) covers the ● Ross Dependency under the same license.
+
+Others
+
+Since detail on the contributions is missing, these are listed here:
+
+  • Frida
+  • Southern Sudan
+  • Zenbu
+  • auto_gns_ar
+  • UFRO
+  • Italian Borders
+  • INC (Institut National de Cartographie, Yaoundé, Cameroon)
+  • WRI (World Resources Institut, Washington, USA)
+
+References
+
+ 1. ↑ Tom Hughes (28 March 2021). “OSM-talk Copyright page vs Contributors page"”. https://lists.openstreetmap.org/pipermail/talk/2021-March/086373.html.[S: :S]
+ 2. ↑ http://www.usgs.gov/laws/info_policies.html
+ 3. ↑ Heaton, Brian. March 4, 2015. Maryland Legislation Would Encourage Release of GIS Data. Government Technology Magazine.
+ 4. ↑ Maryland Association of Counties. March 25, 2015. Senate Bill 94 Support. PDF.
+ 5. ↑ Nutzungsbestimmungen für Geodaten des Landes Steiermark, Jan. 2013 (PDF, in German)
+
+See also
+
+  • Users by geographical region
+
+Retrieved from "https://wiki.openstreetmap.org/w/index.php?title=Contributors&oldid=2359421"
+Category:
+
+  • Attributions
+
+Hidden categories:
+
+  • Pages unavailable in German
+  • Pages unavailable in French
+  • Pages unavailable in Dutch
+  • Pages unavailable in Russian
+  • Translate to German
+
+Navigation menu
+
+Personal tools
+
+  • English
+  • Create account
+  • Log in
+
+Namespaces
+
+  • Page
+  • Discussion
+
+[ ]
+
+Variants expanded collapsed
+
+Views
+
+  • Read
+  • View source
+  • View history
+
+[ ]
+
+More expanded collapsed
+
+Search
+
+[                    ] [Search] [Go]
+ 
+
+site
+
+  • Main Page
+  • The map
+  • Map Features
+  • Contributors
+  • Help
+  • Blogs
+  • Shop
+  • Donations
+  • Wiki discussion
+  • Recent changes
+
+Tools
+
+  • What links here
+  • Related changes
+  • Special pages
+  • Printable version
+  • Permanent link
+  • Page information
+  • Cite this page
+
+In other languages
+
+Add links
+
+  • This page was last edited on 23 July 2022, at 01:49.
+  • Content is available under Creative Commons Attribution-ShareAlike 2.0 license unless otherwise noted.
+
+  • Privacy policy
+  • About OpenStreetMap Wiki
+  • Disclaimers
+  • Mobile view
+
+  • Creative Commons Attribution-ShareAlike 2.0 license
+  • Powered by MediaWiki
+
